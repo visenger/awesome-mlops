@@ -1,8 +1,8 @@
 # MLOps References
 
-4. [Book “Machine Learning Engineering” by Andriy Burkov](http://www.mlebook.com/wiki/doku.php?id=start)
-4. Book "Accelerated DevOps with AI, ML & RPA: Non-Programmer's Guide to AIOPS & MLOPS" by Stephen Fleming
-4. [Book "Building Machine Learning Powered Applications" by  Emmanuel Ameisen](https://learning.oreilly.com/library/view/building-machine-learning/9781492045106/)
+1. [Book “Machine Learning Engineering” by Andriy Burkov](http://www.mlebook.com/wiki/doku.php?id=start)
+2. Book "Accelerated DevOps with AI, ML & RPA: Non-Programmer's Guide to AIOPS & MLOPS" by Stephen Fleming
+3. [Book "Building Machine Learning Powered Applications" by  Emmanuel Ameisen](https://learning.oreilly.com/library/view/building-machine-learning/9781492045106/)
 4. [Book "Managing Data Science" by Kirill Dubovikov](https://www.packtpub.com/eu/data/managing-data-science)
 4. [Book "Evaluating Machine Learning Models" by Alice Zheng](https://learning.oreilly.com/library/view/evaluating-machine-learning/9781492048756/)
 5. [Continuous Delivery for Machine Learning (by Thoughtworks)](https://martinfowler.com/articles/cd4ml.html)
