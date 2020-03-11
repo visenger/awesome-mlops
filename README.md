@@ -1,11 +1,9 @@
-
 # MLOps References
 
-2. Book, Aurélien Géron,"Hands-On Machine Learning with Scikit-Learn and TensorFlow" 
-3. Book “Accelerate”
-4. Book “ML Engineering” A.Burkov
+4. [Book “Machine Learning Engineering” by Andriy Burkov](http://www.mlebook.com/wiki/doku.php?id=start)
 4. Book "Accelerated DevOps with AI, ML & RPA: Non-Programmer's Guide to AIOPS & MLOPS" by Stephen Fleming
 4. [Book "Building Machine Learning Powered Applications" by  Emmanuel Ameisen](https://learning.oreilly.com/library/view/building-machine-learning/9781492045106/)
+4. [Book "Managing Data Science" by Kirill Dubovikov](https://www.packtpub.com/eu/data/managing-data-science)
 4. [Book "Evaluating Machine Learning Models" by Alice Zheng](https://learning.oreilly.com/library/view/evaluating-machine-learning/9781492048756/)
 5. [Continuous Delivery for Machine Learning (by Thoughtworks)](https://martinfowler.com/articles/cd4ml.html)
 5. [Linux Foundation AI Foundation](https://wiki.lfai.foundation/)
@@ -49,6 +47,9 @@
 29. [Batch Inference for Machine Learning Deployment](https://mlinproduction.com/batch-inference-for-machine-learning-deployment-deployment-series-03/)
 29. [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 29. [AI meets operations](https://www.oreilly.com/radar/ai-meets-operations/)
+29. [What would machine learning look like if you mixed in DevOps? Wonder no more, we lift the lid on MLOps](https://www.theregister.co.uk/2020/03/07/devops_machine_learning_mlops/)
+29. [Forbes: The Emergence Of ML Ops](https://www.forbes.com/sites/cognitiveworld/2020/03/08/the-emergence-of-ml-ops/#72f04ed04698)
+29. [Cognilytica Report "ML Model Management and Operations 2020 (MLOps)"](https://www.cognilytica.com/2020/03/03/ml-model-management-and-operations-2020-mlops/) 
 
 
 # Papers
@@ -58,6 +59,8 @@
 4. [Scaling Machine Learning as a Service (Uber)](http://proceedings.mlr.press/v67/li17a/li17a.pdf)
 5. [What’s your ML Test Score? A rubric for ML production systems](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45742.pdf)
 
+# Talks
+1. [DeliveryConf 2020. "Continuous Delivery For Machine Learning: Patterns And Pains" by Emily Gorcenski](https://youtu.be/bFW5mZmj0nQ)
 
 # Existing ML Systems
 1. [Introducing FBLearner Flow: Facebook’s AI backbone](https://engineering.fb.com/ml-applications/introducing-fblearner-flow-facebook-s-ai-backbone/)
@@ -68,6 +71,7 @@
 6. [What are Azure Machine Learning pipelines?](https://docs.microsoft.com/en-gb/azure/machine-learning/concept-ml-pipelines)
 
 # Machine Learning 
+1. Book, Aurélien Géron,"Hands-On Machine Learning with Scikit-Learn and TensorFlow"
 1. [Foundations of Machine Learning](https://bloomberg.github.io/foml/)
 2. [Best Resources to Learn Machine Learning](https://www.trainindata.com/post/best-resources-to-learn-machine-learning)
 2. [Zhi-Hua Zhou. 2012. Ensemble Methods: Foundations and Algorithms. Chapman & Hall/CRC.](https://www.amazon.com/exec/obidos/ASIN/1439830037/acmorg-20)
@@ -77,8 +81,8 @@
 
 # Software Engineering
 1. [The Twelve Factors](https://12factor.net/)
+3. [Book "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations", 2018 by Nicole Forsgren et.al](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 
-
-
-
-
+# The Economics of ML/AI
+1. [Book: "Prediction Machines: The Simple Economics of Artificial Intelligence"](https://www.predictionmachines.ai/)
+2. [A list of articles about AI and the economy](https://www.predictionmachines.ai/articles)
