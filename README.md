@@ -67,6 +67,7 @@
 # Talks
 1. [DeliveryConf 2020. "Continuous Delivery For Machine Learning: Patterns And Pains" by Emily Gorcenski](https://youtu.be/bFW5mZmj0nQ)
 2. [MLOps Conference: Talks from 2019](https://www.mlopsconf.com?wix-vod-comp-id=comp-k1ry4afh)
+3. [A CI/CD Framework for Production Machine Learning at Massive Scale (using Jenkins X and Seldon Core)](https://youtu.be/68_Phxwaj-k)
 
 
 # Existing ML Systems
@@ -86,6 +87,8 @@
 3. [Google Research: Looking Back at 2019, and Forward to 2020 and Beyond](https://ai.googleblog.com/2020/01/google-research-looking-back-at-2019.html)
 4. [O’Reilly: The road to Software 2.0](https://www.oreilly.com/radar/the-road-to-software-2-0/?sfmc_id=89205211&utm_medium=email&utm_source=platform+b2c&utm_campaign=engagement&utm_content=whats+new+thinking+20200120)
 5. [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning)
+6. [Deep Learning for Anomaly Detection](https://ff12.fastforwardlabs.com/)
+7. [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/pdf/1811.03604.pdf)
 
 # Software Engineering
 1. [The Twelve Factors](https://12factor.net/)
@@ -94,3 +97,9 @@
 # The Economics of ML/AI
 1. [Book: "Prediction Machines: The Simple Economics of Artificial Intelligence"](https://www.predictionmachines.ai/)
 2. [A list of articles about AI and the economy](https://www.predictionmachines.ai/articles)
+3. [Getting started with AI? Start here! Everything you need to know to dive into your project](https://medium.com/hackernoon/the-decision-makers-guide-to-starting-ai-72ee0d7044df)
+4. [11 questions to ask before starting a successful Machine Learning project](https://tryolabs.com/blog/2019/02/13/11-questions-to-ask-before-starting-a-successful-machine-learning-project/)
+5. [What AI still can’t do](https://www.technologyreview.com/s/615189/what-ai-still-cant-do/)
+6. [Demystifying AI Part 4: What is an AI Canvas and how do you use it?](https://thebrainfiles.wearebrain.com/demystifying-ai-part-4-what-is-an-ai-canvas-and-how-do-you-use-it-8899b9199a9)
+7. [Is your AI project a nonstarter? Here’s a reality check(list) to help you avoid the pain of learning the hard way](https://medium.com/hackernoon/ai-reality-checklist-be34e2fdab9)
+8. [What is THE main reason most ML projects fail?](https://towardsdatascience.com/what-is-the-main-reason-most-ml-projects-fail-515d409a161f)
