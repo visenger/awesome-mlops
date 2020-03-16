@@ -2,7 +2,7 @@
 
 1. [Book “Machine Learning Engineering” by Andriy Burkov](http://www.mlebook.com/wiki/doku.php?id=start)
 2. Book "Accelerated DevOps with AI, ML & RPA: Non-Programmer's Guide to AIOPS & MLOPS" by Stephen Fleming
-3. [Book "Building Machine Learning Powered Applications" by  Emmanuel Ameisen](https://learning.oreilly.com/library/view/building-machine-learning/9781492045106/)
+4. [Book "Building Machine Learning Powered Applications" by  Emmanuel Ameisen](https://learning.oreilly.com/library/view/building-machine-learning/9781492045106/)
 4. [Book "Managing Data Science" by Kirill Dubovikov](https://www.packtpub.com/eu/data/managing-data-science)
 4. [Book "Evaluating Machine Learning Models" by Alice Zheng](https://learning.oreilly.com/library/view/evaluating-machine-learning/9781492048756/)
 5. [Continuous Delivery for Machine Learning (by Thoughtworks)](https://martinfowler.com/articles/cd4ml.html)
@@ -50,6 +50,10 @@
 29. [What would machine learning look like if you mixed in DevOps? Wonder no more, we lift the lid on MLOps](https://www.theregister.co.uk/2020/03/07/devops_machine_learning_mlops/)
 29. [Forbes: The Emergence Of ML Ops](https://www.forbes.com/sites/cognitiveworld/2020/03/08/the-emergence-of-ml-ops/#72f04ed04698)
 29. [Cognilytica Report "ML Model Management and Operations 2020 (MLOps)"](https://www.cognilytica.com/2020/03/03/ml-model-management-and-operations-2020-mlops/) 
+29. [Introducing Cloud AI Platform Pipelines](https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-ai-platform-pipelines)
+29. [A Guide to Production Level Deep Learning ](https://github.com/alirezadir/Production-Level-Deep-Learning/blob/master/README.md)
+29. [The 5 Components Towards Building Production-Ready Machine Learning Systems](https://medium.com/cracking-the-data-science-interview/the-5-components-towards-building-production-ready-machine-learning-system-a4d5237ec04e)
+29. [Spring 2019 Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
 
 
 # Papers
@@ -58,9 +62,12 @@
 3. [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
 4. [Scaling Machine Learning as a Service (Uber)](http://proceedings.mlr.press/v67/li17a/li17a.pdf)
 5. [What’s your ML Test Score? A rubric for ML production systems](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45742.pdf)
+6. [Adversarial Machine Learning Reading List](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html)
 
 # Talks
 1. [DeliveryConf 2020. "Continuous Delivery For Machine Learning: Patterns And Pains" by Emily Gorcenski](https://youtu.be/bFW5mZmj0nQ)
+2. [MLOps Conference: Talks from 2019](https://www.mlopsconf.com?wix-vod-comp-id=comp-k1ry4afh)
+
 
 # Existing ML Systems
 1. [Introducing FBLearner Flow: Facebook’s AI backbone](https://engineering.fb.com/ml-applications/introducing-fblearner-flow-facebook-s-ai-backbone/)
@@ -78,6 +85,7 @@
 2. [Feature Engineering for Machine Learning. Principles and Techniques for Data Scientists.By Alice Zheng, Amanda Casari]()
 3. [Google Research: Looking Back at 2019, and Forward to 2020 and Beyond](https://ai.googleblog.com/2020/01/google-research-looking-back-at-2019.html)
 4. [O’Reilly: The road to Software 2.0](https://www.oreilly.com/radar/the-road-to-software-2-0/?sfmc_id=89205211&utm_medium=email&utm_source=platform+b2c&utm_campaign=engagement&utm_content=whats+new+thinking+20200120)
+5. [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning)
 
 # Software Engineering
 1. [The Twelve Factors](https://12factor.net/)
