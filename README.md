@@ -101,5 +101,8 @@
 4. [11 questions to ask before starting a successful Machine Learning project](https://tryolabs.com/blog/2019/02/13/11-questions-to-ask-before-starting-a-successful-machine-learning-project/)
 5. [What AI still can’t do](https://www.technologyreview.com/s/615189/what-ai-still-cant-do/)
 6. [Demystifying AI Part 4: What is an AI Canvas and how do you use it?](https://thebrainfiles.wearebrain.com/demystifying-ai-part-4-what-is-an-ai-canvas-and-how-do-you-use-it-8899b9199a9)
+6. [A Data Science Workflow Canvas to Kickstart Your Projects](https://towardsdatascience.com/a-data-science-workflow-canvas-to-kickstart-your-projects-db62556be4d0)
 7. [Is your AI project a nonstarter? Here’s a reality check(list) to help you avoid the pain of learning the hard way](https://medium.com/hackernoon/ai-reality-checklist-be34e2fdab9)
 8. [What is THE main reason most ML projects fail?](https://towardsdatascience.com/what-is-the-main-reason-most-ml-projects-fail-515d409a161f)
+9. [Designing great data products. The Drivetrain Approach: A four-step process for building data products.](https://www.oreilly.com/radar/drivetrain-approach-data-products/)
+10. [The New Business of AI (and How It’s Different From Traditional Software)](https://a16z.com/2020/02/16/the-new-business-of-ai-and-how-its-different-from-traditional-software/)
