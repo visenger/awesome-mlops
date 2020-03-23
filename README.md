@@ -54,6 +54,7 @@
 29. [A Guide to Production Level Deep Learning ](https://github.com/alirezadir/Production-Level-Deep-Learning/blob/master/README.md)
 29. [The 5 Components Towards Building Production-Ready Machine Learning Systems](https://medium.com/cracking-the-data-science-interview/the-5-components-towards-building-production-ready-machine-learning-system-a4d5237ec04e)
 29. [Spring 2019 Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
+30. [Deep Learning in Production (references about deploying deep learning-based models in production)](https://github.com/ahkarami/Deep-Learning-in-Production)
 
 
 # Papers
