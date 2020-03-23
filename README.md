@@ -64,6 +64,26 @@
 4. [Scaling Machine Learning as a Service (Uber)](http://proceedings.mlr.press/v67/li17a/li17a.pdf)
 5. [What’s your ML Test Score? A rubric for ML production systems](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45742.pdf)
 6. [Adversarial Machine Learning Reading List](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html)
+7. [Workshop on MLOps Systems. 2020 Third Conference on Machine Learning and Systems (MLSys)](https://mlops-systems.github.io/)
+7. *sensAI: Fast ConvNets Serving on Live Data via Class Parallelism.* Guanhua Wang, Zhuang Liu, Siyuan Zhuang, Brandon Hsieh, Joseph Gonzalez and Ion Stoica.
+7. *Towards Automated ML Model Monitoring: Measure, Improve and Quantify Data Quality.* Tammo Rukat, Dustin Lange, Sebastian Schelter and Felix Biessmann.
+7. *Towards Automating the AI Operations Lifecycle.* Matthew Arnold, Jeff Boston, Michael Desmond, Evelyn Duesterwald, Benjamin Elder, Anupama Murthi, Jiri Navratil and Darrell Reimer.
+7. *Efficient Scheduling of DNN Training on Multitenant Clusters.* Deepak Narayanan, Keshav Santhanam, Amar Phanishayee and Matei Zaharia.
+7. *Towards Complaint-driven ML Workflow Debugging.* Weiyuan Wu, Lampros Flokas, Eugene Wu and Jiannan Wang.
+7. *PerfGuard: Deploying ML-for-Systems without Performance Regressions.* H M Sajjad Hossain, Lucas Rosenblatt, Gilbert Antonius, Irene Shaffer, Remmelt Ammerlaan, Abhishek Roy, Markus Weimer, Hiren Patel, Marc Friedman, Shi Qiao, Peter Orenberg, Soundarajan Srinivasan and Alekh Jindal.
+7. *Implicit Provenance for Machine Learning Artifacts.* Alexandru A. Ormenisan, Mahmoud Ismail, Seif Haridi and Jim Dowling.
+7. *Addressing the Memory Bottleneck in AI Model-Training.* David Ojika, Bhavesh Patel, G Anthony Reina, Trent Boyer, Chad Martin and Prashant Shah.
+7. *Simulating Performance of ML Systems with Offline Profiling.* Hongming Huang, Peng Cheng, Hong Xu and Yongqiang Xiong.
+7. *A Viz Recommendation System: ML Lifecycle at Tableau.* Kazem Jahanbakhsh, Eric Borchu, Mya Warren, Xiang-Bo Mao and Yogesh Sood.
+7. *CodeReef: an open portal for cross-platform MLOps and reproducible benchmarking.* Grigori Fursin, Herve Guillou and Nicolas Essayan.
+7. *Towards split learning at scale: System design.* Iker Rodríguez, Eduardo Muñagorri, Alberto Roman, Abhishek Singh, Praneeth Vepakomma and Ramesh Raskar.
+7. *MLBox: Towards Reproducible ML.* Victor Bittorf, Xinyuan Huang, Peter Mattson, Debojyoti Dutta, David Aronchick, Emad Barsoum, Sarah Bird, Sergey Serebryakov, Natalia Vassilieva, Tom St. John, Grigori Fursin, Srini Bala, Sivanagaraju Yarramaneni, Alka Roy, David Kanter and Elvira Dzhuraeva.
+7. *Conversational Applications and Natural Language Understanding Services at Scale.* Minh Tue Vo Thanh and Vijay Ramakrishnan.
+7. *Towards Distribution Transparency for Supervised ML With Oblivious Training Functions.* Moritz Meister, Sina Sheikholeslami, Robin Andersson, Alexandru Ormenisan and Jim Dowling.
+7. *Tools for machine learning experiment management.* Vlad Velici and Adam Prügel-Bennett.
+7. *MLPM: Machine Learning Package Manager.* Xiaozhe Yao.
+7. *Common Problems with Creating Machine Learning Pipelines from Existing Code.* Katie O’Leary, Makoto Uchida.
+
 
 # Talks
 1. [DeliveryConf 2020. "Continuous Delivery For Machine Learning: Patterns And Pains" by Emily Gorcenski](https://youtu.be/bFW5mZmj0nQ)
