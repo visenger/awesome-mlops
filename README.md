@@ -110,6 +110,8 @@
 5. [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning)
 6. [Deep Learning for Anomaly Detection](https://ff12.fastforwardlabs.com/)
 7. [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/pdf/1811.03604.pdf)
+9. [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) 
+
 
 # Software Engineering
 1. [The Twelve Factors](https://12factor.net/)
