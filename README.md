@@ -54,6 +54,7 @@
 30. [Deep Learning in Production (references about deploying deep learning-based models in production)](https://github.com/ahkarami/Deep-Learning-in-Production)
 31. [Book "Building Machine Learning Pipelines" – O’Reilly](https://learning.oreilly.com/library/view/building-machine-learning/9781492053187/) (Release Date: August 2020)
 32. [Machine Learning Experiment Tracking](https://towardsdatascience.com/machine-learning-experiment-tracking-93b796e501b0)
+33. [The Team Data Science Process (TDSP)](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
 
 
 # Papers
