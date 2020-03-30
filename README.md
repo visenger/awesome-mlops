@@ -57,6 +57,9 @@
 33. [The Team Data Science Process (TDSP)](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
 35. [MLOps Solutions (Azure based)](https://github.com/visenger/MLOps)
 36. [Monitoring ML pipelines](https://intothedepthsofdataengineering.wordpress.com/2020/02/13/monitoring-ml-pipelines/)
+37. [Deployment & Explainability of Machine Learning COVID-19 Solutions at Scale with Seldon Core and Alibi](https://github.com/axsaucedo/seldon-core/tree/corona_research_exploration/examples/models/research_paper_classification)
+
+
 
 # Papers
 1. [Building a Reproducible Machine Learning Pipeline](https://arxiv.org/ftp/arxiv/papers/1810/1810.04570.pdf)
@@ -65,6 +68,7 @@
 4. [Scaling Machine Learning as a Service (Uber)](http://proceedings.mlr.press/v67/li17a/li17a.pdf)
 5. [What’s your ML Test Score? A rubric for ML production systems](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45742.pdf)
 6. [Adversarial Machine Learning Reading List](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html)
+6. [From What to How: An Initial Review of Publicly Available AI Ethics Tools, Methods and Research to Translate Principles into Practices](https://arxiv.org/pdf/1905.06876.pdf)
 7. [Workshop on MLOps Systems. 2020 Third Conference on Machine Learning and Systems (MLSys)](https://mlops-systems.github.io/)
 7. *sensAI: Fast ConvNets Serving on Live Data via Class Parallelism.* Guanhua Wang, Zhuang Liu, Siyuan Zhuang, Brandon Hsieh, Joseph Gonzalez and Ion Stoica.
 7. *Towards Automated ML Model Monitoring: Measure, Improve and Quantify Data Quality.* Tammo Rukat, Dustin Lange, Sebastian Schelter and Felix Biessmann.
@@ -138,4 +142,5 @@
 14. [Misconception 2 (of 5): Automated Machine Learning Will Unlock Enterprise AI](https://www.forbes.com/sites/forbestechcouncil/2020/02/27/misconception-2-of-5-automated-machine-learning-will-unlock-enterprise-ai/#7f618ff97ace)
 15. [Three Principles for Designing ML-Powered Products](https://spotify.design/articles/2019-12-10/three-principles-for-designing-ml-powered-products/)
 16. [A Step-by-Step Guide to Machine Learning Problem Framing](https://medium.com/thelaunchpad/a-step-by-step-guide-to-machine-learning-problem-framing-6fc17126b981)
+17. [AI adoption in the enterprise 2020](https://www.oreilly.com/radar/ai-adoption-in-the-enterprise-2020/)
 
