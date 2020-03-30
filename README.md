@@ -52,10 +52,9 @@
 29. [The 5 Components Towards Building Production-Ready Machine Learning Systems](https://medium.com/cracking-the-data-science-interview/the-5-components-towards-building-production-ready-machine-learning-system-a4d5237ec04e)
 29. [Spring 2019 Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
 30. [Deep Learning in Production (references about deploying deep learning-based models in production)](https://github.com/ahkarami/Deep-Learning-in-Production)
-31. [Book "Building Machine Learning Pipelines" – O’Reilly](https://learning.oreilly.com/library/view/building-machine-learning/9781492053187/) (Release Date: August 2020)
+31. [Book "Building Machine Learning Pipelines" – O’Reilly](https://learning.oreilly.com/library/view/building-machine-learning/9781492053187/) 
 32. [Machine Learning Experiment Tracking](https://towardsdatascience.com/machine-learning-experiment-tracking-93b796e501b0)
 33. [The Team Data Science Process (TDSP)](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
-34. [So You Want Git for Data?](https://www.dolthub.com/blog/2020-03-06-so-you-want-git-for-data/)
 35. [MLOps Solutions (Azure based)](https://github.com/visenger/MLOps)
 
 # Papers
@@ -121,6 +120,7 @@
 
 # The Economics of ML/AI
 1. [Book: "Prediction Machines: The Simple Economics of Artificial Intelligence"](https://www.predictionmachines.ai/)
+2. [Book: "The AI Organization" by David Carmona](https://learning.oreilly.com/library/view/the-ai-organization/9781492057369/)
 2. [A list of articles about AI and the economy](https://www.predictionmachines.ai/articles)
 3. [Getting started with AI? Start here! Everything you need to know to dive into your project](https://medium.com/hackernoon/the-decision-makers-guide-to-starting-ai-72ee0d7044df)
 4. [11 questions to ask before starting a successful Machine Learning project](https://tryolabs.com/blog/2019/02/13/11-questions-to-ask-before-starting-a-successful-machine-learning-project/)
@@ -135,4 +135,6 @@
 12. [The Enterprise AI Challenge: Common Misconceptions](https://www.forbes.com/sites/forbestechcouncil/2020/01/15/the-enterprise-ai-challenge-common-misconceptions/#37ca1e5c5696)
 13. [Misconception 1 (of 5): Enterprise AI Is Primarily About The Technology](https://www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/#151e6711180e)
 14. [Misconception 2 (of 5): Automated Machine Learning Will Unlock Enterprise AI](https://www.forbes.com/sites/forbestechcouncil/2020/02/27/misconception-2-of-5-automated-machine-learning-will-unlock-enterprise-ai/#7f618ff97ace)
+15. [Three Principles for Designing ML-Powered Products](https://spotify.design/articles/2019-12-10/three-principles-for-designing-ml-powered-products/)
+16. [A Step-by-Step Guide to Machine Learning Problem Framing](https://medium.com/thelaunchpad/a-step-by-step-guide-to-machine-learning-problem-framing-6fc17126b981)
 
