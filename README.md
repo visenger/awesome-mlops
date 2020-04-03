@@ -58,6 +58,8 @@
 35. [MLOps Solutions (Azure based)](https://github.com/visenger/MLOps)
 36. [Monitoring ML pipelines](https://intothedepthsofdataengineering.wordpress.com/2020/02/13/monitoring-ml-pipelines/)
 37. [Deployment & Explainability of Machine Learning COVID-19 Solutions at Scale with Seldon Core and Alibi](https://github.com/axsaucedo/seldon-core/tree/corona_research_exploration/examples/models/research_paper_classification)
+38. [Demystifying AI Infrastructure](https://gradientflow.com/2020/04/03/demystifying-ai-infrastructure/#more-3609)
+39. [The People + AI Guidebook](https://pair.withgoogle.com/guidebook/)
 
 
 
@@ -143,4 +145,5 @@
 15. [Three Principles for Designing ML-Powered Products](https://spotify.design/articles/2019-12-10/three-principles-for-designing-ml-powered-products/)
 16. [A Step-by-Step Guide to Machine Learning Problem Framing](https://medium.com/thelaunchpad/a-step-by-step-guide-to-machine-learning-problem-framing-6fc17126b981)
 17. [AI adoption in the enterprise 2020](https://www.oreilly.com/radar/ai-adoption-in-the-enterprise-2020/)
+18. [User Needs + Defining Success](https://pair.withgoogle.com/chapter/user-needs/)
 
