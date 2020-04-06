@@ -90,6 +90,7 @@
 7. *Tools for machine learning experiment management.* Vlad Velici and Adam Prügel-Bennett.
 7. *MLPM: Machine Learning Package Manager.* Xiaozhe Yao.
 7. *Common Problems with Creating Machine Learning Pipelines from Existing Code.* Katie O’Leary, Makoto Uchida.
+7. [Overton: A Data System for Monitoring and Improving Machine-Learned Products, Apple.](https://arxiv.org/pdf/1909.05372.pdf)
 
 
 # Talks
@@ -105,6 +106,8 @@
 4. [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo/)
 5. [Meson: Workflow Orchestration for Netflix Recommendations](https://netflixtechblog.com/meson-workflow-orchestration-for-netflix-recommendations-fc932625c1d9)
 6. [What are Azure Machine Learning pipelines?](https://docs.microsoft.com/en-gb/azure/machine-learning/concept-ml-pipelines)
+7. [Uber ATG’s Machine Learning Infrastructure for Self-Driving Vehicles](https://eng.uber.com/machine-learning-model-life-cycle-version-control/)
+8. [An overview of ML development platforms](https://www.linkedin.com/pulse/overview-ml-development-platforms-louis-dorard/?utm_source=podia&utm_medium=broadcast&utm_campaign=171187)
 
 # Machine Learning 
 1. Book, Aurélien Géron,"Hands-On Machine Learning with Scikit-Learn and TensorFlow"
@@ -119,6 +122,7 @@
 7. [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/pdf/1811.03604.pdf)
 8. [Federated Learning. Building better products with on-device data and privacy on default](https://federated.withgoogle.com/)
 9. [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) 
+
 
 # Software Engineering
 1. [The Twelve Factors](https://12factor.net/)
