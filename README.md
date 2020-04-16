@@ -64,6 +64,7 @@
 40. [Organizing machine learning projects: project management guidelines.](https://www.jeremyjordan.me/ml-projects-guide/)
 41. [The Checklist for Machine Learning Projects (from Aurélien Géron,"Hands-On Machine Learning with Scikit-Learn and TensorFlow")](https://github.com/visenger/handson-ml/blob/master/ml-project-checklist.md)
 42. [Data Project Checklist by Jeremy Howard](https://www.fast.ai/2020/01/07/data-questionnaire/)
+43. [MLOps: not as Boring as it Sounds](https://itnext.io/mlops-not-as-boring-as-it-sounds-eaebe73e3533)
 
 
 # Papers
