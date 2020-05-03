@@ -6,6 +6,8 @@
 1. [Book “Machine Learning Engineering” by Andriy Burkov](http://www.mlebook.com/wiki/doku.php?id=start)
 2. Book "Accelerated DevOps with AI, ML & RPA: Non-Programmer's Guide to AIOPS & MLOPS" by Stephen Fleming
 4. [Book "Evaluating Machine Learning Models" by Alice Zheng](https://learning.oreilly.com/library/view/evaluating-machine-learning/9781492048756/)
+4. [Book: Agile AI. 2020. By Carlo Appugliese, Paco Nathan, William S. Roberts. O'Reilly Media, Inc.](https://learning.oreilly.com/library/view/agile-ai/9781492074984/)
+4. [Book: "Practical Fairness". 2020. By Aileen Nielsen. O'Reilly Media, Inc.](https://learning.oreilly.com/library/view/practical-fairness/9781492075721/)
 5. [Continuous Delivery for Machine Learning (by Thoughtworks)](https://martinfowler.com/articles/cd4ml.html)
 5. [Linux Foundation AI Foundation](https://wiki.lfai.foundation/)
 6. [MLOps SIG Specification](https://github.com/tdcox/mlops-roadmap/blob/master/MLOpsRoadmap2020.md)
@@ -65,6 +67,12 @@
 41. [The Checklist for Machine Learning Projects (from Aurélien Géron,"Hands-On Machine Learning with Scikit-Learn and TensorFlow")](https://github.com/visenger/handson-ml/blob/master/ml-project-checklist.md)
 42. [Data Project Checklist by Jeremy Howard](https://www.fast.ai/2020/01/07/data-questionnaire/)
 43. [MLOps: not as Boring as it Sounds](https://itnext.io/mlops-not-as-boring-as-it-sounds-eaebe73e3533)
+44. [AI Fairness 360, A Step Towards Trusted AI - IBM Research](https://www.ibm.com/blogs/research/2018/09/ai-fairness-360/)
+45. [10 Steps to Making Machine Learning Operational. Cloudera White Paper](https://www.cloudera.com/content/dam/www/marketing/resources/whitepapers/10-steps-to-making-ml-operational.pdf)
+46. [AI Infrastructure for Everyone: DeterminedAI](https://determined.ai/)
+
+
+
 
 
 # Papers
@@ -148,6 +156,7 @@
 # The Economics of ML/AI
 1. [Book: "Prediction Machines: The Simple Economics of Artificial Intelligence"](https://www.predictionmachines.ai/)
 2. [Book: "The AI Organization" by David Carmona](https://learning.oreilly.com/library/view/the-ai-organization/9781492057369/)
+2. [Book: "Succeeding with AI". 2020. By Veljko Krunic. Manning Publications](https://learning.oreilly.com/library/view/succeeding-with-ai/9781617296932/)
 2. [A list of articles about AI and the economy](https://www.predictionmachines.ai/articles)
 3. [Getting started with AI? Start here! Everything you need to know to dive into your project](https://medium.com/hackernoon/the-decision-makers-guide-to-starting-ai-72ee0d7044df)
 4. [11 questions to ask before starting a successful Machine Learning project](https://tryolabs.com/blog/2019/02/13/11-questions-to-ask-before-starting-a-successful-machine-learning-project/)
@@ -165,3 +174,5 @@
 15. [Three Principles for Designing ML-Powered Products](https://spotify.design/articles/2019-12-10/three-principles-for-designing-ml-powered-products/)
 16. [A Step-by-Step Guide to Machine Learning Problem Framing](https://medium.com/thelaunchpad/a-step-by-step-guide-to-machine-learning-problem-framing-6fc17126b981)
 17. [AI adoption in the enterprise 2020](https://www.oreilly.com/radar/ai-adoption-in-the-enterprise-2020/)
+
+
