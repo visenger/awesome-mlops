@@ -1,4 +1,3 @@
-
 # MLOps References
 
 1. [Machine Learning Operations: You Train It, You Run It!](https://ml-ops.org/)
@@ -73,9 +72,6 @@
 46. [AI Infrastructure for Everyone: DeterminedAI](https://determined.ai/)
 
 
-
-
-
 # Papers
 1. [Building a Reproducible Machine Learning Pipeline](https://arxiv.org/ftp/arxiv/papers/1810/1810.04570.pdf)
 2. [A Systems Perspective to Reproducibility in Production Machine Learning Domain](https://openreview.net/pdf?id=Byl4vavigX)
@@ -107,12 +103,14 @@
 7. [Reliance on Metrics is a Fundamental Challenge for AI](https://arxiv.org/pdf/2002.08512.pdf)
 7. ["Assuring the machine learning lifecycle: Desiderata, methods, and challenges." Ashmore, Rob, Radu Calinescu, and Colin Paterson. (2019)](https://arxiv.org/pdf/1905.04223.pdf)
 7. ["Machine learning testing: Survey, landscapes and horizons." Zhang, Jie M., et al. IEEE Transactions on Software Engineering (2020).](https://arxiv.org/pdf/1906.10742.pdf)
+8. ["Explainable machine learning in deployment." Bhatt, Umang, et al. Proceedings of the Conference on Fairness, Accountability, and Transparency. 2020.](https://dl.acm.org/doi/pdf/10.1145/3351095.3375624)
 
 
 # Talks
 1. [DeliveryConf 2020. "Continuous Delivery For Machine Learning: Patterns And Pains" by Emily Gorcenski](https://youtu.be/bFW5mZmj0nQ)
 2. [MLOps Conference: Talks from 2019](https://www.mlopsconf.com?wix-vod-comp-id=comp-k1ry4afh)
 3. [A CI/CD Framework for Production Machine Learning at Massive Scale (using Jenkins X and Seldon Core)](https://youtu.be/68_Phxwaj-k)
+4. [MLOps Virtual Event (Databricks)](https://youtu.be/9Ehh7Vl7ByM)
 
 
 # Existing ML Systems
@@ -154,8 +152,6 @@
 4. [Building machine learning products: a problem well-defined is a problem half-solved.](https://www.jeremyjordan.me/ml-requirements/)
 5. [Talk: Designing Great ML Experiences (Apple)](https://developer.apple.com/videos/play/wwdc2019/803/) 
 
-
-
 # The Economics of ML/AI
 1. [Book: "Prediction Machines: The Simple Economics of Artificial Intelligence"](https://www.predictionmachines.ai/)
 2. [Book: "The AI Organization" by David Carmona](https://learning.oreilly.com/library/view/the-ai-organization/9781492057369/)
@@ -177,5 +173,6 @@
 15. [Three Principles for Designing ML-Powered Products](https://spotify.design/articles/2019-12-10/three-principles-for-designing-ml-powered-products/)
 16. [A Step-by-Step Guide to Machine Learning Problem Framing](https://medium.com/thelaunchpad/a-step-by-step-guide-to-machine-learning-problem-framing-6fc17126b981)
 17. [AI adoption in the enterprise 2020](https://www.oreilly.com/radar/ai-adoption-in-the-enterprise-2020/)
+18. [How Adopting MLOps can Help Companies With ML Culture?](https://www.analyticsinsight.net/adopting-mlops-can-help-companies-ml-culture/)
 
 
