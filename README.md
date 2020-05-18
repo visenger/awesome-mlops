@@ -1,8 +1,9 @@
 # MLOps References
 
 1. [Machine Learning Operations: You Train It, You Run It!](https://ml-ops.org/)
-2. [Book "Building Machine Learning Powered Applications" by  Emmanuel Ameisen](https://learning.oreilly.com/library/view/building-machine-learning/9781492045106/)
-3. [Book "Managing Data Science" by Kirill Dubovikov](https://www.packtpub.com/eu/data/managing-data-science)
+2. [Book: "ML Ops: Operationalizing Data Science" by David Sweenor, Steven Hillion, Dan Rope, Dev Kannabiran, Thomas Hill, Michael O'Connell](https://learning.oreilly.com/library/view/ml-ops-operationalizing/9781492074663/)
+3. [Book "Building Machine Learning Powered Applications" by  Emmanuel Ameisen](https://learning.oreilly.com/library/view/building-machine-learning/9781492045106/)
+4. [Book "Managing Data Science" by Kirill Dubovikov](https://www.packtpub.com/eu/data/managing-data-science)
 1. [Book “Machine Learning Engineering” by Andriy Burkov](http://www.mlebook.com/wiki/doku.php?id=start)
 2. Book "Accelerated DevOps with AI, ML & RPA: Non-Programmer's Guide to AIOPS & MLOPS" by Stephen Fleming
 4. [Book "Evaluating Machine Learning Models" by Alice Zheng](https://learning.oreilly.com/library/view/evaluating-machine-learning/9781492048756/)
@@ -70,6 +71,8 @@
 44. [AI Fairness 360, A Step Towards Trusted AI - IBM Research](https://www.ibm.com/blogs/research/2018/09/ai-fairness-360/)
 45. [10 Steps to Making Machine Learning Operational. Cloudera White Paper](https://www.cloudera.com/content/dam/www/marketing/resources/whitepapers/10-steps-to-making-ml-operational.pdf)
 46. [AI Infrastructure for Everyone: DeterminedAI](https://determined.ai/)
+47. [MLOps is Not Enough. The Need for an End-to-End Data Science Lifecycle Process.](https://techcommunity.microsoft.com/t5/azure-ai/mlops-is-not-enough/ba-p/1386789)
+48. [Data Science Lifecycle Repository Template](https://github.com/dslp/dslp-repo-template)
 
 
 # Papers
@@ -127,6 +130,7 @@
 1. Book, Aurélien Géron,"Hands-On Machine Learning with Scikit-Learn and TensorFlow"
 1. [Foundations of Machine Learning](https://bloomberg.github.io/foml/)
 2. [Best Resources to Learn Machine Learning](https://www.trainindata.com/post/best-resources-to-learn-machine-learning)
+2. ["Papers with Code" - Browse the State-of-the-Art in Machine Learning](https://paperswithcode.com/sota)
 2. [Zhi-Hua Zhou. 2012. Ensemble Methods: Foundations and Algorithms. Chapman & Hall/CRC.](https://www.amazon.com/exec/obidos/ASIN/1439830037/acmorg-20)
 2. [Feature Engineering for Machine Learning. Principles and Techniques for Data Scientists.By Alice Zheng, Amanda Casari]()
 3. [Google Research: Looking Back at 2019, and Forward to 2020 and Beyond](https://ai.googleblog.com/2020/01/google-research-looking-back-at-2019.html)
