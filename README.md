@@ -9,6 +9,7 @@
 4. [Book "Evaluating Machine Learning Models" by Alice Zheng](https://learning.oreilly.com/library/view/evaluating-machine-learning/9781492048756/)
 4. [Book: Agile AI. 2020. By Carlo Appugliese, Paco Nathan, William S. Roberts. O'Reilly Media, Inc.](https://learning.oreilly.com/library/view/agile-ai/9781492074984/)
 4. [Book: "Practical Fairness". 2020. By Aileen Nielsen. O'Reilly Media, Inc.](https://learning.oreilly.com/library/view/practical-fairness/9781492075721/)
+5. [Book: "Machine Learning Logistics". 2017. By T. Dunning et al. O'Reilly Media Inc.](https://mapr.com/ebook/machine-learning-logistics/)
 5. [Continuous Delivery for Machine Learning (by Thoughtworks)](https://martinfowler.com/articles/cd4ml.html)
 5. [Linux Foundation AI Foundation](https://wiki.lfai.foundation/)
 6. [MLOps SIG Specification](https://github.com/tdcox/mlops-roadmap/blob/master/MLOpsRoadmap2020.md)
@@ -73,6 +74,7 @@
 46. [AI Infrastructure for Everyone: DeterminedAI](https://determined.ai/)
 47. [MLOps is Not Enough. The Need for an End-to-End Data Science Lifecycle Process.](https://techcommunity.microsoft.com/t5/azure-ai/mlops-is-not-enough/ba-p/1386789)
 48. [Data Science Lifecycle Repository Template](https://github.com/dslp/dslp-repo-template)
+49. [Template: code and pipeline definition for a machine learning project demonstrating how to automate an end to end ML/AI workflow. ](https://github.com/aronchick/MLOps-pipeline)
 
 
 # Papers
@@ -130,6 +132,8 @@
 1. Book, Aurélien Géron,"Hands-On Machine Learning with Scikit-Learn and TensorFlow"
 1. [Foundations of Machine Learning](https://bloomberg.github.io/foml/)
 2. [Best Resources to Learn Machine Learning](https://www.trainindata.com/post/best-resources-to-learn-machine-learning)
+2. [Curated List of Libraries For a Faster Machine Learning Workflow](https://github.com/amitness/toolbox)
+2. [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 2. ["Papers with Code" - Browse the State-of-the-Art in Machine Learning](https://paperswithcode.com/sota)
 2. [Zhi-Hua Zhou. 2012. Ensemble Methods: Foundations and Algorithms. Chapman & Hall/CRC.](https://www.amazon.com/exec/obidos/ASIN/1439830037/acmorg-20)
 2. [Feature Engineering for Machine Learning. Principles and Techniques for Data Scientists.By Alice Zheng, Amanda Casari]()
@@ -141,6 +145,8 @@
 8. [Federated Learning. Building better products with on-device data and privacy on default](https://federated.withgoogle.com/)
 9. [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) 
 10.[Book: Molnar, Christoph. "Interpretable machine learning. A Guide for Making Black Box Models Explainable", 2019](https://christophm.github.io/interpretable-ml-book/)
+11.[Book: Hutter, Frank, Lars Kotthoff, and Joaquin Vanschoren. "Automated Machine Learning". Springer,2019.](https://originalstatic.aminer.cn/misc/pdf/Hutter-AutoML_Book_compressed.pdf)
+
 
 
 
@@ -178,5 +184,6 @@
 16. [A Step-by-Step Guide to Machine Learning Problem Framing](https://medium.com/thelaunchpad/a-step-by-step-guide-to-machine-learning-problem-framing-6fc17126b981)
 17. [AI adoption in the enterprise 2020](https://www.oreilly.com/radar/ai-adoption-in-the-enterprise-2020/)
 18. [How Adopting MLOps can Help Companies With ML Culture?](https://www.analyticsinsight.net/adopting-mlops-can-help-companies-ml-culture/)
+19. [Weaving AI into Your Organization](https://medium.com/firmai/weaving-ai-into-your-organization-2d9643da50e1)
 
 
