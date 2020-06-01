@@ -3,8 +3,8 @@
 
 <tbody>
   <tr>
-    <th>Core MLOps</th>
-    <th>MLOps Papers</th>
+    <td>Core MLOps</td>
+    <td>MLOps Papers</td>
   </tr>
   <tr>
     <td>Talks About MLOps</td>
