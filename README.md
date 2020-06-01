@@ -1,26 +1,11 @@
+# Table of Content
 
-<div class="tg-wrap"><table>
+| [Core MLOps](#core-mlops) | MLOps Papers |
+| Talks About MLOps | Existing ML Systems |
+| Machine Learning | Software Engineering |
+| Product Management for ML/AI | The Economics of ML/AI |
 
-<tbody>
-  <tr>
-    <td>Core MLOps</td>
-    <td>MLOps Papers</td>
-  </tr>
-  <tr>
-    <td>Talks About MLOps</td>
-    <td>Existing ML Systems</td>
-  </tr>
-  <tr>
-    <td>Machine Learning</td>
-    <td>Software Engineering</td>
-  </tr>
-  <tr>
-    <td>Product Management for ML/AI</td>
-    <td>The Economics of ML/AI</td>
-  </tr>
-</tbody>
-</table></div>
-
+<a name="core-mlops"></a>
 # Core MLOps
 
 1. [Machine Learning Operations: You Train It, You Run It!](https://ml-ops.org/)
