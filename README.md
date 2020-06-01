@@ -29,6 +29,7 @@
   </tr>
 </tbody>
 </table>
+</div>
 
 # Core MLOps
 
