@@ -70,11 +70,15 @@
 42. [Data Project Checklist by Jeremy Howard](https://www.fast.ai/2020/01/07/data-questionnaire/)
 43. [MLOps: not as Boring as it Sounds](https://itnext.io/mlops-not-as-boring-as-it-sounds-eaebe73e3533)
 44. [AI Fairness 360, A Step Towards Trusted AI - IBM Research](https://www.ibm.com/blogs/research/2018/09/ai-fairness-360/)
+44. [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai-resources)
 45. [10 Steps to Making Machine Learning Operational. Cloudera White Paper](https://www.cloudera.com/content/dam/www/marketing/resources/whitepapers/10-steps-to-making-ml-operational.pdf)
 46. [AI Infrastructure for Everyone: DeterminedAI](https://determined.ai/)
 47. [MLOps is Not Enough. The Need for an End-to-End Data Science Lifecycle Process.](https://techcommunity.microsoft.com/t5/azure-ai/mlops-is-not-enough/ba-p/1386789)
 48. [Data Science Lifecycle Repository Template](https://github.com/dslp/dslp-repo-template)
 49. [Template: code and pipeline definition for a machine learning project demonstrating how to automate an end to end ML/AI workflow. ](https://github.com/aronchick/MLOps-pipeline)
+50. [Nitpicking Machine Learning Technical Debt](https://matthewmcateer.me/blog/machine-learning-technical-debt/)
+51. [The Best Tools, Libraries, Frameworks and Methodologies that Machine Learning Teams Actually Use – Things We Learned from 41 ML Startups](https://neptune.ai/blog/tools-libraries-frameworks-methodologies-ml-startups-roundup)
+
 
 
 # Papers
@@ -109,6 +113,7 @@
 7. ["Assuring the machine learning lifecycle: Desiderata, methods, and challenges." Ashmore, Rob, Radu Calinescu, and Colin Paterson. (2019)](https://arxiv.org/pdf/1905.04223.pdf)
 7. ["Machine learning testing: Survey, landscapes and horizons." Zhang, Jie M., et al. IEEE Transactions on Software Engineering (2020).](https://arxiv.org/pdf/1906.10742.pdf)
 8. ["Explainable machine learning in deployment." Bhatt, Umang, et al. Proceedings of the Conference on Fairness, Accountability, and Transparency. 2020.](https://dl.acm.org/doi/pdf/10.1145/3351095.3375624)
+9. ["Studying software engineering patterns for designing machine learning systems." Washizaki, Hironori, Hiromu Uchida, Foutse Khomh, and Yann-Gaël Guéhéneuc. In 2019 10th International Workshop on Empirical Software Engineering in Practice (IWESEP)](https://arxiv.org/pdf/1910.04736.pdf)
 
 
 # Talks
@@ -146,8 +151,9 @@
 9. [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) 
 10.[Book: Molnar, Christoph. "Interpretable machine learning. A Guide for Making Black Box Models Explainable", 2019](https://christophm.github.io/interpretable-ml-book/)
 11.[Book: Hutter, Frank, Lars Kotthoff, and Joaquin Vanschoren. "Automated Machine Learning". Springer,2019.](https://originalstatic.aminer.cn/misc/pdf/Hutter-AutoML_Book_compressed.pdf)
-
-
+12. [ML resources by topic, curated by the community. ](https://madewithml.com/topics/)
+13. [An Introduction to Machine Learning Interpretability, by Patrick Hall, Navdeep Gill, 2nd Edition. O'Reilly 2019](https://learning.oreilly.com/library/view/an-introduction-to/9781098115487/)
+14. [Examples of techniques for training interpretable machine learning (ML) models, explaining ML models, and debugging ML models for accuracy, discrimination, and security.](https://github.com/jphall663/interpretable_machine_learning_with_python)
 
 
 # Software Engineering
@@ -185,5 +191,4 @@
 17. [AI adoption in the enterprise 2020](https://www.oreilly.com/radar/ai-adoption-in-the-enterprise-2020/)
 18. [How Adopting MLOps can Help Companies With ML Culture?](https://www.analyticsinsight.net/adopting-mlops-can-help-companies-ml-culture/)
 19. [Weaving AI into Your Organization](https://medium.com/firmai/weaving-ai-into-your-organization-2d9643da50e1)
-
-
+20. [What to Do When AI Fails](https://www.oreilly.com/radar/what-to-do-when-ai-fails/)
