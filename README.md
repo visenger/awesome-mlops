@@ -1,35 +1,26 @@
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
-<div class="tg-wrap"><table class="tg">
+<div class="tg-wrap"><table>
 <thead>
   <tr>
-    <th class="tg-0pky">Core MLOps</th>
-    <th class="tg-0pky">MLOps Papers</th>
+    <th>Core MLOps</th>
+    <th>MLOps Papers</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Talks About MLOps</td>
-    <td class="tg-0pky">Existing ML Systems</td>
+    <td>Talks About MLOps</td>
+    <td>Existing ML Systems</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Machine Learning</td>
-    <td class="tg-0pky">Software Engineering</td>
+    <td>Machine Learning</td>
+    <td>Software Engineering</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Product Management for ML/AI</td>
-    <td class="tg-0pky">The Economics of ML/AI</td>
+    <td>Product Management for ML/AI</td>
+    <td>The Economics of ML/AI</td>
   </tr>
 </tbody>
-</table>
-</div>
+</table></div>
 
 # Core MLOps
 
