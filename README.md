@@ -1,12 +1,11 @@
 
 <div class="tg-wrap"><table>
-<thead>
+
+<tbody>
   <tr>
     <th>Core MLOps</th>
     <th>MLOps Papers</th>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td>Talks About MLOps</td>
     <td>Existing ML Systems</td>
