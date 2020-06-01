@@ -1,4 +1,36 @@
-# MLOps References
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
+<div class="tg-wrap"><table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Core MLOps</th>
+    <th class="tg-0pky">MLOps Papers</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Talks About MLOps</td>
+    <td class="tg-0pky">Existing ML Systems</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Machine Learning</td>
+    <td class="tg-0pky">Software Engineering</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Product Management for ML/AI</td>
+    <td class="tg-0pky">The Economics of ML/AI</td>
+  </tr>
+</tbody>
+</table>
+
+# Core MLOps
 
 1. [Machine Learning Operations: You Train It, You Run It!](https://ml-ops.org/)
 2. [Book: "ML Ops: Operationalizing Data Science" by David Sweenor, Steven Hillion, Dan Rope, Dev Kannabiran, Thomas Hill, Michael O'Connell](https://learning.oreilly.com/library/view/ml-ops-operationalizing/9781492074663/)
@@ -81,7 +113,7 @@
 
 
 
-# Papers
+# MLOps Papers
 1. [Building a Reproducible Machine Learning Pipeline](https://arxiv.org/ftp/arxiv/papers/1810/1810.04570.pdf)
 2. [A Systems Perspective to Reproducibility in Production Machine Learning Domain](https://openreview.net/pdf?id=Byl4vavigX)
 3. [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
@@ -116,7 +148,7 @@
 9. ["Studying software engineering patterns for designing machine learning systems." Washizaki, Hironori, Hiromu Uchida, Foutse Khomh, and Yann-Gaël Guéhéneuc. In 2019 10th International Workshop on Empirical Software Engineering in Practice (IWESEP)](https://arxiv.org/pdf/1910.04736.pdf)
 
 
-# Talks
+# Talks About MLOps
 1. [DeliveryConf 2020. "Continuous Delivery For Machine Learning: Patterns And Pains" by Emily Gorcenski](https://youtu.be/bFW5mZmj0nQ)
 2. [MLOps Conference: Talks from 2019](https://www.mlopsconf.com?wix-vod-comp-id=comp-k1ry4afh)
 3. [A CI/CD Framework for Production Machine Learning at Massive Scale (using Jenkins X and Seldon Core)](https://youtu.be/68_Phxwaj-k)
