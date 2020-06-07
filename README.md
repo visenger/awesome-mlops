@@ -87,6 +87,11 @@
 49. [Template: code and pipeline definition for a machine learning project demonstrating how to automate an end to end ML/AI workflow. ](https://github.com/aronchick/MLOps-pipeline)
 50. [Nitpicking Machine Learning Technical Debt](https://matthewmcateer.me/blog/machine-learning-technical-debt/)
 51. [The Best Tools, Libraries, Frameworks and Methodologies that Machine Learning Teams Actually Use – Things We Learned from 41 ML Startups](https://neptune.ai/blog/tools-libraries-frameworks-methodologies-ml-startups-roundup)
+52. [Software Engineering for AI/ML - An Annotated Bibliography](https://github.com/ckaestne/seaibib)
+53. [Intelligent System. Machine Learning in Practice](https://intelligentsystem.io/)
+54. [CMU 17-445/645: Software Engineering for AI-Enabled Systems (SE4AI)](https://github.com/ckaestne/seai/)
+55. [Machine Learning is Requirements Engineering](https://link.medium.com/l7akzjR826)
+
 
 
 <a name="mlops-papers"></a>
@@ -123,6 +128,7 @@
 7. ["Machine learning testing: Survey, landscapes and horizons." Zhang, Jie M., et al. IEEE Transactions on Software Engineering (2020).](https://arxiv.org/pdf/1906.10742.pdf)
 8. ["Explainable machine learning in deployment." Bhatt, Umang, et al. Proceedings of the Conference on Fairness, Accountability, and Transparency. 2020.](https://dl.acm.org/doi/pdf/10.1145/3351095.3375624)
 9. ["Studying software engineering patterns for designing machine learning systems." Washizaki, Hironori, Hiromu Uchida, Foutse Khomh, and Yann-Gaël Guéhéneuc. In 2019 10th International Workshop on Empirical Software Engineering in Practice (IWESEP)](https://arxiv.org/pdf/1910.04736.pdf)
+10.[Kästner, Christian, and Eunsuk Kang. "Teaching Software Engineering for AI-Enabled Systems." arXiv (2020).](https://arxiv.org/pdf/2001.06691.pdf)
 
 <a name="talsk-about-mlops"></a>
 # Talks About MLOps
@@ -171,6 +177,7 @@
 1. [The Twelve Factors](https://12factor.net/)
 2. [Book "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations", 2018 by Nicole Forsgren et.al](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 3. Book "The DevOps Handbook" by Gene Kim, et al.
+4. [State of DevOps 2019](https://research.google/pubs/pub48455/)
 
 <a name="product-management-for-mlai"></a>
 # Product Management for ML/AI
@@ -205,3 +212,4 @@
 18. [How Adopting MLOps can Help Companies With ML Culture?](https://www.analyticsinsight.net/adopting-mlops-can-help-companies-ml-culture/)
 19. [Weaving AI into Your Organization](https://medium.com/firmai/weaving-ai-into-your-organization-2d9643da50e1)
 20. [What to Do When AI Fails](https://www.oreilly.com/radar/what-to-do-when-ai-fails/)
+21. [Introduction to Machine Learning Problem Framing](https://developers.google.com/machine-learning/problem-framing)
