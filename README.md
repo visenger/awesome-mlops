@@ -5,6 +5,14 @@
 | [Talks About MLOps](#talks-about-mlops) | [Existing ML Systems](#existing-ml-systems) |
 | [Machine Learning](#machine-learning) | [Software Engineering](#software-engineering) |
 | [Product Management for ML/AI](#product-management-for-mlai) | [The Economics of ML/AI](#the-economics-of-mlai) |
+# Table of Content
+| <!-- -->                         | <!-- -->                         |
+| -------------------------------- | -------------------------------- |
+| [Core MLOps](#core-mlops) | [MLOps Papers](#mlops-papers) |
+| [Talks About MLOps](#talks-about-mlops) | [Existing ML Systems](#existing-ml-systems) |
+| [Machine Learning](#machine-learning) | [Software Engineering](#software-engineering) |
+| [Product Management for ML/AI](#product-management-for-mlai) | [The Economics of ML/AI](#the-economics-of-mlai) |
+
 
 <a name="core-mlops"></a>
 # Core MLOps 
@@ -80,6 +88,7 @@
 43. [MLOps: not as Boring as it Sounds](https://itnext.io/mlops-not-as-boring-as-it-sounds-eaebe73e3533)
 44. [AI Fairness 360, A Step Towards Trusted AI - IBM Research](https://www.ibm.com/blogs/research/2018/09/ai-fairness-360/)
 44. [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai-resources)
+44. [TensorFlow Privacy](https://github.com/tensorflow/privacy)
 45. [10 Steps to Making Machine Learning Operational. Cloudera White Paper](https://www.cloudera.com/content/dam/www/marketing/resources/whitepapers/10-steps-to-making-ml-operational.pdf)
 46. [AI Infrastructure for Everyone: DeterminedAI](https://determined.ai/)
 47. [MLOps is Not Enough. The Need for an End-to-End Data Science Lifecycle Process.](https://techcommunity.microsoft.com/t5/azure-ai/mlops-is-not-enough/ba-p/1386789)
@@ -93,12 +102,16 @@
 55. [Machine Learning is Requirements Engineering](https://link.medium.com/l7akzjR826)
 56. [Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)
 57. [Why We Need DevOps for ML Data](https://tecton.ai/blog/devops-ml-data/) 
+58. [Machine Learning Ops. A collection of resources on how to facilitate Machine Learning Ops with GitHub.](http://mlops-github.com/)
+59. [CI/CD for Machine Learning & AI](https://blog.paperspace.com/ci-cd-for-machine-learning-ai/)
 
 
 
 <a name="mlops-papers"></a>
 # MLOps Papers
+
 1. [Building a Reproducible Machine Learning Pipeline](https://arxiv.org/ftp/arxiv/papers/1810/1810.04570.pdf)
+
 2. [A Systems Perspective to Reproducibility in Production Machine Learning Domain](https://openreview.net/pdf?id=Byl4vavigX)
 3. [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
 4. [Scaling Machine Learning as a Service (Uber)](http://proceedings.mlr.press/v67/li17a/li17a.pdf)
@@ -131,11 +144,13 @@
 10. ["Teaching Software Engineering for AI-Enabled Systems." Kästner, Christian, and Eunsuk Kang. arXiv (2020).](https://arxiv.org/pdf/2001.06691.pdf)
 8. ["Explainable machine learning in deployment." Bhatt, Umang, et al. Proceedings of the Conference on Fairness, Accountability, and Transparency. 2020.](https://dl.acm.org/doi/pdf/10.1145/3351095.3375624)
 9. ["Studying software engineering patterns for designing machine learning systems." Washizaki, Hironori, Hiromu Uchida, Foutse Khomh, and Yann-Gaël Guéhéneuc. In 2019 10th International Workshop on Empirical Software Engineering in Practice (IWESEP)](https://arxiv.org/pdf/1910.04736.pdf)
+10. [Chen, A., Chow, A., Davidson, A., DCunha, A., Ghodsi, A., Hong, S.A., Konwinski, A., Mewald, C., Murching, S., Nykodym, T. and Ogilvie, P., 2020, June. Developments in MLflow: A System to Accelerate the Machine Learning Lifecycle. In Proceedings of the Fourth International Workshop on Data Management for End-to-End Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3399579.3399867)
 
 
 
 <a name="talsk-about-mlops"></a>
 # Talks About MLOps
+
 1. [DeliveryConf 2020. "Continuous Delivery For Machine Learning: Patterns And Pains" by Emily Gorcenski](https://youtu.be/bFW5mZmj0nQ)
 2. [MLOps Conference: Talks from 2019](https://www.mlopsconf.com?wix-vod-comp-id=comp-k1ry4afh)
 3. [A CI/CD Framework for Production Machine Learning at Massive Scale (using Jenkins X and Seldon Core)](https://youtu.be/68_Phxwaj-k)
@@ -143,6 +158,7 @@
 
 <a name="existing-ml-systems"></a>
 # Existing ML Systems
+
 1. [Introducing FBLearner Flow: Facebook’s AI backbone](https://engineering.fb.com/ml-applications/introducing-fblearner-flow-facebook-s-ai-backbone/)
 2. [TFX: A TensorFlow-Based Production-Scale Machine Learning Platform](https://dl.acm.org/doi/pdf/10.1145/3097983.3098021?download=true)
 3. [Getting started with Kubeflow Pipelines](https://cloud.google.com/blog/products/ai-machine-learning/getting-started-kubeflow-pipelines)
@@ -155,6 +171,7 @@
 
 <a name="machine-learning"></a>
 # Machine Learning 
+
 1. Book, Aurélien Géron,"Hands-On Machine Learning with Scikit-Learn and TensorFlow"
 1. [Foundations of Machine Learning](https://bloomberg.github.io/foml/)
 2. [Best Resources to Learn Machine Learning](https://www.trainindata.com/post/best-resources-to-learn-machine-learning)
@@ -176,9 +193,12 @@
 13. [An Introduction to Machine Learning Interpretability, by Patrick Hall, Navdeep Gill, 2nd Edition. O'Reilly 2019](https://learning.oreilly.com/library/view/an-introduction-to/9781098115487/)
 14. [Examples of techniques for training interpretable machine learning (ML) models, explaining ML models, and debugging ML models for accuracy, discrimination, and security.](https://github.com/jphall663/interpretable_machine_learning_with_python)
 15. [Paper: "Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence", by Sebastian Raschka, Joshua Patterson, and Corey Nolet. 2020](https://arxiv.org/pdf/2002.04803.pdf)
+16. [Distill: Machine Learning Research](https://distill.pub/)
+17. [AtHomeWithAI: Curated Resource List by DeepMind](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
 
 <a name="software-engineering"></a>
 # Software Engineering
+
 1. [The Twelve Factors](https://12factor.net/)
 2. [Book "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations", 2018 by Nicole Forsgren et.al](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 3. [Book "The DevOps Handbook" by Gene Kim, et al. 2016](https://itrevolution.com/book/the-devops-handbook/)
@@ -187,6 +207,7 @@
 
 <a name="product-management-for-mlai"></a>
 # Product Management for ML/AI
+
 1. [What you need to know about product management for AI. A product manager for AI does everything a traditional PM does, and much more.](https://www.oreilly.com/radar/what-you-need-to-know-about-product-management-for-ai/)
 2. [The People + AI Guidebook](https://pair.withgoogle.com/guidebook/)
 3. [User Needs + Defining Success](https://pair.withgoogle.com/chapter/user-needs/)
@@ -195,6 +216,7 @@
 
 <a name="the-economics-of-mlai"></a>
 # The Economics of ML/AI
+
 1. [Book: "Prediction Machines: The Simple Economics of Artificial Intelligence"](https://www.predictionmachines.ai/)
 2. [Book: "The AI Organization" by David Carmona](https://learning.oreilly.com/library/view/the-ai-organization/9781492057369/)
 2. [Book: "Succeeding with AI". 2020. By Veljko Krunic. Manning Publications](https://learning.oreilly.com/library/view/succeeding-with-ai/9781617296932/)
@@ -220,3 +242,5 @@
 20. [What to Do When AI Fails](https://www.oreilly.com/radar/what-to-do-when-ai-fails/)
 21. [Introduction to Machine Learning Problem Framing](https://developers.google.com/machine-learning/problem-framing)
 22. [Structured Approach for Identifying AI Use Cases](https://towardsdatascience.com/proven-structured-approach-for-identifying-ai-use-cases-b876d8d00e5)
+23. [Book: "Machine Learning for Business" by Doug Hudgeon, Richard Nichol, Oreilly](https://learning.oreilly.com/library/view/machine-learning-for/9781617295836/)
+24. [Why Commercial Artificial Intelligence Products Do Not Scale (FemTech)](https://www.presagen.com/why-commercial-artificial-intelligence-products-do-not-scale)
