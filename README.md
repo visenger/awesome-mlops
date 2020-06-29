@@ -5,13 +5,6 @@
 | [Talks About MLOps](#talks-about-mlops) | [Existing ML Systems](#existing-ml-systems) |
 | [Machine Learning](#machine-learning) | [Software Engineering](#software-engineering) |
 | [Product Management for ML/AI](#product-management-for-mlai) | [The Economics of ML/AI](#the-economics-of-mlai) |
-# Table of Content
-| <!-- -->                         | <!-- -->                         |
-| -------------------------------- | -------------------------------- |
-| [Core MLOps](#core-mlops) | [MLOps Papers](#mlops-papers) |
-| [Talks About MLOps](#talks-about-mlops) | [Existing ML Systems](#existing-ml-systems) |
-| [Machine Learning](#machine-learning) | [Software Engineering](#software-engineering) |
-| [Product Management for ML/AI](#product-management-for-mlai) | [The Economics of ML/AI](#the-economics-of-mlai) |
 
 
 <a name="core-mlops"></a>
