@@ -270,4 +270,4 @@
 3. [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/index.html)
 
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/visenger?label=awesome-mlops&style=social">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/visenger?label=awesome-mlops&style=social"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fvisenger%2Fawesome-mlops">
