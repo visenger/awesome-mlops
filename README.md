@@ -269,4 +269,4 @@
 2. [Learn how to integrate Responsible AI practices into your ML workflow using TensorFlow](https://www.tensorflow.org/resources/responsible-ai)
 3. [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/index.html)
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/visenger?style=social">
+![Twitter Follow](https://img.shields.io/twitter/follow/visenger?style=social)
