@@ -124,6 +124,7 @@
 <a name="mlops-papers"></a>
 # MLOps Papers
 
+1. [Studer, S., Bui, T.B., Drescher, C., Hanuschkin, A., Winkler, L., Peters, S. and Mueller, K.R., 2020. "Towards CRISP-ML (Q): A Machine Learning Process Model with Quality Assurance Methodology". arXiv](https://arxiv.org/pdf/2003.05155.pdf)
 1. [Building a Reproducible Machine Learning Pipeline](https://arxiv.org/ftp/arxiv/papers/1810/1810.04570.pdf)
 2. [A Systems Perspective to Reproducibility in Production Machine Learning Domain](https://openreview.net/pdf?id=Byl4vavigX)
 3. [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
