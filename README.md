@@ -35,7 +35,7 @@
 31. [Book "Building Machine Learning Pipelines" – O’Reilly](https://learning.oreilly.com/library/view/building-machine-learning/9781492053187/) 
 4. [Book "Managing Data Science" by Kirill Dubovikov](https://www.packtpub.com/eu/data/managing-data-science)
 1. [Book “Machine Learning Engineering” by Andriy Burkov](http://www.mlebook.com/wiki/doku.php?id=start)
-2. Book "Accelerated DevOps with AI, ML & RPA: Non-Programmer's Guide to AIOPS & MLOPS" by Stephen Fleming
+2. [Book "Accelerated DevOps with AI, ML & RPA: Non-Programmer's Guide to AIOPS & MLOPS" by Stephen Fleming](https://www.amazon.com/Accelerated-DevOps-AI-RPA-Non-Programmers-ebook/dp/B07ZMJCJRS)
 4. [Book "Evaluating Machine Learning Models" by Alice Zheng](https://learning.oreilly.com/library/view/evaluating-machine-learning/9781492048756/)
 4. [Book: Agile AI. 2020. By Carlo Appugliese, Paco Nathan, William S. Roberts. O'Reilly Media, Inc.](https://learning.oreilly.com/library/view/agile-ai/9781492074984/)
 5. [Book: "Machine Learning Logistics". 2017. By T. Dunning et al. O'Reilly Media Inc.](https://mapr.com/ebook/machine-learning-logistics/)
