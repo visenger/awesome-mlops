@@ -235,6 +235,7 @@
 3. [Book "The DevOps Handbook" by Gene Kim, et al. 2016](https://itrevolution.com/book/the-devops-handbook/)
 4. [State of DevOps 2019](https://research.google/pubs/pub48455/)
 5. [Clean Code concepts adapted for machine learning and data science.](https://github.com/davified/clean-code-ml)
+6. [Software Engineering for AI-Enabled Systems (CMU Course)](https://www.youtube.com/playlist?list=PLDS2JMJnJzdkQPdkhcuwcbJpjB84g9ffX)
 
 <a name="product-management-for-mlai"></a>
 # Product Management for ML/AI
