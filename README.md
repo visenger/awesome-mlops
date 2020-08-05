@@ -182,7 +182,7 @@
 
 
 
-<a name="talsk-about-mlops"></a>
+<a name="talks-about-mlops"></a>
 # Talks About MLOps
 
 1. [DeliveryConf 2020. "Continuous Delivery For Machine Learning: Patterns And Pains" by Emily Gorcenski](https://youtu.be/bFW5mZmj0nQ)
@@ -259,6 +259,7 @@
 3. [User Needs + Defining Success](https://pair.withgoogle.com/chapter/user-needs/)
 4. [Building machine learning products: a problem well-defined is a problem half-solved.](https://www.jeremyjordan.me/ml-requirements/)
 5. [Talk: Designing Great ML Experiences (Apple)](https://developer.apple.com/videos/play/wwdc2019/803/) 
+6. [Machine Learning for Product Managers](http://nlathia.github.io/2017/03/Machine-Learning-for-Product-Managers.html)
 
 <a name="the-economics-of-mlai"></a>
 # The Economics of ML/AI
