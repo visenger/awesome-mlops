@@ -134,7 +134,11 @@
 76. [MLOps: Machine Learning as an Engineering Discipline](https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipline-b86ca4874a3f)
 77. [Itaú Unibanco: How we built a CI/CD Pipeline for machine learning with ***online training*** in Kubeflow](https://cloud.google.com/blog/products/ai-machine-learning/itau-unibanco-how-we-built-a-cicd-pipeline-for-machine-learning-with-online-training-in-kubeflow)
 78. [ML Engineering on Google Cloud Platform (hands-on labs and code samples)](https://github.com/GoogleCloudPlatform/mlops-on-gcp)
-79. [Deep Reinforcement Learning in Production The use of Reinforcement Learning to Personalize User Experience at Zynga](https://towardsdatascience.com/deep-reinforcement-learning-in-production-7e1e63471e2)
+79. [Deep Reinforcement Learning in Production. The use of Reinforcement Learning to Personalize User Experience at Zynga](https://towardsdatascience.com/deep-reinforcement-learning-in-production-7e1e63471e2)
+80. [Feature Stores for ML](http://featurestore.org/)
+81. [What is Data Observability?](https://towardsdatascience.com/what-is-data-observability-40b337971e3e)
+82. [A Practical Guide to Maintaining Machine Learning in Production](https://eugeneyan.com/writing/practical-guide-to-maintaining-machine-learning/)
+83. [Building dashboards for operational visibility (AWS)](https://aws.amazon.com/builders-library/building-dashboards-for-operational-visibility/)
 
 
 <a name="mlops-papers"></a>
@@ -195,6 +199,8 @@
 7. [Introducing MLflow for End-to-End Machine Learning on Databricks. Spark+AI Summit 2020. Sean Owen](https://youtu.be/nx3yFzx_nHI)
 8. [MLOps Tutorial #1: Intro to Continuous Integration for ML](https://youtu.be/9BgIDqAzfuA)
 9. [Machine Learning At Speed: Operationalizing ML For Real-Time Data Streams (2019)](https://youtu.be/46l_C7ibpuo)
+10. [Damian Brady - The emerging field of MLops](https://humansofai.podbean.com/e/damian-brady-the-emerging-field-of-mlops/)
+11. [MLOps - Entwurf, Entwicklung, Betrieb (INNOQ Podcast in German)](https://www.innoq.com/en/podcast/076-mlops/)
 
 <a name="existing-ml-systems"></a>
 # Existing ML Systems
@@ -229,6 +235,7 @@
 7. [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/pdf/1811.03604.pdf)
 8. [Federated Learning. Building better products with on-device data and privacy on default](https://federated.withgoogle.com/)
 9. [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) 
+10. [Yang, Q., Liu, Y., Cheng, Y., Kang, Y., Chen, T. and Yu, H., 2019. Federated learning. Synthesis Lectures on Artificial Intelligence and Machine Learning, 13(3). Chapters 1 and 2.](https://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781681736983_sample.pdf)
 10. [Book: Molnar, Christoph. "Interpretable machine learning. A Guide for Making Black Box Models Explainable", 2019](https://christophm.github.io/interpretable-ml-book/)
 11. [Book: Hutter, Frank, Lars Kotthoff, and Joaquin Vanschoren. "Automated Machine Learning". Springer,2019.](https://originalstatic.aminer.cn/misc/pdf/Hutter-AutoML_Book_compressed.pdf)
 12. [ML resources by topic, curated by the community. ](https://madewithml.com/topics/)
@@ -255,6 +262,7 @@
 # Product Management for ML/AI
 
 1. [What you need to know about product management for AI. A product manager for AI does everything a traditional PM does, and much more.](https://www.oreilly.com/radar/what-you-need-to-know-about-product-management-for-ai/)
+2. [Bringing an AI Product to Market. Previous articles have gone through the basics of AI product management. Here we get to the meat: how do you bring a product to market?](https://www.oreilly.com/radar/bringing-an-ai-product-to-market/)
 2. [The People + AI Guidebook](https://pair.withgoogle.com/guidebook/)
 3. [User Needs + Defining Success](https://pair.withgoogle.com/chapter/user-needs/)
 4. [Building machine learning products: a problem well-defined is a problem half-solved.](https://www.jeremyjordan.me/ml-requirements/)
@@ -297,6 +305,8 @@
 26. [Data Science Project Management](http://www.datascience-pm.com/)
 27. [Book: "Competing in the Age of AI" by Marco Iansiti, Karim R. Lakhani. Harvard Business Review Press. 2020](https://learning.oreilly.com/library/view/competing-in-the/9781633697638/)
 28. [Laszlo Sragner Newsletter](https://laszlo.substack.com/)
+29. [The Three Questions about AI that Startups Need to Ask. The first is: Are you sure you need AI?](https://towardsdatascience.com/google-expert-tips-for-artificial-intelligence-startups-three-questions-about-ai-that-startups-need-to-ask-308924cb5324)
+
 
 
 
