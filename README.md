@@ -139,6 +139,11 @@
 81. [What is Data Observability?](https://towardsdatascience.com/what-is-data-observability-40b337971e3e)
 82. [A Practical Guide to Maintaining Machine Learning in Production](https://eugeneyan.com/writing/practical-guide-to-maintaining-machine-learning/)
 83. [Building dashboards for operational visibility (AWS)](https://aws.amazon.com/builders-library/building-dashboards-for-operational-visibility/)
+84. [ML Infrastructure Tools for Production (Part 1) Production ML — The Final Stage of the Model Workflow](https://towardsdatascience.com/ml-infrastructure-tools-for-production-1b1871eecafb)
+85. [Continuous Machine Learning](https://mribeirodantas.xyz/blog/index.php/2020/08/10/continuous-machine-learning/)
+86. [The Agile approach in data science explained by an ML expert](https://www.iunera.com/kraken/big-data-science-strategy/the-agile-approach-in-data-science-explained-by-an-ml-expert/)
+
+
 
 
 <a name="mlops-papers"></a>
@@ -201,6 +206,7 @@
 9. [Machine Learning At Speed: Operationalizing ML For Real-Time Data Streams (2019)](https://youtu.be/46l_C7ibpuo)
 10. [Damian Brady - The emerging field of MLops](https://humansofai.podbean.com/e/damian-brady-the-emerging-field-of-mlops/)
 11. [MLOps - Entwurf, Entwicklung, Betrieb (INNOQ Podcast in German)](https://www.innoq.com/en/podcast/076-mlops/)
+12. [Instrumentation, Observability & Monitoring of Machine Learning Models](https://www.infoq.com/presentations/instrumentation-observability-monitoring-ml/)
 
 <a name="existing-ml-systems"></a>
 # Existing ML Systems
@@ -306,6 +312,7 @@
 27. [Book: "Competing in the Age of AI" by Marco Iansiti, Karim R. Lakhani. Harvard Business Review Press. 2020](https://learning.oreilly.com/library/view/competing-in-the/9781633697638/)
 28. [Laszlo Sragner Newsletter](https://laszlo.substack.com/)
 29. [The Three Questions about AI that Startups Need to Ask. The first is: Are you sure you need AI?](https://towardsdatascience.com/google-expert-tips-for-artificial-intelligence-startups-three-questions-about-ai-that-startups-need-to-ask-308924cb5324)
+30. [Taming the Tail: Adventures in Improving AI Economics](https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/)
 
 
 
