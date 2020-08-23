@@ -125,7 +125,7 @@
 67. [Continuous Machine Learning (CML) is CI/CD for Machine Learning Projects (DVC)](https://cml.dev/)
 68. [What I learned from looking at 200 machine learning tools](https://huyenchip.com/2020/06/22/mlops.html)
 69. [Big Data & AI Landscape](http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png)
-70. [Deploying Machine Learning Models as Data, not Code — A better match? MLOps using omega|ml](https://towardsdatascience.com/deploying-machine-learning-models-as-data-not-code-omega-ml-8825a0ae530a)
+70. [Deploying Machine Learning Models as Data, not Code — A better match?](https://towardsdatascience.com/deploying-machine-learning-models-as-data-not-code-omega-ml-8825a0ae530a)
 71. [“Thou shalt always scale” — 10 commandments of MLOps](https://towardsdatascience.com/mlops-thou-shalt-always-scale-10-commandments-of-mlops-152c11e711a5)
 72. [Three Risks in Building Machine Learning Systems](https://insights.sei.cmu.edu/sei_blog/2020/05/three-risks-in-building-machine-learning-systems.html)
 73. [Deploying R Models with MLflow and Docker](https://mdneuzerling.com/post/deploying-r-models-with-mlflow-and-docker/)
@@ -140,10 +140,11 @@
 82. [A Practical Guide to Maintaining Machine Learning in Production](https://eugeneyan.com/writing/practical-guide-to-maintaining-machine-learning/)
 83. [Building dashboards for operational visibility (AWS)](https://aws.amazon.com/builders-library/building-dashboards-for-operational-visibility/)
 84. [ML Infrastructure Tools for Production (Part 1) Production ML — The Final Stage of the Model Workflow](https://towardsdatascience.com/ml-infrastructure-tools-for-production-1b1871eecafb)
-85. [Continuous Machine Learning](https://mribeirodantas.xyz/blog/index.php/2020/08/10/continuous-machine-learning/)
+85. Continuous Machine Learning. [Part 1](https://mribeirodantas.xyz/blog/index.php/2020/08/10/continuous-machine-learning/), [Part 2](https://mribeirodantas.xyz/blog/index.php/2020/08/18/continuous-machine-learning-part-ii/), and [Part 3 (coming soon)]()
 86. [The Agile approach in data science explained by an ML expert](https://www.iunera.com/kraken/big-data-science-strategy/the-agile-approach-in-data-science-explained-by-an-ml-expert/)
-
-
+87.[Here’s what you need to look for in a model server to build ML-powered services](https://anyscale.com/blog/heres-what-you-need-to-look-for-in-a-model-server-to-build-ml-powered-services/)
+88. [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
+89. [Comprehensive List of Feature Store Architectures for Data Scientists and Big Data Professionals](https://hackernoon.com/the-essential-architectures-for-every-data-scientist-and-big-data-engineer-f21u3e5c)
 
 
 <a name="mlops-papers"></a>
@@ -188,6 +189,7 @@
 12. [Workshop at ICML 2020: "Challenges in Deploying and Monitoring Machine Learning Systems" (Accepted Papers)](https://icml.cc/Conferences/2020/Schedule?showEvent=5738)
 13. [Bosch, J., Crnkovic, I. and Olsson, H.H., 2020. Engineering AI Systems: A Research Agenda. arXiv preprint arXiv. 2020](https://arxiv.org/pdf/2001.07522.pdf)
 14. [Ribeiro, M.T., Wu, T., Guestrin, C. and Singh, S., 2020. Beyond Accuracy: Behavioral Testing of NLP Models with CheckList. ACL](https://arxiv.org/pdf/2005.04118.pdf)
+15. [Klaise, J., Van Looveren, A., Cox, C., Vacanti, G. and Coca, A., 2020. Monitoring and explainability of models in production. arXiv preprint arXiv:2007.06299.](https://arxiv.org/pdf/2007.06299.pdf)
 
 
 
@@ -253,6 +255,7 @@
 18. [Awesome Data Science](https://github.com/academic/awesome-datascience)
 19. [Intro to probabilistic programming. A use case using Tensorflow-Probability (TFP)](https://towardsdatascience.com/intro-to-probabilistic-programming-b47c4e926ec5)
 20. [Dive into Snorkel: Weak-Superversion on German Texts. inovex Blog](https://www.inovex.de/blog/snorkel-weak-superversion-german-texts/)
+21 [Dive into Deep Learning. An interactive deep learning book with code, math, and discussions. Provides NumPy/MXNet, PyTorch, and TensorFlow implementations](http://d2l.ai/)
 
 
 <a name="software-engineering"></a>
@@ -313,6 +316,9 @@
 28. [Laszlo Sragner Newsletter](https://laszlo.substack.com/)
 29. [The Three Questions about AI that Startups Need to Ask. The first is: Are you sure you need AI?](https://towardsdatascience.com/google-expert-tips-for-artificial-intelligence-startups-three-questions-about-ai-that-startups-need-to-ask-308924cb5324)
 30. [Taming the Tail: Adventures in Improving AI Economics](https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/)
+31. [Managing the Risks of Adopting AI Engineering](https://insights.sei.cmu.edu/sei_blog/2020/08/managing-the-risks-of-adopting-ai-engineering.html)
+32. [Get rid of AI Saviorism](https://www.shreya-shankar.com/ai-saviorism/)
+
 
 
 
