@@ -341,6 +341,7 @@
 7. [Evtimov, Ivan, Weidong Cui, Ece Kamar, Emre Kiciman, Tadayoshi Kohno, and Jerry Li. "Security and Machine Learning in the Real World." arXiv (2020).](https://arxiv.org/pdf/2007.07205.pdf)
 8. [Explainable AI (Gartner Prediction for 2023)](https://www.gartner.com/en/conferences/apac/data-analytics-india/gartner-insights/rn-top-10-data-analytics-trends/explainable-ai)
 9. [What We've Learned to Control. By Ben Recht](https://www.argmin.net/2020/06/29/tour-revisited/?utm_source=gradientflow&utm_medium=newsletter&utm_campaign=issue14)
+10. [State of AI Ethics June 2020 Report by the Montreal AI Ethics Institute](https://bit.ly/stateofaiethics1)
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/visenger?style=social)
