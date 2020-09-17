@@ -170,6 +170,7 @@
 2. [Monitoring Machine Learning Models in Production](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
 3. [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
 4. [Unit Testing Data: What is it and how do you do it?](https://winderresearch.com/unit-testing-data-what-is-it-and-how-do-you-do-it/)
+5. [How to Test Machine Learning Code and Systems](https://eugeneyan.com/writing/testing-ml/) ([Accompanying code](https://github.com/eugeneyan/testing-ml))
 
 <a name="mlops-papers"></a>
 # MLOps Papers
