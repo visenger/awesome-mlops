@@ -139,6 +139,7 @@
 94. [Experiment Management: How to Organize Your Model Development Process](https://www.experfy.com/blog/experiment-management-how-to-organize-your-model-development-process/)
 95. [AI engineering practices in the wild - SIG | Getting software right for a healthier digital world](https://www.softwareimprovementgroup.com/resources/ai-engineering-practices-in-the-wild/)
 96. [SE-ML | The 2020 State of Engineering Practices for Machine Learning](https://se-ml.github.io/report2020)
+97. [Awesome Software Engineering for Machine Learning (GitHub repository)](https://github.com/SE-ML/awesome-seml)
 
 
 <a name="dataops"></a>
@@ -149,6 +150,9 @@
 3. [Best practices in data cleaning: A Complete Guide to Everything You Need to Do Before and After Collecting Your Data.](https://www.researchgate.net/publication/266714997_Best_practices_in_data_cleaning_A_Complete_Guide_to_Everything_You_Need_to_Do_Before_and_After_Collecting_Your_Data)
 4. [17 Strategies for Dealing with Data, Big Data, and Even Bigger Data](https://towardsdatascience.com/17-strategies-for-dealing-with-data-big-data-and-even-bigger-data-283426c7d260)
 5. [DataOps Data Architecture](https://blog.datakitchen.io/blog/dataops-data-architecture)
+6. [Data Orchestration — A Primer](https://medium.com/memory-leak/data-orchestration-a-primer-56f3ddbb1700)
+7. [4 Data Trends to Watch in 2020](https://medium.com/memory-leak/4-data-trends-to-watch-in-2020-491707902c09)
+
 
 
 <a name="deployment"></a> 
@@ -171,6 +175,12 @@
 3. [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
 4. [Unit Testing Data: What is it and how do you do it?](https://winderresearch.com/unit-testing-data-what-is-it-and-how-do-you-do-it/)
 5. [How to Test Machine Learning Code and Systems](https://eugeneyan.com/writing/testing-ml/) ([Accompanying code](https://github.com/eugeneyan/testing-ml))
+6. [Wu, T., Dong, Y., Dong, Z., Singa, A., Chen, X. and Zhang, Y., 2020. Testing Artificial Intelligence System Towards Safety and Robustness: State of the Art. IAENG International Journal of Computer Science, 47(3).](http://www.iaeng.org/IJCS/issues_v47/issue_3/IJCS_47_3_13.pdf)
+7. [Multi-Armed Bandits and the Stitch Fix Experimentation Platform](https://multithreaded.stitchfix.com/blog/2020/08/05/bandits/)
+8. [A/B Testing Machine Learning Models](https://mlinproduction.com/ab-test-ml-models-deployment-series-08/)
+9. [Data validation for machine learning. Polyzotis, N., Zinkevich, M., Roy, S., Breck, E. and Whang, S., 2019. Proceedings of Machine Learning and Systems](https://mlsys.org/Conferences/2019/doc/2019/167.pdf)
+10. [Testing machine learning based systems: a systematic mapping](https://link.springer.com/content/pdf/10.1007/s10664-020-09881-0.pdf)
+
 
 <a name="mlops-papers"></a>
 # MLOps Papers
@@ -215,6 +225,7 @@
 13. [Bosch, J., Crnkovic, I. and Olsson, H.H., 2020. Engineering AI Systems: A Research Agenda. arXiv preprint arXiv. 2020](https://arxiv.org/pdf/2001.07522.pdf)
 14. [Ribeiro, M.T., Wu, T., Guestrin, C. and Singh, S., 2020. Beyond Accuracy: Behavioral Testing of NLP Models with CheckList. ACL](https://arxiv.org/pdf/2005.04118.pdf)
 15. [Klaise, J., Van Looveren, A., Cox, C., Vacanti, G. and Coca, A., 2020. Monitoring and explainability of models in production. arXiv preprint arXiv:2007.06299.](https://arxiv.org/pdf/2007.06299.pdf)
+16. [Serban, A., van der Blom, K., Hoos, H. and Visser, J., 2020. Adoption and Effects of Software Engineering Best Practices in Machine Learning. arXiv preprint arXiv:2007.14130.](https://arxiv.org/pdf/2007.14130.pdf)
 
 
 
@@ -236,6 +247,7 @@
 12. [Instrumentation, Observability & Monitoring of Machine Learning Models](https://www.infoq.com/presentations/instrumentation-observability-monitoring-ml/)
 13. [Efficient ML engineering: Tools and best practices](https://learning.oreilly.com/videos/oreilly-strata-data/9781492050681/9781492050681-video327465?autoplay=false)
 14. [Beyond the jupyter notebook: how to build data science products](https://towardsdatascience.com/beyond-the-jupyter-notebook-how-to-build-data-science-products-50d942fc25d8)
+15. [An introduction to MLOps on Google Cloud](https://www.youtube.com/watch?v=6gdrwFMaEZ0#action=share) (First 19 min are vendor-, language-, and framework-agnostic. @visenger)
 
 <a name="existing-ml-systems"></a>
 # Existing ML Systems
@@ -353,10 +365,11 @@
 <a name="ml-governance"></a>
 # Model Governance, Ethics, Responsible AI
 
+1. [Book: "Practical Fairness". 2020. By Aileen Nielsen. O'Reilly Media, Inc.](https://learning.oreilly.com/library/view/practical-fairness/9781492075721/)
+2. [Book: "Fairness and machine learning: Limitations and Opportunities." Barocas, S., Hardt, M. and Narayanan, A., 2018.](https://fairmlbook.org/)
 1. [What are model governance and model operations? A look at the landscape of tools for building and deploying robust, production-ready machine learning models](https://www.oreilly.com/radar/what-are-model-governance-and-model-operations/)
 2. [Specialized tools for machine learning development and model governance are becoming essential. Why companies are turning to specialized machine learning tools like MLflow.](https://www.oreilly.com/ideas/specialized-tools-for-machine-learning-development-and-model-governance-are-becoming-essential)
 29. [What are model governance and model operations? – O’Reilly](https://www.oreilly.com/radar/what-are-model-governance-and-model-operations/)
-4. [Book: "Practical Fairness". 2020. By Aileen Nielsen. O'Reilly Media, Inc.](https://learning.oreilly.com/library/view/practical-fairness/9781492075721/)
 44. [AI Fairness 360, A Step Towards Trusted AI - IBM Research](https://www.ibm.com/blogs/research/2018/09/ai-fairness-360/)
 44. [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai-resources)
 44. [TensorFlow Privacy](https://github.com/tensorflow/privacy)
@@ -370,6 +383,9 @@
 9. [What We've Learned to Control. By Ben Recht](https://www.argmin.net/2020/06/29/tour-revisited/?utm_source=gradientflow&utm_medium=newsletter&utm_campaign=issue14)
 10. [State of AI Ethics June 2020 Report by the Montreal AI Ethics Institute](https://bit.ly/stateofaiethics1)
 11. [Practical Data Ethics](https://ethics.fast.ai/)
+12. [The LinkedIn Fairness Toolkit (LiFT)](https://github.com/linkedin/LiFT)
+13. [Four Principles of Explainable Artificial Intelligence (NIST Draft). Phillips, P.J., Hahn, A.C., Fontana, P.C., Broniatowski, D.A. and Przybocki, M.A., 2020.](https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8312-draft.pdf)
+
 
 
 
