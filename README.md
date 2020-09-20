@@ -16,7 +16,7 @@
 | [Talks About MLOps](#talks-about-mlops) | [Existing ML Systems](#existing-ml-systems) |
 | [Machine Learning](#machine-learning) | [Software Engineering](#software-engineering) | 
 |[Product Management for ML/AI](#product-management-for-mlai) | [The Economics of ML/AI](#the-economics-of-mlai) |
-| [Model Governance, Ethics, Responsible AI](#ml-governance) |
+| [Model Governance, Ethics, Responsible AI](#ml-governance) | [Newsletters About MLOps, Machine Learning, Data Science and Co.](#newsletters)|
 
 
 <a name="core-mlops"></a>
@@ -180,6 +180,8 @@
 8. [A/B Testing Machine Learning Models](https://mlinproduction.com/ab-test-ml-models-deployment-series-08/)
 9. [Data validation for machine learning. Polyzotis, N., Zinkevich, M., Roy, S., Breck, E. and Whang, S., 2019. Proceedings of Machine Learning and Systems](https://mlsys.org/Conferences/2019/doc/2019/167.pdf)
 10. [Testing machine learning based systems: a systematic mapping](https://link.springer.com/content/pdf/10.1007/s10664-020-09881-0.pdf)
+11. [Explainable Monitoring: Stop flying blind and monitor your AI](https://blog.fiddler.ai/2020/04/explainable-monitoring-stop-flying-blind-and-monitor-your-ai/)
+
 
 
 <a name="mlops-papers"></a>
@@ -385,6 +387,32 @@
 11. [Practical Data Ethics](https://ethics.fast.ai/)
 12. [The LinkedIn Fairness Toolkit (LiFT)](https://github.com/linkedin/LiFT)
 13. [Four Principles of Explainable Artificial Intelligence (NIST Draft). Phillips, P.J., Hahn, A.C., Fontana, P.C., Broniatowski, D.A. and Przybocki, M.A., 2020.](https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8312-draft.pdf)
+
+<a name="newsletters"></a>
+# Newsletters About MLOps, Machine Learning, Data Science and Co.
+
+1. [ML in Production newsletter](https://mlinproduction.com/machine-learning-newsletter/)
+1. [MLOps.community](https://mlops.community/)
+1. [Andriy Burkov newsletter](https://www.linkedin.com/pulse/artificial-intelligence-33-andriy-burkov/)
+1. [Decision Intelligence by Cassie Kozyrkov](https://decision.substack.com/)
+1. [Laszlo's Newsletter about Data Science](https://laszlo.substack.com/)
+1. [Data Elixir newsletter for a weekly dose of the top data science picks from around the web. Covering machine learning, data visualization, analytics, and strategy.](https://dataelixir.com/)
+1. [The Data Science Roundup by Tristan Handy](http://roundup.fishtownanalytics.com/)
+1. [Vicki Boykis Newsletter about Data Science](https://vicki.substack.com/)
+1. [KDnuggets News](https://www.kdnuggets.com/)
+1. [Analytics Vidhya, Any questions on business analytics, data science, big data, data visualizations tools and techniques](https://www.analyticsvidhya.com/blog/?utm_source=feed)
+1. [Data Science Weekly Newsletter: A free weekly newsletter featuring curated news, articles and jobs related to Data Science](https://www.datascienceweekly.org/)
+1. [The Machine Learning Engineer Newsletter](https://ethical.institute/mle.html)
+1. [Gradient Flow helps you stay ahead of the latest technology trends and tools with in-depth coverage, analysis and insights. See the latest on data, technology and business, with a focus on machine learning and AI](https://gradientflow.wpcomstaging.com/)
+1. [Your guide to AI by Nathan Benaich. Monthly analysis of AI technology, geopolitics, research, and startups.](http://newsletter.airstreet.com/)
+2. [O'Reilly Data & AI Newsletter](https://www.oreilly.com/emails/newsletters/)
+2. [deeplearning.ai’s newsletter by Andrew Ng](https://www.deeplearning.ai/)
+2. [Deep Learning Weekly](https://www.deeplearningweekly.com/)
+2. [Import AI is a weekly newsletter about artificial intelligence, read by more than ten thousand experts. By Jack Clark.](https://jack-clark.net/)
+2. [AI Ethics Weekly](https://lighthouse3.com/newsletter/)
+2. [Announcing Projects To Know, a weekly machine intelligence and data science newsletter](https://blog.amplifypartners.com/announcing-projects-to-know/)
+2. [TWIML: This Week in Machine Learning and AI newsletter](https://twimlai.com/newsletter/)
+
 
 
 
