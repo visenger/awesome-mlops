@@ -196,11 +196,11 @@
 6. [Adversarial Machine Learning Reading List](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html)
 6. [From What to How: An Initial Review of Publicly Available AI Ethics Tools, Methods and Research to Translate Principles into Practices](https://arxiv.org/pdf/1905.06876.pdf)
 7. [Workshop on MLOps Systems. 2020 Third Conference on Machine Learning and Systems (MLSys)](https://mlops-systems.github.io/)
-7. *sensAI: Fast ConvNets Serving on Live Data via Class Parallelism.* Guanhua Wang, Zhuang Liu, Siyuan Zhuang, Brandon Hsieh, Joseph Gonzalez and Ion Stoica.
-7. *Towards Automated ML Model Monitoring: Measure, Improve and Quantify Data Quality.* Tammo Rukat, Dustin Lange, Sebastian Schelter and Felix Biessmann.
-7. *Towards Automating the AI Operations Lifecycle.* Matthew Arnold, Jeff Boston, Michael Desmond, Evelyn Duesterwald, Benjamin Elder, Anupama Murthi, Jiri Navratil and Darrell Reimer.
+7. [sensAI: Fast ConvNets Serving on Live Data via Class Parallelism. Guanhua Wang, Zhuang Liu, Siyuan Zhuang, Brandon Hsieh, Joseph Gonzalez and Ion Stoica.](https://rise.cs.berkeley.edu/wp-content/uploads/2020/01/sensAI_2_pager.pdf)
+7. [Towards Automated ML Model Monitoring: Measure, Improve and Quantify Data Quality. Tammo Rukat, Dustin Lange, Sebastian Schelter and Felix Biessmann.](https://ssc.io/pdf/autoops.pdf)
+7. [Towards Automating the AI Operations Lifecycle. Matthew Arnold, Jeff Boston, Michael Desmond, Evelyn Duesterwald, Benjamin Elder, Anupama Murthi, Jiri Navratil and Darrell Reimer.](https://arxiv.org/pdf/2003.12808)
 7. *Efficient Scheduling of DNN Training on Multitenant Clusters.* Deepak Narayanan, Keshav Santhanam, Amar Phanishayee and Matei Zaharia.
-7. *Towards Complaint-driven ML Workflow Debugging.* Weiyuan Wu, Lampros Flokas, Eugene Wu and Jiannan Wang.
+7. [Towards Complaint-driven ML Workflow Debugging. Weiyuan Wu, Lampros Flokas, Eugene Wu and Jiannan Wang.](http://wooya.me/files/MLSys_2020.pdf)
 7. *PerfGuard: Deploying ML-for-Systems without Performance Regressions.* H M Sajjad Hossain, Lucas Rosenblatt, Gilbert Antonius, Irene Shaffer, Remmelt Ammerlaan, Abhishek Roy, Markus Weimer, Hiren Patel, Marc Friedman, Shi Qiao, Peter Orenberg, Soundarajan Srinivasan and Alekh Jindal.
 7. [*Implicit Provenance for Machine Learning Artifacts.* Alexandru A. Ormenisan, Mahmoud Ismail, Seif Haridi and Jim Dowling.](https://dcatkth.github.io/papers/provenance_mlsys20.pdf)
 7. *Addressing the Memory Bottleneck in AI Model-Training.* David Ojika, Bhavesh Patel, G Anthony Reina, Trent Boyer, Chad Martin and Prashant Shah.
