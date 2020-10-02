@@ -201,19 +201,19 @@
 12. [Towards Automating the AI Operations Lifecycle. Matthew Arnold, Jeff Boston, Michael Desmond, Evelyn Duesterwald, Benjamin Elder, Anupama Murthi, Jiri Navratil and Darrell Reimer.](https://arxiv.org/pdf/2003.12808)
 13. *Efficient Scheduling of DNN Training on Multitenant Clusters.* Deepak Narayanan, Keshav Santhanam, Amar Phanishayee and Matei Zaharia.
 14. [Towards Complaint-driven ML Workflow Debugging. Weiyuan Wu, Lampros Flokas, Eugene Wu and Jiannan Wang.](http://wooya.me/files/MLSys_2020.pdf)
-15. *PerfGuard: Deploying ML-for-Systems without Performance Regressions.* H M Sajjad Hossain, Lucas Rosenblatt, Gilbert Antonius, Irene Shaffer, Remmelt Ammerlaan, Abhishek Roy, Markus Weimer, Hiren Patel, Marc Friedman, Shi Qiao, Peter Orenberg, Soundarajan Srinivasan and Alekh Jindal.
+15. [PerfGuard: Deploying ML-for-Systems without Performance Regressions. H M Sajjad Hossain, Lucas Rosenblatt, Gilbert Antonius, Irene Shaffer, Remmelt Ammerlaan, Abhishek Roy, Markus Weimer, Hiren Patel, Marc Friedman, Shi Qiao, Peter Orenberg, Soundarajan Srinivasan and Alekh Jindal.](http://jindal-web.appspot.com/papers/perfguard.pdf)
 16. [*Implicit Provenance for Machine Learning Artifacts.* Alexandru A. Ormenisan, Mahmoud Ismail, Seif Haridi and Jim Dowling.](https://dcatkth.github.io/papers/provenance_mlsys20.pdf)
-17. *Addressing the Memory Bottleneck in AI Model-Training.* David Ojika, Bhavesh Patel, G Anthony Reina, Trent Boyer, Chad Martin and Prashant Shah.
-18. *Simulating Performance of ML Systems with Offline Profiling.* Hongming Huang, Peng Cheng, Hong Xu and Yongqiang Xiong.
-19. *A Viz Recommendation System: ML Lifecycle at Tableau.* Kazem Jahanbakhsh, Eric Borchu, Mya Warren, Xiang-Bo Mao and Yogesh Sood.
-20. *CodeReef: an open portal for cross-platform MLOps and reproducible benchmarking.* Grigori Fursin, Herve Guillou and Nicolas Essayan.
+17. [Addressing the Memory Bottleneck in AI Model-Training. David Ojika, Bhavesh Patel, G Anthony Reina, Trent Boyer, Chad Martin and Prashant Shah.](https://arxiv.org/pdf/2003.08732)
+18. [Simulating Performance of ML Systems with Offline Profiling. Hongming Huang, Peng Cheng, Hong Xu and Yongqiang Xiong.](https://arxiv.org/pdf/2002.06790.pdf)
+19. [A Viz Recommendation System: ML Lifecycle at Tableau. Kazem Jahanbakhsh, Eric Borchu, Mya Warren, Xiang-Bo Mao and Yogesh Sood.](https://haikufactory.com/wp-content/uploads/2020/03/MLOps2020_Cerebro.pdf)
+20. [CodeReef: an open platform for portable MLOps, reusable automation actions and reproducible benchmarking. Grigori Fursin, Herve Guillou and Nicolas Essayan.](https://arxiv.org/pdf/2001.07935v1.pdf)
 21. *Towards split learning at scale: System design.* Iker Rodríguez, Eduardo Muñagorri, Alberto Roman, Abhishek Singh, Praneeth Vepakomma and Ramesh Raskar.
 22. *MLBox: Towards Reproducible ML.* Victor Bittorf, Xinyuan Huang, Peter Mattson, Debojyoti Dutta, David Aronchick, Emad Barsoum, Sarah Bird, Sergey Serebryakov, Natalia Vassilieva, Tom St. John, Grigori Fursin, Srini Bala, Sivanagaraju Yarramaneni, Alka Roy, David Kanter and Elvira Dzhuraeva.
 23. *Conversational Applications and Natural Language Understanding Services at Scale.* Minh Tue Vo Thanh and Vijay Ramakrishnan.
-24. *Towards Distribution Transparency for Supervised ML With Oblivious Training Functions.* Moritz Meister, Sina Sheikholeslami, Robin Andersson, Alexandru Ormenisan and Jim Dowling.
+24. [Towards Distribution Transparency for Supervised ML With Oblivious Training Functions. Moritz Meister, Sina Sheikholeslami, Robin Andersson, Alexandru Ormenisan and Jim Dowling.](https://content.logicalclocks.com/hubfs/research/oblivious-training_mlsys20.pdf)
 25. *Tools for machine learning experiment management.* Vlad Velici and Adam Prügel-Bennett.
 26. *MLPM: Machine Learning Package Manager.* Xiaozhe Yao.
-27. *Common Problems with Creating Machine Learning Pipelines from Existing Code.* Katie O’Leary, Makoto Uchida.
+27. [Common Problems with Creating Machine Learning Pipelines from Existing Code. Katie O’Leary, Makoto Uchida.](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b50bc83882bbd29c50250d1e59fbc3afda3fb5e5.pdf)
 28. [Overton: A Data System for Monitoring and Improving Machine-Learned Products, Apple.](https://arxiv.org/pdf/1909.05372.pdf)
 29. [Reliance on Metrics is a Fundamental Challenge for AI](https://arxiv.org/pdf/2002.08512.pdf)
 30. ["Assuring the machine learning lifecycle: Desiderata, methods, and challenges." Ashmore, Rob, Radu Calinescu, and Colin Paterson. (2019)](https://arxiv.org/pdf/1905.04223.pdf)
