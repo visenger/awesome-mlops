@@ -142,6 +142,7 @@
 97. [Awesome Software Engineering for Machine Learning (GitHub repository)](https://github.com/SE-ML/awesome-seml)
 98. [Feature Stores for Machine Learning Medium Blog](https://medium.com/data-for-ai)
 99. [MLOps with a Feature Store](https://www.logicalclocks.com/blog/mlops-with-a-feature-store)
+98. [Reproducibility in ML: why it matters and how to achieve it](https://determined.ai/blog/reproducibility-in-ml/)
 
 
 <a name="dataops"></a>
