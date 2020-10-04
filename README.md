@@ -28,6 +28,7 @@
 4. [Awesome production machine learning: State of MLOps Tools and Frameworks](https://github.com/EthicalML/awesome-production-machine-learning)
 5. [Udemy “Deployment of ML Models”](https://www.udemy.com/course/deployment-of-machine-learning-models/)
 6. [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
+7. [Engineering best practices for Machine Learning](https://se-ml.github.io/practices/)
 
 <a name="mlops-communities"></a>
 # MLOps Communities
@@ -52,7 +53,6 @@
 6. ["Machine Learning Design Patterns" by Valliappa Lakshmanan, Sara Robinson, Michael Munn.  O'Reilly 2020](https://learning.oreilly.com/library/view/machine-learning-design/9781098115777/)
 7. ["Serving Machine Learning Models: A Guide to Architecture, Stream Processing Engines, and Frameworks" by Boris Lublinsky, O'Reilly Media, Inc. 2017](https://www.lightbend.com/ebooks/machine-learning-guide-architecture-stream-processing-frameworks-oreilly)
 8. ["Kubeflow for Machine Learning" by Holden Karau, Trevor Grant, Ilan Filonenko, Richard Liu, Boris Lublinsky](https://learning.oreilly.com/library/view/kubeflow-for-machine/9781492050117/)
-
 
 
 <a name="mlops-articles"></a>
@@ -145,6 +145,8 @@
 98. [Feature Stores for Machine Learning Medium Blog](https://medium.com/data-for-ai)
 99. [MLOps with a Feature Store](https://www.logicalclocks.com/blog/mlops-with-a-feature-store)
 98. [Reproducibility in ML: why it matters and how to achieve it](https://determined.ai/blog/reproducibility-in-ml/)
+99. [12 Factors of reproducible Machine Learning in production](https://blog.maiot.io/12-factors-of-ml-in-production/)
+
 
 
 <a name="dataops"></a>
@@ -157,6 +159,10 @@
 5. [DataOps Data Architecture](https://blog.datakitchen.io/blog/dataops-data-architecture)
 6. [Data Orchestration — A Primer](https://medium.com/memory-leak/data-orchestration-a-primer-56f3ddbb1700)
 7. [4 Data Trends to Watch in 2020](https://medium.com/memory-leak/4-data-trends-to-watch-in-2020-491707902c09)
+8. [CSE 291D / 234: Data Systems for Machine Learning](http://cseweb.ucsd.edu/classes/fa20/cse291-d/index.html)
+9. [A complete picture of the modern data engineering landscape](https://github.com/datastacktv/data-engineer-roadmap)
+
+
 
 
 
@@ -233,6 +239,9 @@
 39. [Ribeiro, M.T., Wu, T., Guestrin, C. and Singh, S., 2020. Beyond Accuracy: Behavioral Testing of NLP Models with CheckList. ACL](https://arxiv.org/pdf/2005.04118.pdf)
 40. [Klaise, J., Van Looveren, A., Cox, C., Vacanti, G. and Coca, A., 2020. Monitoring and explainability of models in production. arXiv preprint arXiv:2007.06299.](https://arxiv.org/pdf/2007.06299.pdf)
 41. [Serban, A., van der Blom, K., Hoos, H. and Visser, J., 2020. Adoption and Effects of Software Engineering Best Practices in Machine Learning. arXiv preprint arXiv:2007.14130.](https://arxiv.org/pdf/2007.14130.pdf)
+42. [Gama, João, Indrė Žliobaitė, Albert Bifet, Mykola Pechenizkiy, and Abdelhamid Bouchachia. "A survey on concept drift adaptation." ACM computing surveys (CSUR) (2014)](http://eprints.bournemouth.ac.uk/22491/1/ACM%20computing%20surveys.pdf)
+43. [Belle, V. and Papantonis, I., 2020. Principles and Practice of Explainable Machine Learning. arXiv preprint arXiv:2009.11698.](https://arxiv.org/pdf/2009.11698.pdf)
+
 
 
 
@@ -305,6 +314,9 @@
 19. [Intro to probabilistic programming. A use case using Tensorflow-Probability (TFP)](https://towardsdatascience.com/intro-to-probabilistic-programming-b47c4e926ec5)
 20. [Dive into Snorkel: Weak-Superversion on German Texts. inovex Blog](https://www.inovex.de/blog/snorkel-weak-superversion-german-texts/)
 21. [Dive into Deep Learning. An interactive deep learning book with code, math, and discussions. Provides NumPy/MXNet, PyTorch, and TensorFlow implementations](http://d2l.ai/)
+22. [Data Science Collected Resources (GitHub repository)](https://github.com/tirthajyoti/Data-science-best-resources)
+23. [A resource list for causality in statistics, data science and physics](https://github.com/msuzen/looper/blob/master/looper.md)
+24. [Set of illustrated Machine Learning cheatsheets](https://stanford.edu/~shervine/teaching/cs-229/)
 
 
 <a name="software-engineering"></a>
