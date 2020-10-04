@@ -191,46 +191,46 @@
 # MLOps Papers
 
 1. [Studer, S., Bui, T.B., Drescher, C., Hanuschkin, A., Winkler, L., Peters, S. and Mueller, K.R., 2020. "Towards CRISP-ML (Q): A Machine Learning Process Model with Quality Assurance Methodology". arXiv](https://arxiv.org/pdf/2003.05155.pdf)
-1. [Building a Reproducible Machine Learning Pipeline](https://arxiv.org/ftp/arxiv/papers/1810/1810.04570.pdf)
-2. [A Systems Perspective to Reproducibility in Production Machine Learning Domain](https://openreview.net/pdf?id=Byl4vavigX)
-3. [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
-4. [Scaling Machine Learning as a Service (Uber)](http://proceedings.mlr.press/v67/li17a/li17a.pdf)
-5. [What’s your ML Test Score? A rubric for ML production systems](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45742.pdf)
-6. [Adversarial Machine Learning Reading List](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html)
-6. [From What to How: An Initial Review of Publicly Available AI Ethics Tools, Methods and Research to Translate Principles into Practices](https://arxiv.org/pdf/1905.06876.pdf)
-7. [Workshop on MLOps Systems. 2020 Third Conference on Machine Learning and Systems (MLSys)](https://mlops-systems.github.io/)
-7. *sensAI: Fast ConvNets Serving on Live Data via Class Parallelism.* Guanhua Wang, Zhuang Liu, Siyuan Zhuang, Brandon Hsieh, Joseph Gonzalez and Ion Stoica.
-7. *Towards Automated ML Model Monitoring: Measure, Improve and Quantify Data Quality.* Tammo Rukat, Dustin Lange, Sebastian Schelter and Felix Biessmann.
-7. *Towards Automating the AI Operations Lifecycle.* Matthew Arnold, Jeff Boston, Michael Desmond, Evelyn Duesterwald, Benjamin Elder, Anupama Murthi, Jiri Navratil and Darrell Reimer.
-7. *Efficient Scheduling of DNN Training on Multitenant Clusters.* Deepak Narayanan, Keshav Santhanam, Amar Phanishayee and Matei Zaharia.
-7. *Towards Complaint-driven ML Workflow Debugging.* Weiyuan Wu, Lampros Flokas, Eugene Wu and Jiannan Wang.
-7. *PerfGuard: Deploying ML-for-Systems without Performance Regressions.* H M Sajjad Hossain, Lucas Rosenblatt, Gilbert Antonius, Irene Shaffer, Remmelt Ammerlaan, Abhishek Roy, Markus Weimer, Hiren Patel, Marc Friedman, Shi Qiao, Peter Orenberg, Soundarajan Srinivasan and Alekh Jindal.
-7. [*Implicit Provenance for Machine Learning Artifacts.* Alexandru A. Ormenisan, Mahmoud Ismail, Seif Haridi and Jim Dowling.](https://dcatkth.github.io/papers/provenance_mlsys20.pdf)
-7. *Addressing the Memory Bottleneck in AI Model-Training.* David Ojika, Bhavesh Patel, G Anthony Reina, Trent Boyer, Chad Martin and Prashant Shah.
-7. *Simulating Performance of ML Systems with Offline Profiling.* Hongming Huang, Peng Cheng, Hong Xu and Yongqiang Xiong.
-7. *A Viz Recommendation System: ML Lifecycle at Tableau.* Kazem Jahanbakhsh, Eric Borchu, Mya Warren, Xiang-Bo Mao and Yogesh Sood.
-7. *CodeReef: an open portal for cross-platform MLOps and reproducible benchmarking.* Grigori Fursin, Herve Guillou and Nicolas Essayan.
-7. *Towards split learning at scale: System design.* Iker Rodríguez, Eduardo Muñagorri, Alberto Roman, Abhishek Singh, Praneeth Vepakomma and Ramesh Raskar.
-7. *MLBox: Towards Reproducible ML.* Victor Bittorf, Xinyuan Huang, Peter Mattson, Debojyoti Dutta, David Aronchick, Emad Barsoum, Sarah Bird, Sergey Serebryakov, Natalia Vassilieva, Tom St. John, Grigori Fursin, Srini Bala, Sivanagaraju Yarramaneni, Alka Roy, David Kanter and Elvira Dzhuraeva.
-7. *Conversational Applications and Natural Language Understanding Services at Scale.* Minh Tue Vo Thanh and Vijay Ramakrishnan.
-7. *Towards Distribution Transparency for Supervised ML With Oblivious Training Functions.* Moritz Meister, Sina Sheikholeslami, Robin Andersson, Alexandru Ormenisan and Jim Dowling.
-7. *Tools for machine learning experiment management.* Vlad Velici and Adam Prügel-Bennett.
-7. *MLPM: Machine Learning Package Manager.* Xiaozhe Yao.
-7. *Common Problems with Creating Machine Learning Pipelines from Existing Code.* Katie O’Leary, Makoto Uchida.
-7. [Overton: A Data System for Monitoring and Improving Machine-Learned Products, Apple.](https://arxiv.org/pdf/1909.05372.pdf)
-7. [Reliance on Metrics is a Fundamental Challenge for AI](https://arxiv.org/pdf/2002.08512.pdf)
-7. ["Assuring the machine learning lifecycle: Desiderata, methods, and challenges." Ashmore, Rob, Radu Calinescu, and Colin Paterson. (2019)](https://arxiv.org/pdf/1905.04223.pdf)
-7. ["Machine learning testing: Survey, landscapes and horizons." Zhang, Jie M., et al. IEEE Transactions on Software Engineering (2020).](https://arxiv.org/pdf/1906.10742.pdf)
-10. ["Teaching Software Engineering for AI-Enabled Systems." Kästner, Christian, and Eunsuk Kang. arXiv (2020).](https://arxiv.org/pdf/2001.06691.pdf)
-8. ["Explainable machine learning in deployment." Bhatt, Umang, et al. Proceedings of the Conference on Fairness, Accountability, and Transparency. 2020.](https://dl.acm.org/doi/pdf/10.1145/3351095.3375624)
-9. ["Studying software engineering patterns for designing machine learning systems." Washizaki, Hironori, Hiromu Uchida, Foutse Khomh, and Yann-Gaël Guéhéneuc. In 2019 10th International Workshop on Empirical Software Engineering in Practice (IWESEP)](https://arxiv.org/pdf/1910.04736.pdf)
-10. [Chen, A., Chow, A., Davidson, A., DCunha, A., Ghodsi, A., Hong, S.A., Konwinski, A., Mewald, C., Murching, S., Nykodym, T. and Ogilvie, P., 2020, June. Developments in MLflow: A System to Accelerate the Machine Learning Lifecycle. In Proceedings of the Fourth International Workshop on Data Management for End-to-End Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3399579.3399867)
-11. [Karlaš, B., Interlandi, M., Renggli, C., Wu, W., Zhang, C., Mukunthu, D., Babu, I., Edwards, J., Lauren, C., Xu, A. and Weimer, M., Building Continuous Integration Services for Machine Learning. KDD 2020](http://pages.cs.wisc.edu/~wentaowu/papers/kdd20-ci-for-ml.pdf)
-12. [Workshop at ICML 2020: "Challenges in Deploying and Monitoring Machine Learning Systems" (Accepted Papers)](https://icml.cc/Conferences/2020/Schedule?showEvent=5738)
-13. [Bosch, J., Crnkovic, I. and Olsson, H.H., 2020. Engineering AI Systems: A Research Agenda. arXiv preprint arXiv. 2020](https://arxiv.org/pdf/2001.07522.pdf)
-14. [Ribeiro, M.T., Wu, T., Guestrin, C. and Singh, S., 2020. Beyond Accuracy: Behavioral Testing of NLP Models with CheckList. ACL](https://arxiv.org/pdf/2005.04118.pdf)
-15. [Klaise, J., Van Looveren, A., Cox, C., Vacanti, G. and Coca, A., 2020. Monitoring and explainability of models in production. arXiv preprint arXiv:2007.06299.](https://arxiv.org/pdf/2007.06299.pdf)
-16. [Serban, A., van der Blom, K., Hoos, H. and Visser, J., 2020. Adoption and Effects of Software Engineering Best Practices in Machine Learning. arXiv preprint arXiv:2007.14130.](https://arxiv.org/pdf/2007.14130.pdf)
+2. [Building a Reproducible Machine Learning Pipeline](https://arxiv.org/ftp/arxiv/papers/1810/1810.04570.pdf)
+3. [A Systems Perspective to Reproducibility in Production Machine Learning Domain](https://openreview.net/pdf?id=Byl4vavigX)
+4. [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
+5. [Scaling Machine Learning as a Service (Uber)](http://proceedings.mlr.press/v67/li17a/li17a.pdf)
+6. [What’s your ML Test Score? A rubric for ML production systems](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45742.pdf)
+7. [Adversarial Machine Learning Reading List](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html)
+8. [From What to How: An Initial Review of Publicly Available AI Ethics Tools, Methods and Research to Translate Principles into Practices](https://arxiv.org/pdf/1905.06876.pdf)
+9. [Workshop on MLOps Systems. 2020 Third Conference on Machine Learning and Systems (MLSys)](https://mlops-systems.github.io/)
+10. [sensAI: Fast ConvNets Serving on Live Data via Class Parallelism. Guanhua Wang, Zhuang Liu, Siyuan Zhuang, Brandon Hsieh, Joseph Gonzalez and Ion Stoica.](https://rise.cs.berkeley.edu/wp-content/uploads/2020/01/sensAI_2_pager.pdf)
+11. [Towards Automated ML Model Monitoring: Measure, Improve and Quantify Data Quality. Tammo Rukat, Dustin Lange, Sebastian Schelter and Felix Biessmann.](https://ssc.io/pdf/autoops.pdf)
+12. [Towards Automating the AI Operations Lifecycle. Matthew Arnold, Jeff Boston, Michael Desmond, Evelyn Duesterwald, Benjamin Elder, Anupama Murthi, Jiri Navratil and Darrell Reimer.](https://arxiv.org/pdf/2003.12808)
+13. *Efficient Scheduling of DNN Training on Multitenant Clusters.* Deepak Narayanan, Keshav Santhanam, Amar Phanishayee and Matei Zaharia.
+14. [Towards Complaint-driven ML Workflow Debugging. Weiyuan Wu, Lampros Flokas, Eugene Wu and Jiannan Wang.](http://wooya.me/files/MLSys_2020.pdf)
+15. [PerfGuard: Deploying ML-for-Systems without Performance Regressions. H M Sajjad Hossain, Lucas Rosenblatt, Gilbert Antonius, Irene Shaffer, Remmelt Ammerlaan, Abhishek Roy, Markus Weimer, Hiren Patel, Marc Friedman, Shi Qiao, Peter Orenberg, Soundarajan Srinivasan and Alekh Jindal.](http://jindal-web.appspot.com/papers/perfguard.pdf)
+16. [*Implicit Provenance for Machine Learning Artifacts.* Alexandru A. Ormenisan, Mahmoud Ismail, Seif Haridi and Jim Dowling.](https://dcatkth.github.io/papers/provenance_mlsys20.pdf)
+17. [Addressing the Memory Bottleneck in AI Model-Training. David Ojika, Bhavesh Patel, G Anthony Reina, Trent Boyer, Chad Martin and Prashant Shah.](https://arxiv.org/pdf/2003.08732)
+18. [Simulating Performance of ML Systems with Offline Profiling. Hongming Huang, Peng Cheng, Hong Xu and Yongqiang Xiong.](https://arxiv.org/pdf/2002.06790.pdf)
+19. [A Viz Recommendation System: ML Lifecycle at Tableau. Kazem Jahanbakhsh, Eric Borchu, Mya Warren, Xiang-Bo Mao and Yogesh Sood.](https://haikufactory.com/wp-content/uploads/2020/03/MLOps2020_Cerebro.pdf)
+20. [CodeReef: an open platform for portable MLOps, reusable automation actions and reproducible benchmarking. Grigori Fursin, Herve Guillou and Nicolas Essayan.](https://arxiv.org/pdf/2001.07935v1.pdf)
+21. *Towards split learning at scale: System design.* Iker Rodríguez, Eduardo Muñagorri, Alberto Roman, Abhishek Singh, Praneeth Vepakomma and Ramesh Raskar.
+22. *MLBox: Towards Reproducible ML.* Victor Bittorf, Xinyuan Huang, Peter Mattson, Debojyoti Dutta, David Aronchick, Emad Barsoum, Sarah Bird, Sergey Serebryakov, Natalia Vassilieva, Tom St. John, Grigori Fursin, Srini Bala, Sivanagaraju Yarramaneni, Alka Roy, David Kanter and Elvira Dzhuraeva.
+23. *Conversational Applications and Natural Language Understanding Services at Scale.* Minh Tue Vo Thanh and Vijay Ramakrishnan.
+24. [Towards Distribution Transparency for Supervised ML With Oblivious Training Functions. Moritz Meister, Sina Sheikholeslami, Robin Andersson, Alexandru Ormenisan and Jim Dowling.](https://content.logicalclocks.com/hubfs/research/oblivious-training_mlsys20.pdf)
+25. *Tools for machine learning experiment management.* Vlad Velici and Adam Prügel-Bennett.
+26. *MLPM: Machine Learning Package Manager.* Xiaozhe Yao.
+27. [Common Problems with Creating Machine Learning Pipelines from Existing Code. Katie O’Leary, Makoto Uchida.](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b50bc83882bbd29c50250d1e59fbc3afda3fb5e5.pdf)
+28. [Overton: A Data System for Monitoring and Improving Machine-Learned Products, Apple.](https://arxiv.org/pdf/1909.05372.pdf)
+29. [Reliance on Metrics is a Fundamental Challenge for AI](https://arxiv.org/pdf/2002.08512.pdf)
+30. ["Assuring the machine learning lifecycle: Desiderata, methods, and challenges." Ashmore, Rob, Radu Calinescu, and Colin Paterson. (2019)](https://arxiv.org/pdf/1905.04223.pdf)
+31. ["Machine learning testing: Survey, landscapes and horizons." Zhang, Jie M., et al. IEEE Transactions on Software Engineering (2020).](https://arxiv.org/pdf/1906.10742.pdf)
+32. ["Teaching Software Engineering for AI-Enabled Systems." Kästner, Christian, and Eunsuk Kang. arXiv (2020).](https://arxiv.org/pdf/2001.06691.pdf)
+33. ["Explainable machine learning in deployment." Bhatt, Umang, et al. Proceedings of the Conference on Fairness, Accountability, and Transparency. 2020.](https://dl.acm.org/doi/pdf/10.1145/3351095.3375624)
+34. ["Studying software engineering patterns for designing machine learning systems." Washizaki, Hironori, Hiromu Uchida, Foutse Khomh, and Yann-Gaël Guéhéneuc. In 2019 10th International Workshop on Empirical Software Engineering in Practice (IWESEP)](https://arxiv.org/pdf/1910.04736.pdf)
+35. [Chen, A., Chow, A., Davidson, A., DCunha, A., Ghodsi, A., Hong, S.A., Konwinski, A., Mewald, C., Murching, S., Nykodym, T. and Ogilvie, P., 2020, June. Developments in MLflow: A System to Accelerate the Machine Learning Lifecycle. In Proceedings of the Fourth International Workshop on Data Management for End-to-End Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3399579.3399867)
+36. [Karlaš, B., Interlandi, M., Renggli, C., Wu, W., Zhang, C., Mukunthu, D., Babu, I., Edwards, J., Lauren, C., Xu, A. and Weimer, M., Building Continuous Integration Services for Machine Learning. KDD 2020](http://pages.cs.wisc.edu/~wentaowu/papers/kdd20-ci-for-ml.pdf)
+37. [Workshop at ICML 2020: "Challenges in Deploying and Monitoring Machine Learning Systems" (Accepted Papers)](https://icml.cc/Conferences/2020/Schedule?showEvent=5738)
+38. [Bosch, J., Crnkovic, I. and Olsson, H.H., 2020. Engineering AI Systems: A Research Agenda. arXiv preprint arXiv. 2020](https://arxiv.org/pdf/2001.07522.pdf)
+39. [Ribeiro, M.T., Wu, T., Guestrin, C. and Singh, S., 2020. Beyond Accuracy: Behavioral Testing of NLP Models with CheckList. ACL](https://arxiv.org/pdf/2005.04118.pdf)
+40. [Klaise, J., Van Looveren, A., Cox, C., Vacanti, G. and Coca, A., 2020. Monitoring and explainability of models in production. arXiv preprint arXiv:2007.06299.](https://arxiv.org/pdf/2007.06299.pdf)
+41. [Serban, A., van der Blom, K., Hoos, H. and Visser, J., 2020. Adoption and Effects of Software Engineering Best Practices in Machine Learning. arXiv preprint arXiv:2007.14130.](https://arxiv.org/pdf/2007.14130.pdf)
 
 
 
