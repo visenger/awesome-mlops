@@ -292,7 +292,7 @@
 2. [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 2. ["Papers with Code" - Browse the State-of-the-Art in Machine Learning](https://paperswithcode.com/sota)
 2. [Zhi-Hua Zhou. 2012. Ensemble Methods: Foundations and Algorithms. Chapman & Hall/CRC.](https://www.amazon.com/exec/obidos/ASIN/1439830037/acmorg-20)
-2. [Feature Engineering for Machine Learning. Principles and Techniques for Data Scientists.By Alice Zheng, Amanda Casari]()
+2. [Feature Engineering for Machine Learning. Principles and Techniques for Data Scientists. By Alice Zheng, Amanda Casari](https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles-ebook/dp/B07BNX4MWC)
 3. [Google Research: Looking Back at 2019, and Forward to 2020 and Beyond](https://ai.googleblog.com/2020/01/google-research-looking-back-at-2019.html)
 4. [O’Reilly: The road to Software 2.0](https://www.oreilly.com/radar/the-road-to-software-2-0/?sfmc_id=89205211&utm_medium=email&utm_source=platform+b2c&utm_campaign=engagement&utm_content=whats+new+thinking+20200120)
 5. [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning)
