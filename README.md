@@ -289,7 +289,6 @@
 1. Book, Aurélien Géron,"Hands-On Machine Learning with Scikit-Learn and TensorFlow"
 1. [Foundations of Machine Learning](https://bloomberg.github.io/foml/)
 2. [Best Resources to Learn Machine Learning](http://www.trainindatablog.com/best-resources-to-learn-machine-learning/)
-2. [Curated List of Libraries For a Faster Machine Learning Workflow](https://github.com/amitness/toolbox)
 2. [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 2. ["Papers with Code" - Browse the State-of-the-Art in Machine Learning](https://paperswithcode.com/sota)
 2. [Zhi-Hua Zhou. 2012. Ensemble Methods: Foundations and Algorithms. Chapman & Hall/CRC.](https://www.amazon.com/exec/obidos/ASIN/1439830037/acmorg-20)
