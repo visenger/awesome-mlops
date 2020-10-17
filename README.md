@@ -280,6 +280,7 @@
 10. [A Tour of End-to-End Machine Learning Platforms](https://databaseline.tech/a-tour-of-end-to-end-ml-platforms/)
 11. [Introducing WhyLabs, a Leap Forward in AI Reliability](https://medium.com/whylabs/introducing-whylabs-5a3b4f37b998)
 11. [Hopsworks: Data-Intensive AI with a Feature Store](https://github.com/logicalclocks/hopsworks)
+12. [Feast: An open-source Feature Store for Machine Learning](https://github.com/feast-dev/feast)
 
 
 <a name="machine-learning"></a>
