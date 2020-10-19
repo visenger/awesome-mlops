@@ -241,6 +241,7 @@
 41. [Serban, A., van der Blom, K., Hoos, H. and Visser, J., 2020. Adoption and Effects of Software Engineering Best Practices in Machine Learning. arXiv preprint arXiv:2007.14130.](https://arxiv.org/pdf/2007.14130.pdf)
 42. [Gama, João, Indrė Žliobaitė, Albert Bifet, Mykola Pechenizkiy, and Abdelhamid Bouchachia. "A survey on concept drift adaptation." ACM computing surveys (CSUR) (2014)](http://eprints.bournemouth.ac.uk/22491/1/ACM%20computing%20surveys.pdf)
 43. [Belle, V. and Papantonis, I., 2020. Principles and Practice of Explainable Machine Learning. arXiv preprint arXiv:2009.11698.](https://arxiv.org/pdf/2009.11698.pdf)
+44. [H.Z. Zhang, Y.M. Li, Y.Z. Huang, Y.G. Wen, J.X. Yin, and K. Guan. 2020. MLModelCI: An Automatic Cloud Platform for Efficient MLaaS. In Proceedings of the 28th ACM International Conference on Multimedia (MM '20).](https://dl.acm.org/doi/abs/10.1145/3394171.3414535)
 
 
 
