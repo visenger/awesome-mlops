@@ -224,8 +224,7 @@
 2. [AI Infrastructure Alliance. Building the canonical stack for AI/ML](https://ai-infrastructure.org/)
 3. [Linux Foundation AI Foundation](https://wiki.lfai.foundation/)
 4. [ML Infrastructure Tools for Production (Part 1) Production ML — The Final Stage of the Model Workflow](https://towardsdatascience.com/ml-infrastructure-tools-for-production-1b1871eecafb)
-
-
+5. [The MLOps Stack Template](https://valohai.com/blog/the-mlops-stack/)
 
 <a name="mlops-papers"></a>
 # MLOps Papers
