@@ -165,6 +165,7 @@
 
 <a name="dataops"></a>
 # MLOps: Data Engineering (DataOps)
+
 1. [The state of data quality in 2020 – O’Reilly](https://www.oreilly.com/radar/the-state-of-data-quality-in-2020/)
 1. [Why We Need DevOps for ML Data](https://tecton.ai/blog/devops-ml-data/) 
 2. [Data Preparation for Machine Learning (7-Day Mini-Course)](https://machinelearningmastery.com/data-preparation-for-machine-learning-7-day-mini-course/)
@@ -183,6 +184,7 @@
 
 <a name="deployment"></a> 
 # MLOps: Model Deployment and Serving
+
 1. [AI Infrastructure for Everyone: DeterminedAI](https://determined.ai/)
 2. [Deploying R Models with MLflow and Docker](https://mdneuzerling.com/post/deploying-r-models-with-mlflow-and-docker/)
 3. [What Does it Mean to Deploy a Machine Learning Model?](https://mlinproduction.com/what-does-it-mean-to-deploy-a-machine-learning-model-deployment-series-01/)
@@ -199,6 +201,7 @@
  
 <a name="testing-monintoring"></a> 
 # MLOps: Testing, Monitoring and Maintenance
+
 1. [Building dashboards for operational visibility (AWS)](https://aws.amazon.com/builders-library/building-dashboards-for-operational-visibility/)
 2. [Monitoring Machine Learning Models in Production](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
 3. [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
@@ -467,9 +470,5 @@
 2. [Announcing Projects To Know, a weekly machine intelligence and data science newsletter](https://blog.amplifypartners.com/announcing-projects-to-know/)
 2. [TWIML: This Week in Machine Learning and AI newsletter](https://twimlai.com/newsletter/)
 2. [featurestore.org: Monthly Newsletter on Feature Stores for ML](https://www.featurestore.org/)
-
-
-
-
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/visenger?style=social)
