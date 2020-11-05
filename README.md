@@ -39,7 +39,7 @@
 
 1. [MLOps.community](https://mlops.community/)
 2. [CDF Special Interest Group - MLOps](https://github.com/cdfoundation/sig-mlops)
-3. [RsqrdAI - Rosbust and Responsible AI](https://www.rsqrdai.org)
+3. [RsqrdAI - Robust and Responsible AI](https://www.rsqrdai.org)
 
 
 <a name="mlops-books"></a>
@@ -424,25 +424,31 @@
 # Model Governance, Ethics, Responsible AI
 
 1. [Book: "Practical Fairness". 2020. By Aileen Nielsen. O'Reilly Media, Inc.](https://learning.oreilly.com/library/view/practical-fairness/9781492075721/)
-2. [Book: "Fairness and machine learning: Limitations and Opportunities." Barocas, S., Hardt, M. and Narayanan, A., 2018.](https://fairmlbook.org/)
+1. [Book: "Fairness and machine learning: Limitations and Opportunities." Barocas, S., Hardt, M. and Narayanan, A., 2018.](https://fairmlbook.org/)
 1. [What are model governance and model operations? A look at the landscape of tools for building and deploying robust, production-ready machine learning models](https://www.oreilly.com/radar/what-are-model-governance-and-model-operations/)
 2. [Specialized tools for machine learning development and model governance are becoming essential. Why companies are turning to specialized machine learning tools like MLflow.](https://www.oreilly.com/ideas/specialized-tools-for-machine-learning-development-and-model-governance-are-becoming-essential)
-29. [What are model governance and model operations? – O’Reilly](https://www.oreilly.com/radar/what-are-model-governance-and-model-operations/)
-44. [AI Fairness 360, A Step Towards Trusted AI - IBM Research](https://www.ibm.com/blogs/research/2018/09/ai-fairness-360/)
-44. [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai-resources)
-44. [TensorFlow Privacy](https://github.com/tensorflow/privacy)
-2. [Learn how to integrate Responsible AI practices into your ML workflow using TensorFlow](https://www.tensorflow.org/resources/responsible-ai)
-3. [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/index.html)
-4. [Programming Fairness in Algorithms. Understanding and combating issues of fairness in supervised learning.](https://towardsdatascience.com/programming-fairness-in-algorithms-4943a13dd9f8)
-5. [Secure, privacy-preserving and federated machine learning in medical imaging](https://www.nature.com/articles/s42256-020-0186-1)
-6. [Artifical intelligence and machine learning security (by Microsoft)](https://docs.microsoft.com/en-us/security/engineering/failure-modes-in-machine-learning) The references therein are useful.
-7. [Evtimov, Ivan, Weidong Cui, Ece Kamar, Emre Kiciman, Tadayoshi Kohno, and Jerry Li. "Security and Machine Learning in the Real World." arXiv (2020).](https://arxiv.org/pdf/2007.07205.pdf)
-8. [Explainable AI (Gartner Prediction for 2023)](https://www.gartner.com/en/conferences/apac/data-analytics-india/gartner-insights/rn-top-10-data-analytics-trends/explainable-ai)
-9. [What We've Learned to Control. By Ben Recht](https://www.argmin.net/2020/06/29/tour-revisited/?utm_source=gradientflow&utm_medium=newsletter&utm_campaign=issue14)
-10. [State of AI Ethics June 2020 Report by the Montreal AI Ethics Institute](https://bit.ly/stateofaiethics1)
-11. [Practical Data Ethics](https://ethics.fast.ai/)
-12. [The LinkedIn Fairness Toolkit (LiFT)](https://github.com/linkedin/LiFT)
-13. [Four Principles of Explainable Artificial Intelligence (NIST Draft). Phillips, P.J., Hahn, A.C., Fontana, P.C., Broniatowski, D.A. and Przybocki, M.A., 2020.](https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8312-draft.pdf)
+1. [What are model governance and model operations? – O’Reilly](https://www.oreilly.com/radar/what-are-model-governance-and-model-operations/)
+1. [AI Fairness 360, A Step Towards Trusted AI - IBM Research](https://www.ibm.com/blogs/research/2018/09/ai-fairness-360/)
+1. [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai-resources)
+1. [TensorFlow Privacy](https://github.com/tensorflow/privacy)
+1. [Learn how to integrate Responsible AI practices into your ML workflow using TensorFlow](https://www.tensorflow.org/resources/responsible-ai)
+1. [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/index.html)
+1. [Programming Fairness in Algorithms. Understanding and combating issues of fairness in supervised learning.](https://towardsdatascience.com/programming-fairness-in-algorithms-4943a13dd9f8)
+1. [Secure, privacy-preserving and federated machine learning in medical imaging](https://www.nature.com/articles/s42256-020-0186-1)
+1. [Artifical intelligence and machine learning security (by Microsoft)](https://docs.microsoft.com/en-us/security/engineering/failure-modes-in-machine-learning) The references therein are useful.
+1. [Evtimov, Ivan, Weidong Cui, Ece Kamar, Emre Kiciman, Tadayoshi Kohno, and Jerry Li. "Security and Machine Learning in the Real World." arXiv (2020).](https://arxiv.org/pdf/2007.07205.pdf)
+1. [Explainable AI (Gartner Prediction for 2023)](https://www.gartner.com/en/conferences/apac/data-analytics-india/gartner-insights/rn-top-10-data-analytics-trends/explainable-ai)
+1. [What We've Learned to Control. By Ben Recht](https://www.argmin.net/2020/06/29/tour-revisited/?utm_source=gradientflow&utm_medium=newsletter&utm_campaign=issue14)
+1. [State of AI Ethics June 2020 Report by the Montreal AI Ethics Institute](https://bit.ly/stateofaiethics1)
+1. [Practical Data Ethics](https://ethics.fast.ai/)
+1. [The LinkedIn Fairness Toolkit (LiFT)](https://github.com/linkedin/LiFT)
+1. [Four Principles of Explainable Artificial Intelligence (NIST Draft). Phillips, P.J., Hahn, A.C., Fontana, P.C., Broniatowski, D.A. and Przybocki, M.A., 2020.](https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8312-draft.pdf)
+1. [Data Ethics Canvas](https://theodi.org/article/data-ethics-canvas/). Helps identify and manage ethical issues – at the start of a project that uses data, and throughout. Also see [Ethics Canvas](https://www.ethicscanvas.org/) for broader scope.
+1. Mitchell, Margaret and Wu, Simone and Zaldivar, Andrew and Barnes, Parker and Vasserman, Lucy and Hutchinson, Ben and Spitzer, Elena and Raji, Inioluwa Deborah and Gebru, Timnit. ["Model Cards for Model Reporting"](https://arxiv.org/abs/1908.06165) (2019)
+1. [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) streamlines and automates generation of [Model Cards](https://modelcards.withgoogle.com/about).
+1. [ABOUT ML](https://www.partnershiponai.org/about-ml/) - Annotation and Benchmarking on Understanding and Transparency of Machine learning Lifecycles.
+1. [ML Metata](https://github.com/google/ml-metadata) - a library for recording and retrieving metadata associated with ML developer and data scientist workflows. Also [TensorFlow ML Metadata](https://www.tensorflow.org/tfx/guide/mlmd).
+
 
 <a name="newsletters"></a>
 # Newsletters About MLOps, Machine Learning, Data Science and Co.
