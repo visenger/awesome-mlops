@@ -447,7 +447,7 @@
 1. Mitchell, Margaret and Wu, Simone and Zaldivar, Andrew and Barnes, Parker and Vasserman, Lucy and Hutchinson, Ben and Spitzer, Elena and Raji, Inioluwa Deborah and Gebru, Timnit. ["Model Cards for Model Reporting"](https://arxiv.org/abs/1908.06165) (2019)
 1. [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) streamlines and automates generation of [Model Cards](https://modelcards.withgoogle.com/about).
 1. [ABOUT ML](https://www.partnershiponai.org/about-ml/) - Annotation and Benchmarking on Understanding and Transparency of Machine learning Lifecycles.
-1. [ML Metata](https://github.com/google/ml-metadata) - a library for recording and retrieving metadata associated with ML developer and data scientist workflows. Also [TensorFlow ML Metadata](https://www.tensorflow.org/tfx/guide/mlmd).
+1. [ML Metadata](https://github.com/google/ml-metadata) - a library for recording and retrieving metadata associated with ML developer and data scientist workflows. Also [TensorFlow ML Metadata](https://www.tensorflow.org/tfx/guide/mlmd).
 
 
 <a name="newsletters"></a>
