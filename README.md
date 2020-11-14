@@ -32,7 +32,7 @@
 7. [Engineering best practices for Machine Learning](https://se-ml.github.io/practices/)
 8. [:rocket: Putting ML in Production](https://madewithml.com/courses/putting-ml-in-production/)
 9. [Stanford MLSys Seminar Series](https://mlsys.stanford.edu/)
-
+10. [IBM ML Operationalization Starter Kit](https://github.com/ibm-cloud-architecture/refarch-ml-ops)
 
 <a name="mlops-communities"></a>
 # MLOps Communities
