@@ -138,7 +138,7 @@
 1. [Best practices for performance and cost optimization for machine learning (Google Cloud)](https://cloud.google.com/solutions/machine-learning/best-practices-for-ml-performance-cost)
 1. [Lean Data and Machine Learning Operations](https://databaseline.tech/lean-dml-operations/)
 1. [A Brief Guide to Running ML Systems in Production Best Practices for Site Reliability Engineers](https://www.oreilly.com/content/a-brief-guide-to-running-ml-systems-in-production/)
-1. [Experiment Management: How to Organize Your Model Development Process](https://www.experfy.com/blog/experiment-management-how-to-organize-your-model-development-process/)
+
 1. [AI engineering practices in the wild - SIG | Getting software right for a healthier digital world](https://www.softwareimprovementgroup.com/resources/ai-engineering-practices-in-the-wild/)
 1. [SE-ML | The 2020 State of Engineering Practices for Machine Learning](https://se-ml.github.io/report2020)
 1. [Awesome Software Engineering for Machine Learning (GitHub repository)](https://github.com/SE-ML/awesome-seml)
