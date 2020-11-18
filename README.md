@@ -140,7 +140,6 @@
 91. [Best practices for performance and cost optimization for machine learning (Google Cloud)](https://cloud.google.com/solutions/machine-learning/best-practices-for-ml-performance-cost)
 92. [Lean Data and Machine Learning Operations](https://databaseline.tech/lean-dml-operations/)
 93. [A Brief Guide to Running ML Systems in Production Best Practices for Site Reliability Engineers](https://www.oreilly.com/content/a-brief-guide-to-running-ml-systems-in-production/)
-94. [Experiment Management: How to Organize Your Model Development Process](https://www.experfy.com/blog/experiment-management-how-to-organize-your-model-development-process/)
 95. [AI engineering practices in the wild - SIG | Getting software right for a healthier digital world](https://www.softwareimprovementgroup.com/resources/ai-engineering-practices-in-the-wild/)
 96. [SE-ML | The 2020 State of Engineering Practices for Machine Learning](https://se-ml.github.io/report2020)
 97. [Awesome Software Engineering for Machine Learning (GitHub repository)](https://github.com/SE-ML/awesome-seml)
@@ -297,7 +296,7 @@
 13. [Efficient ML engineering: Tools and best practices](https://learning.oreilly.com/videos/oreilly-strata-data/9781492050681/9781492050681-video327465?autoplay=false)
 14. [Beyond the jupyter notebook: how to build data science products](https://towardsdatascience.com/beyond-the-jupyter-notebook-how-to-build-data-science-products-50d942fc25d8)
 15. [An introduction to MLOps on Google Cloud](https://www.youtube.com/watch?v=6gdrwFMaEZ0#action=share) (First 19 min are vendor-, language-, and framework-agnostic. @visenger)
-16. [How ML Breaks: A Decade of Outages for One Large ML Pipeline](https://youtu.be/hBMHohkRgAA)
+16. [How ML Breaks: A Decade of Outages for One Large ML Pipeline](https://youtu.be/hBMHohkRgAA)  :eyes: [Slides](https://www.usenix.org/sites/default/files/conference/protected-files/opml20_talks_70_slides_papasian.pdf)
 17. [Clean Machine Learning Code: Practical Software Engineering](https://youtu.be/PEjTAJHxYPM)
 
 
