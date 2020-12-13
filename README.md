@@ -193,6 +193,7 @@
 1. [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 1. [Awesome Data Engineering. Learning path and resources to become a data engineer](https://awesomedataengineering.com/)
 1. Data Quality at Airbnb [Part 1](https://medium.com/airbnb-engineering/data-quality-at-airbnb-e582465f3ef7) | [Part 2](https://medium.com/airbnb-engineering/data-quality-at-airbnb-870d03080469)
+1. [DataHub: Popular metadata architectures explained](https://engineering.linkedin.com/blog/2020/datahub-popular-metadata-architectures-explained)
 
 
 <a name="deployment"></a> 
@@ -230,6 +231,7 @@
 1. [Evidently AI. Insights on doing machine learning in production. (Vendor blog.)](https://evidentlyai.com/blog)
 1. [The definitive guide to comprehensively monitoring your AI](https://www.monalabs.io/mona-blog/definitiveguidetomonitorai)
 1. [Introduction to Unit Testing for Machine Learning](https://themlrebellion.com/blog/Introduction-To-Unit-Testing-Machine-Learning/)
+1. [Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)
 
 
 
