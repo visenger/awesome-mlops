@@ -211,6 +211,8 @@
 1. [Deploying Machine Learning models to production — **Inference service architecture patterns**](https://medium.com/data-for-ai/deploying-machine-learning-models-to-production-inference-service-architecture-patterns-bc8051f70080)
 1. [Serverless ML: Deploying Lightweight Models at Scale](https://mark.douthwaite.io/serverless-machine-learning/)
 1. ML Model Rollout To Production. [Part 1](https://www.superwise.ai/resources/safely-rolling-out-ml-models-to-production) | [Part 2](https://www.superwise.ai/resources/part-ii-safely-rolling-out-models-to-production)
+1. [Deploying Python ML Models with Flask, Docker and Kubernetes](https://alexioannides.com/2019/01/10/deploying-python-ml-models-with-flask-docker-and-kubernetes/)
+1. [Deploying Python ML Models with Bodywork](https://alexioannides.com/2020/12/01/deploying-python-ml-models-with-bodywork/)
 
  
 <a name="testing-monintoring"></a> 
@@ -336,6 +338,7 @@
 1. [A Tour of End-to-End Machine Learning Platforms](https://databaseline.tech/a-tour-of-end-to-end-ml-platforms/)
 1. [Introducing WhyLabs, a Leap Forward in AI Reliability](https://medium.com/whylabs/introducing-whylabs-5a3b4f37b998)
 1. [Project: Ease.ml (ETH Zürich)](https://ds3lab.inf.ethz.ch/easeml.html)
+1. [Bodywork: model-training and deployment automation](https://bodywork.readthedocs.io/en/latest/)
 
 
 <a name="machine-learning"></a>
