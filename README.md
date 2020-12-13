@@ -472,5 +472,6 @@
 1. [Announcing Projects To Know, a weekly machine intelligence and data science newsletter](https://blog.amplifypartners.com/announcing-projects-to-know/)
 1. [TWIML: This Week in Machine Learning and AI newsletter](https://twimlai.com/newsletter/)
 1. [featurestore.org: Monthly Newsletter on Feature Stores for ML](https://www.featurestore.org/)
+1. [DataTalks.Club Community: Slack, Newsletter, Podcast, Weeekly Events](https://datatalks.club/)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/visenger?style=social)
