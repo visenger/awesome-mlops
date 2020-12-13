@@ -57,6 +57,7 @@
 1. ["Serving Machine Learning Models: A Guide to Architecture, Stream Processing Engines, and Frameworks" by Boris Lublinsky, O'Reilly Media, Inc. 2017](https://www.lightbend.com/ebooks/machine-learning-guide-architecture-stream-processing-frameworks-oreilly)
 1. ["Kubeflow for Machine Learning" by Holden Karau, Trevor Grant, Ilan Filonenko, Richard Liu, Boris Lublinsky](https://learning.oreilly.com/library/view/kubeflow-for-machine/9781492050117/)
 1. ["Clean Machine Learning Code" by Moussa Taifi. Leanpub. 2020](https://leanpub.com/cleanmachinelearningcode)
+1. ["Machine Learning Bookcamp" by Alexey Grigorev](https://www.manning.com/books/machine-learning-bookcamp)
 
 
 <a name="mlops-articles"></a>
