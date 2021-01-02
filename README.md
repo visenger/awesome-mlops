@@ -42,6 +42,7 @@
 1. [MLOps.community](https://mlops.community/)
 1. [CDF Special Interest Group - MLOps](https://github.com/cdfoundation/sig-mlops)
 1. [RsqrdAI - Robust and Responsible AI](https://www.rsqrdai.org)
+1. [DataTalks.Club](https://datatalks.club/)
 
 
 <a name="mlops-books"></a>
