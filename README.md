@@ -329,6 +329,7 @@
 1. [An introduction to MLOps on Google Cloud](https://www.youtube.com/watch?v=6gdrwFMaEZ0#action=share) (First 19 min are vendor-, language-, and framework-agnostic. @visenger)
 1. [How ML Breaks: A Decade of Outages for One Large ML Pipeline](https://youtu.be/hBMHohkRgAA)
 1. [Clean Machine Learning Code: Practical Software Engineering](https://youtu.be/PEjTAJHxYPM)
+1. [Machine Learning Engineering: 10 Fundamentale Praktiken](https://www.youtube.com/watch?v=VYlXNWxqJ2A)
 
 
 <a name="existing-ml-systems"></a>
