@@ -64,6 +64,8 @@
 1. [E-Book "Practical MLOps. How to Get Ready for Production Models"](https://valohai.com/mlops-ebook/)
 1. ["Introducing MLOps" by Mark Treveil, et al. O'Reilly Media, Inc. 2020](https://learning.oreilly.com/library/view/introducing-mlops/9781492083283/)
 1. ["Machine Learning for Data Streams with Practical Examples in MOA", Bifet, Albert and Gavald\`a, Ricard and Holmes, Geoff and Pfahringer, Bernhard, MIT Press, 2018](https://moa.cms.waikato.ac.nz/book/)
+1. ["Machine Learning Product Manual" by Laszlo Sragner, Chris Kelly](https://machinelearningproductmanual.com/)
+
 
 
 
