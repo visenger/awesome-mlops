@@ -162,7 +162,7 @@
 1. [Data Science Engineering at Shopify](https://shopify.engineering/topics/data-science-engineering)
 1. [Building state-of-the-art machine learning technology with efficient execution for the crypto economy](https://blog.coinbase.com/building-state-of-the-art-machine-learning-technology-with-efficient-execution-for-the-crypto-ad10896a48a)
 1. [Completing the Machine Learning Loop](https://jimmymwhitaker.medium.com/completing-the-machine-learning-loop-e03c784eaab4)
-
+1. [Deploying Machine Learning Models: A Checklist](https://twolodzko.github.io/ml-checklist) 
 
 
 <a name="feature-stores"></a>
