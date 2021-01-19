@@ -298,6 +298,7 @@
 1. [Chen, A., Chow, A., Davidson, A., DCunha, A., Ghodsi, A., Hong, S.A., Konwinski, A., Mewald, C., Murching, S., Nykodym, T. and Ogilvie, P., 2020, June. Developments in MLflow: A System to Accelerate the Machine Learning Lifecycle. In Proceedings of the Fourth International Workshop on Data Management for End-to-End Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3399579.3399867)
 1. [Karlaš, B., Interlandi, M., Renggli, C., Wu, W., Zhang, C., Mukunthu, D., Babu, I., Edwards, J., Lauren, C., Xu, A. and Weimer, M., Building Continuous Integration Services for Machine Learning. KDD 2020](http://pages.cs.wisc.edu/~wentaowu/papers/kdd20-ci-for-ml.pdf)
 1. [Workshop at ICML 2020: "Challenges in Deploying and Monitoring Machine Learning Systems" (Accepted Papers)](https://icml.cc/Conferences/2020/Schedule?showEvent=5738)
+1. [Baier, L., Jöhren, F., & Seebacher, S., 2019. Challenges in the deployment and operation of machine learning in practice.](https://aisel.aisnet.org/ecis2019_rp/163/)
 1. [Bosch, J., Crnkovic, I. and Olsson, H.H., 2020. Engineering AI Systems: A Research Agenda. arXiv preprint arXiv. 2020](https://arxiv.org/pdf/2001.07522.pdf)
 1. [Ribeiro, M.T., Wu, T., Guestrin, C. and Singh, S., 2020. Beyond Accuracy: Behavioral Testing of NLP Models with CheckList. ACL](https://arxiv.org/pdf/2005.04118.pdf)
 1. [Klaise, J., Van Looveren, A., Cox, C., Vacanti, G. and Coca, A., 2020. Monitoring and explainability of models in production. arXiv preprint arXiv:2007.06299.](https://arxiv.org/pdf/2007.06299.pdf)
