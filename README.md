@@ -333,6 +333,7 @@
 1. [How ML Breaks: A Decade of Outages for One Large ML Pipeline](https://youtu.be/hBMHohkRgAA)
 1. [Clean Machine Learning Code: Practical Software Engineering](https://youtu.be/PEjTAJHxYPM)
 1. [Machine Learning Engineering: 10 Fundamentale Praktiken](https://www.youtube.com/watch?v=VYlXNWxqJ2A)
+1. [Architecture of machine learning systems (3-part series)](https://www.youtube.com/playlist?list=PLx8omXiw3n9y26FKZLV5ScyS52D_c29QN)
 
 
 <a name="existing-ml-systems"></a>
