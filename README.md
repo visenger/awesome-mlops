@@ -65,7 +65,7 @@
 1. ["Introducing MLOps" by Mark Treveil, et al. O'Reilly Media, Inc. 2020](https://learning.oreilly.com/library/view/introducing-mlops/9781492083283/)
 1. ["Machine Learning for Data Streams with Practical Examples in MOA", Bifet, Albert and Gavald\`a, Ricard and Holmes, Geoff and Pfahringer, Bernhard, MIT Press, 2018](https://moa.cms.waikato.ac.nz/book/)
 1. ["Machine Learning Product Manual" by Laszlo Sragner, Chris Kelly](https://machinelearningproductmanual.com/)
-
+1. ["Data Science Bootstrap Notes" by Eric J. Ma](https://ericmjl.github.io/data-science-bootstrap-notes/)
 
 
 
@@ -526,5 +526,6 @@
 1. [featurestore.org: Monthly Newsletter on Feature Stores for ML](https://www.featurestore.org/)
 1. [DataTalks.Club Community: Slack, Newsletter, Podcast, Weeekly Events](https://datatalks.club/)
 1. [Machine Learning Ops Roundup](https://mlopsroundup.substack.com/)
+1. [Data Science Programming Newsletter by Eric Ma](https://dspn.substack.com/)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/visenger?style=social)
