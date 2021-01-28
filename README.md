@@ -308,8 +308,9 @@
 1. [Karmarkar, A., Altay, A., Zaks, A., Polyzotis, N., Ramesh, A., Mathes, B., Vasudevan, G., Giannoumis, I., Wilkiewicz, J., Simsa, J. and Hong, J., 2020. **Towards ML Engineering**: A Brief History Of TensorFlow Extended (TFX). arXiv preprint arXiv:2010.02013.](https://arxiv.org/pdf/2010.02013.pdf)
 1. [Nazabal, A., Williams, C.K., Colavizza, G., Smith, C.R. and Williams, A., 2020. Data Engineering for Data Analytics: A Classification of the Issues, and Case Studies. arXiv preprint arXiv:2004.12929.](https://arxiv.org/pdf/2004.12929.pdf)
 1. [Aguilar, Leonel, David Dao, Shaoduo Gan, Nezihe Merve Gurel, Nora Hollenstein, Jiawei Jiang, Bojan Karlas et al. "Ease. ML: A Lifecycle Management System for MLDev and MLOps."](http://cidrdb.org/cidr2021/papers/cidr2021_paper26.pdf)
-
-
+1. [Challenges in deploying machine learning: a survey of case studies.](https://arxiv.org/abs/2011.09926)
+1. [Challenges in the deployment and operation of machine learning in practice.](https://aisel.aisnet.org/ecis2019_rp/163/)
+1. [On Challenges in Machine Learning Model Management.](https://web.kaust.edu.sa/Faculty/MarcoCanini/classes/CS290E/F19/papers/challenges.pdf)
 
 <a name="talks-about-mlops"></a>
 # Talks About MLOps
