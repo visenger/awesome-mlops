@@ -261,6 +261,11 @@
 <a name="mlops-papers"></a>
 # MLOps Papers
 
+1. **(2021) Ease.ML: a lifecycle management system for MLDev and MLOps.** This paper presents a system for managing and automating the entire lifecycle of machine learning application development. [Go to paper](https://www.research-collection.ethz.ch/handle/20.500.11850/458916)
+1. **(2021) Challenges in deploying machine learning: a survey of case studies.** This survey reviews published reports of deploying machine learning solutions in a variety of use cases, industries and applications and extracts practical considerations corresponding to stages of the machine learning deployment workflow. [Go to paper](https://arxiv.org/abs/2011.09926)
+1. **(2019) Challenges in the deployment and operation of machine learning in practice.** In this work, the authors target to systematically elicit the challenges in deployment and operation to enable broader practical dissemination of machine learning applications. [Go to paper](https://aisel.aisnet.org/ecis2019_rp/163/)
+1. **(2018) On challenges in machine learning model management.** This paper discusses a selection of ML use cases, develops an overview over conceptual, engineering, and data-processing related challenges arising in the management of the
+corresponding ML models, and points out future research directions. [Go to paper](https://web.kaust.edu.sa/Faculty/MarcoCanini/classes/CS290E/F19/papers/challenges.pdf)
 1. [Studer, S., Bui, T.B., Drescher, C., Hanuschkin, A., Winkler, L., Peters, S. and Mueller, K.R., 2020. "Towards CRISP-ML (Q): A Machine Learning Process Model with Quality Assurance Methodology". arXiv](https://arxiv.org/pdf/2003.05155.pdf)
 1. [Building a Reproducible Machine Learning Pipeline](https://arxiv.org/ftp/arxiv/papers/1810/1810.04570.pdf)
 1. [A Systems Perspective to Reproducibility in Production Machine Learning Domain](https://openreview.net/pdf?id=Byl4vavigX)
@@ -307,10 +312,7 @@
 1. [H.Z. Zhang, Y.M. Li, Y.Z. Huang, Y.G. Wen, J.X. Yin, and K. Guan. 2020. MLModelCI: An Automatic Cloud Platform for Efficient MLaaS. In Proceedings of the 28th ACM International Conference on Multimedia (MM '20).](https://dl.acm.org/doi/abs/10.1145/3394171.3414535)
 1. [Karmarkar, A., Altay, A., Zaks, A., Polyzotis, N., Ramesh, A., Mathes, B., Vasudevan, G., Giannoumis, I., Wilkiewicz, J., Simsa, J. and Hong, J., 2020. **Towards ML Engineering**: A Brief History Of TensorFlow Extended (TFX). arXiv preprint arXiv:2010.02013.](https://arxiv.org/pdf/2010.02013.pdf)
 1. [Nazabal, A., Williams, C.K., Colavizza, G., Smith, C.R. and Williams, A., 2020. Data Engineering for Data Analytics: A Classification of the Issues, and Case Studies. arXiv preprint arXiv:2004.12929.](https://arxiv.org/pdf/2004.12929.pdf)
-1. [Aguilar, Leonel, David Dao, Shaoduo Gan, Nezihe Merve Gurel, Nora Hollenstein, Jiawei Jiang, Bojan Karlas et al. "Ease. ML: A Lifecycle Management System for MLDev and MLOps."](http://cidrdb.org/cidr2021/papers/cidr2021_paper26.pdf)
-1. [Paleyes, Andrei, Raoul-Gabriel Urma, and Neil D. Lawrence. "Challenges in deploying machine learning: a survey of case studies." (2020).](https://arxiv.org/abs/2011.09926)
-1. [Baier, Lucas, Fabian Jöhren, and Stefan Seebacher. "Challenges in the deployment and operation of machine learning in practice." (2019).](https://aisel.aisnet.org/ecis2019_rp/163/)
-1. [Schelter, Sebastian, Felix Biessmann, Tim Januschowski, David Salinas, Stephan Seufert, and Gyuri Szarvas. "On challenges in machine learning model management." (2018).](https://web.kaust.edu.sa/Faculty/MarcoCanini/classes/CS290E/F19/papers/challenges.pdf)
+
 
 <a name="talks-about-mlops"></a>
 # Talks About MLOps
