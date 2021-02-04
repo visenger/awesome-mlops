@@ -501,6 +501,7 @@ corresponding ML models, and points out future research directions. [Go to paper
 1. Mitchell, Margaret and Wu, Simone and Zaldivar, Andrew and Barnes, Parker and Vasserman, Lucy and Hutchinson, Ben and Spitzer, Elena and Raji, Inioluwa Deborah and Gebru, Timnit. 
 1. ["Model Cards for Model Reporting"](https://arxiv.org/abs/1908.06165) (2019) - Code: [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit)
 1. [Navigate the road to Responsible AI – Gradient Flow Blog](https://gradientflow.com/navigate-the-road-to-responsible-ai/)
+1. [Machine Learning Systems: Security](https://sahbichaieb.com/mlsystems-security/)
 
 
 <a name="newsletters"></a>
