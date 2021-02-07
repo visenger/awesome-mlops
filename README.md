@@ -17,7 +17,7 @@
 | [Existing ML Systems](#existing-ml-systems) | [Machine Learning](#machine-learning)|
 | [Software Engineering](#software-engineering) | [Product Management for ML/AI](#product-management-for-mlai) | 
 | [The Economics of ML/AI](#the-economics-of-mlai) | [Model Governance, Ethics, Responsible AI](#ml-governance) | 
-| [MLOps Teams](#teams)|[Newsletters About MLOps, Machine Learning, Data Science and Co.](#newsletters)| 
+| [MLOps: People & Processes](#teams)|[Newsletters About MLOps, Machine Learning, Data Science and Co.](#newsletters)| 
 
 
 <a name="core-mlops"></a>
@@ -542,7 +542,7 @@ This stuff will be extracted into our new [Awesome ML Model Governace repository
 1. [2020 in Review: 8 New AI Regulatory Proposals from Governments](https://syncedreview.com/2020/12/31/2020-in-review-8-new-ai-regulatory-proposals-from-governments/)
 
 <a name="teams"></a>
-# MLOps Teams
+# MLOps: People & Processes
 
 1. [Scaling An ML Team (0–10 People)](https://medium.com/aquarium-learning/scaling-an-ml-team-0-10-people-ae024f3a89f3)
 
