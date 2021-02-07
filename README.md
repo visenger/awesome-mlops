@@ -10,13 +10,14 @@
 | -------------------------------- | -------------------------------- |
 | [MLOps Core](#core-mlops) | [MLOps Communities](#mlops-communities) |
 | [MLOps Books](#mlops-books) | [MLOps Articles](#mlops-articles) |
-| [MLOps: Feature Stores](#feature-stores) | [MLOps: Data Engineering (DataOps)](#dataops) |
-| [MLOps: Model Deployment and Serving](#deployment) |[MLOps: Testing, Monitoring and Maintenance](#testing-monintoring)
-| [MLOps: Infrastructure](#mlops-infra)| [MLOps Papers](#mlops-papers) | 
-| [Talks About MLOps](#talks-about-mlops) | [Existing ML Systems](#existing-ml-systems) | 
-| [Machine Learning](#machine-learning) | [Software Engineering](#software-engineering) | 
-| [Product Management for ML/AI](#product-management-for-mlai) | [The Economics of ML/AI](#the-economics-of-mlai) | 
-| [Model Governance, Ethics, Responsible AI](#ml-governance) | [Newsletters About MLOps, Machine Learning, Data Science and Co.](#newsletters)|
+| [MLOps Workflow Management](#wfl-management)| [MLOps: Feature Stores](#feature-stores) | 
+|[MLOps: Data Engineering (DataOps)](#dataops) | [MLOps: Model Deployment and Serving](#deployment) |
+| [MLOps: Testing, Monitoring and Maintenance](#testing-monintoring)| [MLOps: Infrastructure](#mlops-infra)| 
+|[MLOps Papers](#mlops-papers) | [Talks About MLOps](#talks-about-mlops) | 
+| [Existing ML Systems](#existing-ml-systems) | [Machine Learning](#machine-learning)|
+| [Software Engineering](#software-engineering) | [Product Management for ML/AI](#product-management-for-mlai) | 
+| [The Economics of ML/AI](#the-economics-of-mlai) | [Model Governance, Ethics, Responsible AI](#ml-governance) | 
+| [MLOps Teams](#teams)|[Newsletters About MLOps, Machine Learning, Data Science and Co.](#newsletters)| 
 
 
 <a name="core-mlops"></a>
@@ -103,6 +104,7 @@
 1. [The 5 Components Towards Building Production-Ready Machine Learning Systems](https://medium.com/cracking-the-data-science-interview/the-5-components-towards-building-production-ready-machine-learning-system-a4d5237ec04e)
 1. [Deep Learning in Production (references about deploying deep learning-based models in production)](https://github.com/ahkarami/Deep-Learning-in-Production)
 1. [Machine Learning Experiment Tracking](https://towardsdatascience.com/machine-learning-experiment-tracking-93b796e501b0)
+1. [15 Best Tools for Tracking Machine Learning Experiments](https://medium.com/neptune-ai/15-best-tools-for-tracking-machine-learning-experiments-64c6eff16808)
 1. [The Team Data Science Process (TDSP)](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
 1. [MLOps Solutions (Azure based)](https://github.com/visenger/MLOps)
 1. [Monitoring ML pipelines](https://intothedepthsofdataengineering.wordpress.com/2020/02/13/monitoring-ml-pipelines/)
@@ -129,7 +131,7 @@
 1. [How PyTorch Lightning became the first ML framework to run continuous integration on TPUs](https://medium.com/pytorch/how-pytorch-lightning-became-the-first-ml-framework-to-runs-continuous-integration-on-tpus-a47a882b2c95)
 1. [The ultimate guide to building maintainable Machine Learning pipelines using DVC](https://towardsdatascience.com/the-ultimate-guide-to-building-maintainable-machine-learning-pipelines-using-dvc-a976907b2a1b)
 1. [Continuous Machine Learning (CML) is CI/CD for Machine Learning Projects (DVC)](https://cml.dev/)
-1. [What I learned from looking at 200 machine learning tools](https://huyenchip.com/2020/06/22/mlops.html)
+1. [What I learned from looking at 200 machine learning tools](https://huyenchip.com/2020/06/22/mlops.html) | Update: [MLOps Tooling Landscape v2 (+84 new tools) - Dec '20](https://docs.google.com/spreadsheets/d/10pPQYmyNnYb6zshOKxBjJ704E0XUj2vJ9HCDfoZxAoA/edit#gid=1651929178)
 1. [Big Data & AI Landscape](http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png)
 1. [Deploying Machine Learning Models as Data, not Code — A better match?](https://towardsdatascience.com/deploying-machine-learning-models-as-data-not-code-omega-ml-8825a0ae530a)
 1. [“Thou shalt always scale” — 10 commandments of MLOps](https://towardsdatascience.com/mlops-thou-shalt-always-scale-10-commandments-of-mlops-152c11e711a5)
@@ -164,6 +166,19 @@
 1. [Building state-of-the-art machine learning technology with efficient execution for the crypto economy](https://blog.coinbase.com/building-state-of-the-art-machine-learning-technology-with-efficient-execution-for-the-crypto-ad10896a48a)
 1. [Completing the Machine Learning Loop](https://jimmymwhitaker.medium.com/completing-the-machine-learning-loop-e03c784eaab4)
 1. [Deploying Machine Learning Models: A Checklist](https://twolodzko.github.io/ml-checklist) 
+1. [Global MLOps and ML tools landscape (by MLReef)](https://about.mlreef.com/blog/global-mlops-and-ml-tools-landscape)
+1. [Why all Data Science teams need to get serious about MLOps](https://towardsdatascience.com/why-data-science-teams-needs-to-get-serious-about-mlops-56c98e255e20)  
+1. [MLOps Values (by Bart Grasza)](https://gist.github.com/bartgras/4ab9c716167b5d9aee6a222f7301ac60)
+1. [Machine Learning Systems Design (by Chip Huyen)](https://huyenchip.com/machine-learning-systems-design/toc.html)
+1. [Designing an ML system (Stanford | CS 329 | Chip Huyen)](https://docs.google.com/presentation/d/13a5B2HeK9Id59zy3oNJDv5_ksDvzbGmNLx4zumkimZM/edit?usp=sharing)
+1. [How COVID-19 Has Infected AI Models (about the data drift or model drift concept)](https://www.dominodatalab.com/blog/how-covid-19-has-infected-ai-models/)
+
+
+<a name="wfl-management"></a>
+# MLOps: Workflow Management
+
+1. [Open-source Workflow Management Tools: A Survey by Ploomber](https://ploomber.io/posts/survey/)
+
 
 
 <a name="feature-stores"></a>
@@ -180,6 +195,7 @@
 1. [ML Engineer Guide: Feature Store vs Data Warehouse (vendor blog)](https://www.logicalclocks.com/blog/feature-store-vs-data-warehouse)
 1. [Building a Gigascale ML Feature Store with Redis, Binary Serialization, String Hashing, and Compression (DoorDash blog)](https://doordash.engineering/2020/11/19/building-a-gigascale-ml-feature-store-with-redis/)
 1. [Feature Stores: Variety of benefits for Enterprise AI.](https://insidebigdata.com/2020/12/29/how-feature-stores-will-revolutionize-enterprise-ai/)
+1. [Feature Store as a Foundation for Machine Learning](https://towardsdatascience.com/feature-store-as-a-foundation-for-machine-learning-d010fc6eb2f3)
 
 
 
@@ -202,6 +218,15 @@
 1. Data Quality at Airbnb [Part 1](https://medium.com/airbnb-engineering/data-quality-at-airbnb-e582465f3ef7) | [Part 2](https://medium.com/airbnb-engineering/data-quality-at-airbnb-870d03080469)
 1. [DataHub: Popular metadata architectures explained](https://engineering.linkedin.com/blog/2020/datahub-popular-metadata-architectures-explained)
 1. [Financial Times Data Platform: From zero to hero. An in-depth walkthrough of the evolution of our Data Platform](https://medium.com/ft-product-technology/financial-times-data-platform-from-zero-to-hero-143156bffb1d)
+1. [Alki, or how we learned to stop worrying and love cold metadata (Dropbox)](https://dropbox.tech/infrastructure/alki--or-how-we-learned-to-stop-worrying-and-love-cold-metadata)
+1. [A Beginner's Guide to Clean Data. Practical advice to spot and avoid data quality problems (by Benjamin Greve)](https://b-greve.gitbook.io/beginners-guide-to-clean-data/)
+1. [ML Lake: Building Salesforce’s Data Platform for Machine Learning](https://engineering.salesforce.com/ml-lake-building-salesforces-data-platform-for-machine-learning-228c30e21f16)
+1. [Data Catalog 3.0: Modern Metadata for the Modern Data Stack](https://towardsdatascience.com/data-catalog-3-0-modern-metadata-for-the-modern-data-stack-ec621f593dcf)
+1. [Metadata Management Systems](https://gradientflow.com/the-growing-importance-of-metadata-management-systems/)
+1. [Essential resources for data engineers (a curated recommended read and watch list for scalable data processing)](https://www.scling.com/reading-list/)
+
+
+
 
 
 
@@ -303,6 +328,7 @@ corresponding ML models, and points out future research directions. [Go to paper
 1. ["Teaching Software Engineering for AI-Enabled Systems." Kästner, Christian, and Eunsuk Kang. arXiv (2020).](https://arxiv.org/pdf/2001.06691.pdf)
 1. ["Explainable machine learning in deployment." Bhatt, Umang, et al. Proceedings of the Conference on Fairness, Accountability, and Transparency. 2020.](https://dl.acm.org/doi/pdf/10.1145/3351095.3375624)
 1. ["Studying software engineering patterns for designing machine learning systems." Washizaki, Hironori, Hiromu Uchida, Foutse Khomh, and Yann-Gaël Guéhéneuc. In 2019 10th International Workshop on Empirical Software Engineering in Practice (IWESEP)](https://arxiv.org/pdf/1910.04736.pdf)
+1. [KHOMH, FOUTSE, and YANN-GAËL GUÉHÉNEUC. "Software Engineering Patterns for Machine Learning Applications (SEP4MLA). 2020"](https://pl.csie.ntut.edu.tw/asianplop2020/papers/AsianPLoP_2020_paper_13.pdf) | [Part 2](https://hillside.net/plop/2020/papers/washizaki.pdf)
 1. [Chen, A., Chow, A., Davidson, A., DCunha, A., Ghodsi, A., Hong, S.A., Konwinski, A., Mewald, C., Murching, S., Nykodym, T. and Ogilvie, P., 2020, June. Developments in MLflow: A System to Accelerate the Machine Learning Lifecycle. In Proceedings of the Fourth International Workshop on Data Management for End-to-End Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3399579.3399867)
 1. [Karlaš, B., Interlandi, M., Renggli, C., Wu, W., Zhang, C., Mukunthu, D., Babu, I., Edwards, J., Lauren, C., Xu, A. and Weimer, M., Building Continuous Integration Services for Machine Learning. KDD 2020](http://pages.cs.wisc.edu/~wentaowu/papers/kdd20-ci-for-ml.pdf)
 1. [Workshop at ICML 2020: "Challenges in Deploying and Monitoring Machine Learning Systems" (Accepted Papers)](https://icml.cc/Conferences/2020/Schedule?showEvent=5738)
@@ -314,6 +340,7 @@ corresponding ML models, and points out future research directions. [Go to paper
 1. [Belle, V. and Papantonis, I., 2020. Principles and Practice of Explainable Machine Learning. arXiv preprint arXiv:2009.11698.](https://arxiv.org/pdf/2009.11698.pdf)
 1. [Karmarkar, A., Altay, A., Zaks, A., Polyzotis, N., Ramesh, A., Mathes, B., Vasudevan, G., Giannoumis, I., Wilkiewicz, J., Simsa, J. and Hong, J., 2020. **Towards ML Engineering**: A Brief History Of TensorFlow Extended (TFX). arXiv preprint arXiv:2010.02013.](https://arxiv.org/pdf/2010.02013.pdf)
 1. [Nazabal, A., Williams, C.K., Colavizza, G., Smith, C.R. and Williams, A., 2020. Data Engineering for Data Analytics: A Classification of the Issues, and Case Studies. arXiv preprint arXiv:2004.12929.](https://arxiv.org/pdf/2004.12929.pdf)
+1. [Nascimento, Elizamary, Anh Nguyen-Duc, Ingrid Sundbø, and Tayana Conte. "Software engineering for artificial intelligence and machine learning software: A systematic literature review." arXiv (2020).](https://arxiv.org/pdf/2011.03751v1.pdf)
 
 
 <a name="talks-about-mlops"></a>
@@ -339,6 +366,7 @@ corresponding ML models, and points out future research directions. [Go to paper
 1. [Clean Machine Learning Code: Practical Software Engineering](https://youtu.be/PEjTAJHxYPM)
 1. [Machine Learning Engineering: 10 Fundamentale Praktiken](https://www.youtube.com/watch?v=VYlXNWxqJ2A)
 1. [Architecture of machine learning systems (3-part series)](https://www.youtube.com/playlist?list=PLx8omXiw3n9y26FKZLV5ScyS52D_c29QN)
+1. [Machine Learning Design Patterns](https://youtu.be/udXjlvCFusc)
 
 
 <a name="existing-ml-systems"></a>
@@ -380,6 +408,7 @@ corresponding ML models, and points out future research directions. [Go to paper
 1. [Yang, Q., Liu, Y., Cheng, Y., Kang, Y., Chen, T. and Yu, H., 2019. Federated learning. Synthesis Lectures on Artificial Intelligence and Machine Learning, 13(3). Chapters 1 and 2.](https://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781681736983_sample.pdf)
 1. [Federated Learning by FastForward](https://federated.fastforwardlabs.com/)
 1. [THE FEDERATED & DISTRIBUTED MACHINE LEARNING CONFERENCE](https://www.federatedlearningconference.com/)
+1. [Federated Learning: Challenges, Methods, and Future Directions](https://blog.ml.cmu.edu/2019/11/12/federated-learning-challenges-methods-and-future-directions/)
 1. [Book: Molnar, Christoph. "Interpretable machine learning. A Guide for Making Black Box Models Explainable", 2019](https://christophm.github.io/interpretable-ml-book/)
 1. [Book: Hutter, Frank, Lars Kotthoff, and Joaquin Vanschoren. "Automated Machine Learning". Springer,2019.](https://originalstatic.aminer.cn/misc/pdf/Hutter-AutoML_Book_compressed.pdf)
 1. [ML resources by topic, curated by the community. ](https://madewithml.com/topics/)
@@ -401,6 +430,10 @@ corresponding ML models, and points out future research directions. [Go to paper
 1. [Stateoftheart AI. An open-data and free platform built by the research community to facilitate the collaborative development of AI](https://www.stateoftheart.ai/)
 1. [Online Machine Learning Courses: 2020 Edition](https://www.blog.confetti.ai/post/best-online-machine-learning-courses-2020-edition)
 1. [End-to-End Machine Learning Library](https://e2eml.school/blog.html)
+1. [Machine Learning Toolbox (by Amit Chaudhary)](https://amitness.com/toolbox/)
+1. [Causality for Machine Learning](https://ff13.fastforwardlabs.com/FF13-Causality_for_Machine_Learning-Cloudera_Fast_Forward.pdf)
+
+
 
 
 
@@ -499,10 +532,17 @@ corresponding ML models, and points out future research directions. [Go to paper
 1. [Four Principles of Explainable Artificial Intelligence (NIST Draft). Phillips, P.J., Hahn, A.C., Fontana, P.C., Broniatowski, D.A. and Przybocki, M.A., 2020.](https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8312-draft.pdf)
 1. [Data Ethics Canvas](https://theodi.org/article/data-ethics-canvas/). Helps identify and manage ethical issues – at the start of a project that uses data, and throughout. Also see [Ethics Canvas](https://www.ethicscanvas.org/) for broader scope.
 1. [ABOUT ML](https://www.partnershiponai.org/about-ml/) - Annotation and Benchmarking on Understanding and Transparency of Machine learning Lifecycles.
-1. Mitchell, Margaret and Wu, Simone and Zaldivar, Andrew and Barnes, Parker and Vasserman, Lucy and Hutchinson, Ben and Spitzer, Elena and Raji, Inioluwa Deborah and Gebru, Timnit. 
-1. ["Model Cards for Model Reporting"](https://arxiv.org/abs/1908.06165) (2019) - Code: [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit)
+1. [Mitchell, Margaret and Wu, Simone and Zaldivar, Andrew and Barnes, Parker and Vasserman, Lucy and Hutchinson, Ben and Spitzer, Elena and Raji, Inioluwa Deborah and Gebru, Timnit. "Model Cards for Model Reporting" (2019)](https://arxiv.org/abs/1908.06165)  - Code: [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit)
 1. [Navigate the road to Responsible AI – Gradient Flow Blog](https://gradientflow.com/navigate-the-road-to-responsible-ai/)
 1. [Machine Learning Systems: Security](https://sahbichaieb.com/mlsystems-security/)
+1. [😈 Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness](https://github.com/daviddao/awful-ai)
+1. [Seven legal questions for data scientists](https://www.oreilly.com/radar/seven-legal-questions-for-data-scientists/)
+1. [2020 in Review: 8 New AI Regulatory Proposals from Governments](https://syncedreview.com/2020/12/31/2020-in-review-8-new-ai-regulatory-proposals-from-governments/)
+
+<a name="teams"></a>
+# MLOps Teams
+
+1. [Scaling An ML Team (0–10 People)](https://medium.com/aquarium-learning/scaling-an-ml-team-0-10-people-ae024f3a89f3)
 
 
 <a name="newsletters"></a>
