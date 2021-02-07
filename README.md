@@ -511,6 +511,8 @@ corresponding ML models, and points out future research directions. [Go to paper
 <a name="ml-governance"></a>
 # Model Governance, Ethics, Responsible AI
 
+This stuff will be extracted into our new [Awesome ML Model Governace repository](https://github.com/visenger/Awesome-ML-Model-Governance)
+
 1. [Book: "Practical Fairness". 2020. By Aileen Nielsen. O'Reilly Media, Inc.](https://learning.oreilly.com/library/view/practical-fairness/9781492075721/)
 1. [Book: "Fairness and machine learning: Limitations and Opportunities." Barocas, S., Hardt, M. and Narayanan, A., 2018.](https://fairmlbook.org/)
 1. [What are model governance and model operations? A look at the landscape of tools for building and deploying robust, production-ready machine learning models](https://www.oreilly.com/radar/what-are-model-governance-and-model-operations/)
