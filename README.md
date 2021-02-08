@@ -271,6 +271,7 @@
 1. **(2018) On challenges in machine learning model management.** This paper discusses a selection of ML use cases, develops an overview over conceptual, engineering, and data-processing related challenges arising in the management of the
 corresponding ML models, and points out future research directions. [Go to paper](https://web.kaust.edu.sa/Faculty/MarcoCanini/classes/CS290E/F19/papers/challenges.pdf)
 1. **(2018) Ease.ml in action: towards multi-tenant declarative learning services.** This demo paper presents the design principles of ease.ml, highlights the implementation of its key components, and showcases how ease.ml can help ease machine learning tasks that often perplex even experienced users. [Go to paper](http://www.vldb.org/pvldb/vol11/p2054-karlas.pdf)
+1. **(2017) Ease.ml: towards multi-tenant resource sharing for machine learning workloads.** This paper presents ease.ml, a declarative machine learning service platform. [Go to paper](https://arxiv.org/abs/1708.07308)
 1. [Studer, S., Bui, T.B., Drescher, C., Hanuschkin, A., Winkler, L., Peters, S. and Mueller, K.R., 2020. "Towards CRISP-ML (Q): A Machine Learning Process Model with Quality Assurance Methodology". arXiv](https://arxiv.org/pdf/2003.05155.pdf)
 1. [Building a Reproducible Machine Learning Pipeline](https://arxiv.org/ftp/arxiv/papers/1810/1810.04570.pdf)
 1. [A Systems Perspective to Reproducibility in Production Machine Learning Domain](https://openreview.net/pdf?id=Byl4vavigX)
