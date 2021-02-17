@@ -305,11 +305,11 @@ corresponding ML models, and points out future research directions. [Go to paper
 1. **(2017) Data management challenges in production machine learning.** This paper discusses data-management issues that arise in the context of machine learning pipelines deployed in production. [Go to paper](https://dl.acm.org/doi/10.1145/3035918.3054782)
 1. **(2017) TFX: A TensorFlow-based production-scale machine learning platform.** This paper presents TensorFlow Extended (TFX), a TensorFlow-based general-purpose machine learning platform implemented at Google to reduce the time to production from the order of months to weeks, while providing platform stability that minimizes disruptions. [Go to paper](https://dl.acm.org/doi/10.1145/3097983.3098021)
 1. **(2016) ModelDB: a system for machine learning model management.** This paper describes ModelDB, a novel end-to-end system for the management of machine learning models. [Go to paper](https://www-cs.stanford.edu/~matei/papers/2016/hilda_modeldb.pdf)
+1. **(2016) Scaling Machine Learning as a Service.** This paper presents the scalable MLaaS built for Uber that operates globally. It focus on several challenges, among which: (i) how to scale feature computation for many machine learning use cases; (ii) how to build accurate models using global data; (iii) how to enable scalable model deployment and real-time serving for many models across multiple data centers. [Go to paper](http://proceedings.mlr.press/v67/li17a/li17a.pdf)
 1. [Studer, S., Bui, T.B., Drescher, C., Hanuschkin, A., Winkler, L., Peters, S. and Mueller, K.R., 2020. "Towards CRISP-ML (Q): A Machine Learning Process Model with Quality Assurance Methodology". arXiv](https://arxiv.org/pdf/2003.05155.pdf)
 1. [Building a Reproducible Machine Learning Pipeline](https://arxiv.org/ftp/arxiv/papers/1810/1810.04570.pdf)
 1. [A Systems Perspective to Reproducibility in Production Machine Learning Domain](https://openreview.net/pdf?id=Byl4vavigX)
 1. [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
-1. [Scaling Machine Learning as a Service (Uber)](http://proceedings.mlr.press/v67/li17a/li17a.pdf)
 1. [What’s your ML Test Score? A rubric for ML production systems](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45742.pdf)
 1. [Adversarial Machine Learning Reading List](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html)
 1. [From What to How: An Initial Review of Publicly Available AI Ethics Tools, Methods and Research to Translate Principles into Practices](https://arxiv.org/pdf/1905.06876.pdf)
@@ -331,7 +331,6 @@ corresponding ML models, and points out future research directions. [Go to paper
 1. *Tools for machine learning experiment management.* Vlad Velici and Adam Prügel-Bennett.
 1. *MLPM: Machine Learning Package Manager.* Xiaozhe Yao.
 1. [Common Problems with Creating Machine Learning Pipelines from Existing Code. Katie O’Leary, Makoto Uchida.](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/b50bc83882bbd29c50250d1e59fbc3afda3fb5e5.pdf)
-28. [Overton: A Data System for Monitoring and Improving Machine-Learned Products, Apple.](https://arxiv.org/pdf/1909.05372.pdf)
 1. [Reliance on Metrics is a Fundamental Challenge for AI](https://arxiv.org/pdf/2002.08512.pdf)
 1. ["Assuring the machine learning lifecycle: Desiderata, methods, and challenges." Ashmore, Rob, Radu Calinescu, and Colin Paterson. (2019)](https://arxiv.org/pdf/1905.04223.pdf)
 1. ["Machine learning testing: Survey, landscapes and horizons." Zhang, Jie M., et al. IEEE Transactions on Software Engineering (2020).](https://arxiv.org/pdf/1906.10742.pdf)
