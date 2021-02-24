@@ -286,6 +286,7 @@
 
 <a name="mlops-papers"></a>
 # MLOps Papers
+1. **(2021) Asset management in machine learning: a survey.** This paper presents a feature-based survey of 17 tools with ML asset management support identified in a systematic search. It overviews these tools’ features for managing the different types of assets used for engineering ML-based systems and performing experiments. [Go to paper](https://arxiv.org/abs/2102.06919)
 1. **(2021) Ease.ML: a lifecycle management system for MLDev and MLOps.** This paper presents a system for managing and automating the entire lifecycle of machine learning application development. [Go to paper](https://www.research-collection.ethz.ch/handle/20.500.11850/458916)
 1. **(2021) Challenges in deploying machine learning: a survey of case studies.** This survey reviews published reports of deploying machine learning solutions in a variety of use cases, industries and applications and extracts practical considerations corresponding to stages of the machine learning deployment workflow. [Go to paper](https://arxiv.org/abs/2011.09926)
 1. **(2020) Adoption and effects of software engineering best practices in machine learning.** This paper aims to empirically determine the state of the art in how teams develop, deploy and maintain software with ML components. [Go to paper](https://arxiv.org/pdf/2007.14130.pdf)
