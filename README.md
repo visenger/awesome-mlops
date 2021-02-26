@@ -286,22 +286,7 @@
 
 <a name="mlops-papers"></a>
 # MLOps Papers
-A list of scientific and industrial papers about Machine Learning operalization since 2015. [See more.](papers.md)
-
-## Additional Resources
-
-1. [Adversarial machine learning reading list](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html)
-1. [Workshop at ICML 2020: "Challenges in Deploying and Monitoring Machine Learning Systems" (Accepted Papers)](https://icml.cc/Conferences/2020/Schedule?showEvent=5738)
-1. [Workshop on MLOps Systems (MLSys)](https://mlops-systems.github.io/)
-1. [A survey on concept drift adaptation](http://eprints.bournemouth.ac.uk/22491/1/ACM%20computing%20surveys.pdf)
-1. [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://arxiv.org/pdf/2005.04118.pdf)
-1. *Conversational Applications and Natural Language Understanding Services at Scale.* Minh Tue Vo Thanh and Vijay Ramakrishnan.
-1. *Efficient Scheduling of DNN Training on Multitenant Clusters.* Deepak Narayanan, Keshav Santhanam, Amar Phanishayee and Matei Zaharia.
-1. *MLBox: Towards Reproducible ML.* Victor Bittorf, Xinyuan Huang, Peter Mattson, Debojyoti Dutta, David Aronchick, Emad Barsoum, Sarah Bird, Sergey Serebryakov, Natalia Vassilieva, Tom St. John, Grigori Fursin, Srini Bala, Sivanagaraju Yarramaneni, Alka Roy, David Kanter and Elvira Dzhuraeva.
-1. *MLPM: Machine Learning Package Manager.* Xiaozhe Yao.
-1. *Tools for machine learning experiment management.* Vlad Velici and Adam Prügel-Bennett.
-1. *Towards split learning at scale: System design.* Iker Rodríguez, Eduardo Muñagorri, Alberto Roman, Abhishek Singh, Praneeth Vepakomma and Ramesh Raskar.
-
+A list of scientific and industrial papers and resources about Machine Learning operalization since 2015. [See more.](papers.md)
 
 <a name="talks-about-mlops"></a>
 # Talks About MLOps
