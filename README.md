@@ -173,6 +173,7 @@
 1. [Machine Learning Systems Design (by Chip Huyen)](https://huyenchip.com/machine-learning-systems-design/toc.html)
 1. [Designing an ML system (Stanford | CS 329 | Chip Huyen)](https://docs.google.com/presentation/d/13a5B2HeK9Id59zy3oNJDv5_ksDvzbGmNLx4zumkimZM/edit?usp=sharing)
 1. [How COVID-19 Has Infected AI Models (about the data drift or model drift concept)](https://www.dominodatalab.com/blog/how-covid-19-has-infected-ai-models/)
+1. [Microkernel Architecture for Machine Learning Library. An Example of Microkernel Architecture with Python Metaclass](https://towardsdatascience.com/microkernel-architecture-for-machine-learning-library-c04b797e0d5f)
 
 
 <a name="wfl-management"></a>
@@ -197,6 +198,9 @@
 1. [Building a Gigascale ML Feature Store with Redis, Binary Serialization, String Hashing, and Compression (DoorDash blog)](https://doordash.engineering/2020/11/19/building-a-gigascale-ml-feature-store-with-redis/)
 1. [Feature Stores: Variety of benefits for Enterprise AI.](https://insidebigdata.com/2020/12/29/how-feature-stores-will-revolutionize-enterprise-ai/)
 1. [Feature Store as a Foundation for Machine Learning](https://towardsdatascience.com/feature-store-as-a-foundation-for-machine-learning-d010fc6eb2f3)
+1. [ML Feature Serving Infrastructure at Lyft](https://eng.lyft.com/ml-feature-serving-infrastructure-at-lyft-d30bf2d3c32a)
+1. [Feature Stores for Self-Service Machine Learning](https://www.ethanrosenthal.com/2021/02/03/feature-stores-self-service/)
+
 
 
 
@@ -354,6 +358,10 @@ corresponding ML models, and points out future research directions. [Go to paper
 1. *MLPM: Machine Learning Package Manager.* Xiaozhe Yao.
 1. *Tools for machine learning experiment management.* Vlad Velici and Adam Prügel-Bennett.
 1. *Towards split learning at scale: System design.* Iker Rodríguez, Eduardo Muñagorri, Alberto Roman, Abhishek Singh, Praneeth Vepakomma and Ramesh Raskar.
+1. [Fischer, Lukas, Lisa Ehrlinger, Verena Geist, Rudolf Ramler, Florian Sobiezky, Werner Zellinger, David Brunner, Mohit Kumar, and Bernhard Moser. "AI System Engineering—Key Challenges and Lessons Learned."](https://www.mdpi.com/2504-4990/3/1/4)
+1. [A Data Quality-Driven View of MLOps](https://arxiv.org/pdf/2102.07750.pdf)
+
+
 
 
 <a name="talks-about-mlops"></a>
@@ -445,6 +453,7 @@ corresponding ML models, and points out future research directions. [Go to paper
 1. [End-to-End Machine Learning Library](https://e2eml.school/blog.html)
 1. [Machine Learning Toolbox (by Amit Chaudhary)](https://amitness.com/toolbox/)
 1. [Causality for Machine Learning](https://ff13.fastforwardlabs.com/FF13-Causality_for_Machine_Learning-Cloudera_Fast_Forward.pdf)
+1. [Learning from data. Caltech](http://work.caltech.edu/lectures.html)
 
 
 
@@ -459,6 +468,7 @@ corresponding ML models, and points out future research directions. [Go to paper
 1. [State of DevOps 2019](https://research.google/pubs/pub48455/)
 1. [Clean Code concepts adapted for machine learning and data science.](https://github.com/davified/clean-code-ml)
 1. [School of SRE](https://linkedin.github.io/school-of-sre/)
+1. [10 Laws of Software Engineering That People Ignore](https://www.indiehackers.com/post/10-laws-of-software-engineering-that-people-ignore-e3439176dd)
 
 
 <a name="product-management-for-mlai"></a>
@@ -472,6 +482,11 @@ corresponding ML models, and points out future research directions. [Go to paper
 1. [Talk: Designing Great ML Experiences (Apple)](https://developer.apple.com/videos/play/wwdc2019/803/) 
 1. [Machine Learning for Product Managers](http://nlathia.github.io/2017/03/Machine-Learning-for-Product-Managers.html)
 1. [Understanding the Data Landscape and Strategic Play Through Wardley Mapping](https://ergestx.com/data-landscape-wardley-mapping/)
+1. [Techniques for prototyping machine learning systems across products and features](https://design.google/library/simulating-intelligence/)
+1. [Machine Learning and User Experience: A Few Resources](https://medium.com/ml-ux/machine-learning-and-user-experience-a-few-resources-e7872f1d34ee)
+1. [AI ideation canvas](https://idalab.de/wp-content/uploads/2021/02/idalab-AI-ideation-canvas-Feb21.pdf)
+1. [Ideation in AI](https://idalab.de/ideation-in-ai-five-ways-to-make-the-workshops-work/)
+
 
 
 <a name="the-economics-of-mlai"></a>
@@ -509,7 +524,6 @@ corresponding ML models, and points out future research directions. [Go to paper
 1. [Google Cloud’s AI Adoption Framework (White Paper)](https://services.google.com/fh/files/misc/ai_adoption_framework_whitepaper.pdf)
 1. [Data Science Project Management](http://www.datascience-pm.com/)
 1. [Book: "Competing in the Age of AI" by Marco Iansiti, Karim R. Lakhani. Harvard Business Review Press. 2020](https://learning.oreilly.com/library/view/competing-in-the/9781633697638/)
-1. [Laszlo Sragner Newsletter](https://laszlo.substack.com/)
 1. [The Three Questions about AI that Startups Need to Ask. The first is: Are you sure you need AI?](https://towardsdatascience.com/google-expert-tips-for-artificial-intelligence-startups-three-questions-about-ai-that-startups-need-to-ask-308924cb5324)
 1. [Taming the Tail: Adventures in Improving AI Economics](https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/)
 1. [Managing the Risks of Adopting AI Engineering](https://insights.sei.cmu.edu/sei_blog/2020/08/managing-the-risks-of-adopting-ai-engineering.html)
@@ -524,35 +538,8 @@ corresponding ML models, and points out future research directions. [Go to paper
 <a name="ml-governance"></a>
 # Model Governance, Ethics, Responsible AI
 
-This stuff will be extracted into our new [Awesome ML Model Governace repository](https://github.com/visenger/Awesome-ML-Model-Governance)
+This topic is extracted into our new [Awesome ML Model Governace repository](https://github.com/visenger/Awesome-ML-Model-Governance)
 
-1. [Book: "Practical Fairness". 2020. By Aileen Nielsen. O'Reilly Media, Inc.](https://learning.oreilly.com/library/view/practical-fairness/9781492075721/)
-1. [Book: "Fairness and machine learning: Limitations and Opportunities." Barocas, S., Hardt, M. and Narayanan, A., 2018.](https://fairmlbook.org/)
-1. [What are model governance and model operations? A look at the landscape of tools for building and deploying robust, production-ready machine learning models](https://www.oreilly.com/radar/what-are-model-governance-and-model-operations/)
-2. [Specialized tools for machine learning development and model governance are becoming essential. Why companies are turning to specialized machine learning tools like MLflow.](https://www.oreilly.com/ideas/specialized-tools-for-machine-learning-development-and-model-governance-are-becoming-essential)
-1. [What are model governance and model operations? – O’Reilly](https://www.oreilly.com/radar/what-are-model-governance-and-model-operations/)
-1. [AI Fairness 360, A Step Towards Trusted AI - IBM Research](https://www.ibm.com/blogs/research/2018/09/ai-fairness-360/)
-1. [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai-resources)
-1. [Learn how to integrate Responsible AI practices into your ML workflow using TensorFlow](https://www.tensorflow.org/resources/responsible-ai)
-1. [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/index.html)
-1. [Programming Fairness in Algorithms. Understanding and combating issues of fairness in supervised learning.](https://towardsdatascience.com/programming-fairness-in-algorithms-4943a13dd9f8)
-1. [Secure, privacy-preserving and federated machine learning in medical imaging](https://www.nature.com/articles/s42256-020-0186-1)
-1. [Artifical intelligence and machine learning security (by Microsoft)](https://docs.microsoft.com/en-us/security/engineering/failure-modes-in-machine-learning) The references therein are useful.
-1. [Evtimov, Ivan, Weidong Cui, Ece Kamar, Emre Kiciman, Tadayoshi Kohno, and Jerry Li. "Security and Machine Learning in the Real World." arXiv (2020).](https://arxiv.org/pdf/2007.07205.pdf)
-1. [Explainable AI (Gartner Prediction for 2023)](https://www.gartner.com/en/conferences/apac/data-analytics-india/gartner-insights/rn-top-10-data-analytics-trends/explainable-ai)
-1. [What We've Learned to Control. By Ben Recht](https://www.argmin.net/2020/06/29/tour-revisited/)
-1. [State of AI Ethics June 2020 Report by the Montreal AI Ethics Institute](https://bit.ly/stateofaiethics1)
-1. [Practical Data Ethics](https://ethics.fast.ai/)
-1. Vasudevan, Sriram and Kenthapadi, Krishnaram. ["LiFT: A Scalable Framework for Measuring Fairness in ML Applications"](https://arxiv.org/abs/2008.07433) (2020) - Code: [The LinkedIn Fairness Toolkit (LiFT)](https://github.com/linkedin/LiFT)
-1. [Four Principles of Explainable Artificial Intelligence (NIST Draft). Phillips, P.J., Hahn, A.C., Fontana, P.C., Broniatowski, D.A. and Przybocki, M.A., 2020.](https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8312-draft.pdf)
-1. [Data Ethics Canvas](https://theodi.org/article/data-ethics-canvas/). Helps identify and manage ethical issues – at the start of a project that uses data, and throughout. Also see [Ethics Canvas](https://www.ethicscanvas.org/) for broader scope.
-1. [ABOUT ML](https://www.partnershiponai.org/about-ml/) - Annotation and Benchmarking on Understanding and Transparency of Machine learning Lifecycles.
-1. [Mitchell, Margaret and Wu, Simone and Zaldivar, Andrew and Barnes, Parker and Vasserman, Lucy and Hutchinson, Ben and Spitzer, Elena and Raji, Inioluwa Deborah and Gebru, Timnit. "Model Cards for Model Reporting" (2019)](https://arxiv.org/abs/1908.06165)  - Code: [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit)
-1. [Navigate the road to Responsible AI – Gradient Flow Blog](https://gradientflow.com/navigate-the-road-to-responsible-ai/)
-1. [Machine Learning Systems: Security](https://sahbichaieb.com/mlsystems-security/)
-1. [😈 Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness](https://github.com/daviddao/awful-ai)
-1. [Seven legal questions for data scientists](https://www.oreilly.com/radar/seven-legal-questions-for-data-scientists/)
-1. [2020 in Review: 8 New AI Regulatory Proposals from Governments](https://syncedreview.com/2020/12/31/2020-in-review-8-new-ai-regulatory-proposals-from-governments/)
 
 <a name="teams"></a>
 # MLOps: People & Processes
