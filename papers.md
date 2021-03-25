@@ -8,6 +8,9 @@ This section lists scientific and industrial papers about ML operalization since
 This paper presents a feature-based survey of 17 tools with ML asset management support identified in a systematic search. It overviews these tools’ features for managing the different types of assets used for engineering ML-based systems and performing experiments.
 1. **[Ease.ML: a lifecycle management system for MLDev and MLOps](https://www.research-collection.ethz.ch/handle/20.500.11850/458916)**  <br>  This paper presents a system for managing and automating the entire lifecycle of machine learning application development. 
 1. **[Challenges in deploying machine learning: a survey of case studies](https://arxiv.org/abs/2011.09926)**  <br> This survey reviews published reports of deploying machine learning solutions in a variety of use cases, industries and applications and extracts practical considerations corresponding to stages of the machine learning deployment workflow.
+1. [Fischer, Lukas, Lisa Ehrlinger, Verena Geist, Rudolf Ramler, Florian Sobiezky, Werner Zellinger, David Brunner, Mohit Kumar, and Bernhard Moser. "AI System Engineering—Key Challenges and Lessons Learned."](https://www.mdpi.com/2504-4990/3/1/4)
+1. [A Data Quality-Driven View of MLOps](https://arxiv.org/pdf/2102.07750.pdf)
+
 
 ## 2020
 
