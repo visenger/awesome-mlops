@@ -86,6 +86,7 @@
 1. [Reproducible ML](https://github.com/cmawer/reproducible-model)
 1. [ML project template facilitating both research and production phases.](https://github.com/visenger/ml-project-template)
 1. [Machine learning requires a fundamentally different deployment approach. As organizations embrace machine learning, the need for new deployment tools and strategies grows.](https://www.oreilly.com/radar/machine-learning-requires-a-fundamentally-different-deployment-approach/)
+1. [Introducting Flyte: A Cloud Native Machine Learning and Data Processing Platform](https://eng.lyft.com/introducing-flyte-cloud-native-machine-learning-and-data-processing-platform-fb2bb3046a59)
 1. [Why is DevOps for Machine Learning so Different?](https://hackernoon.com/why-is-devops-for-machine-learning-so-different-384z32f1)
 1. [Lessons learned turning machine learning models into real products and services – O’Reilly](https://www.oreilly.com/radar/lessons-learned-turning-machine-learning-models-into-real-products-and-services/)
 1. [MLOps: Model management, deployment and monitoring with Azure Machine Learning](https://docs.microsoft.com/en-gb/azure/machine-learning/concept-model-management-and-deployment)
@@ -300,6 +301,8 @@ A list of scientific and industrial papers and resources about Machine Learning 
 
 1. [DeliveryConf 2020. "Continuous Delivery For Machine Learning: Patterns And Pains" by Emily Gorcenski](https://youtu.be/bFW5mZmj0nQ)
 1. [MLOps Conference: Talks from 2019](https://www.mlopsconf.com?wix-vod-comp-id=comp-k1ry4afh)
+1. [Kubecon 2019: Flyte: Cloud Native Machine Learning and Data Processing Platform](https://www.youtube.com/watch?v=KdUJGSP1h9U)
+1. [Kubecon 2019: Running LargeScale Stateful workloads on Kubernetes at Lyft](https://www.youtube.com/watch?v=ECeVQoble0g)
 1. [A CI/CD Framework for Production Machine Learning at Massive Scale (using Jenkins X and Seldon Core)](https://youtu.be/68_Phxwaj-k)
 1. [MLOps Virtual Event (Databricks)](https://youtu.be/9Ehh7Vl7ByM)
 1. [MLOps NY conference 2019](https://www.iguazio.com/mlops-nyc-sessions/)
@@ -326,6 +329,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 
 1. [Introducing FBLearner Flow: Facebook’s AI backbone](https://engineering.fb.com/ml-applications/introducing-fblearner-flow-facebook-s-ai-backbone/)
 1. [TFX: A TensorFlow-Based Production-Scale Machine Learning Platform](https://dl.acm.org/doi/pdf/10.1145/3097983.3098021?download=true)
+1. [Accelerate your ML and Data workflows to production: Flyte](https://flyte.org/)
 1. [Getting started with Kubeflow Pipelines](https://cloud.google.com/blog/products/ai-machine-learning/getting-started-kubeflow-pipelines)
 1. [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo/)
 1. [Meson: Workflow Orchestration for Netflix Recommendations](https://netflixtechblog.com/meson-workflow-orchestration-for-netflix-recommendations-fc932625c1d9)
