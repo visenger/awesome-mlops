@@ -475,6 +475,11 @@ A list of scientific and industrial papers and resources about Machine Learning 
 
 This topic is extracted into our new [Awesome ML Model Governace repository](https://github.com/visenger/Awesome-ML-Model-Governance)
 
+# Reports
+
+1. [State of AI Ethics June 2020 Report by the Montreal AI Ethics Institute](https://montrealethics.ai/wp-content/uploads/2020/06/State-of-AI-Ethics-June-2020-report.pdf)
+2. [State of AI Ethics October 2020 Report by the Montreal AI Ethics Institute](https://montrealethics.ai/wp-content/uploads/2020/10/State-of-AI-Ethics-Oct-2020.pdf)
+3. [State of AI Ethics January 2021 Report by the Montreal AI Ethics Institute](https://montrealethics.ai/wp-content/uploads/2021/01/State-of-AI-Ethics-Report-January-2021.pdf)
 
 <a name="teams"></a>
 # MLOps: People & Processes
@@ -510,5 +515,6 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 1. [DataTalks.Club Community: Slack, Newsletter, Podcast, Weeekly Events](https://datatalks.club/)
 1. [Machine Learning Ops Roundup](https://mlopsroundup.substack.com/)
 1. [Data Science Programming Newsletter by Eric Ma](https://dspn.substack.com/)
+2. [The AI Ethics Brief by the Montreal AI Ethics Institute](https://brief.montrealethics.ai)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/visenger?style=social)
