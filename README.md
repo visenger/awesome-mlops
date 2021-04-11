@@ -106,7 +106,6 @@
 1. [The 5 Components Towards Building Production-Ready Machine Learning Systems](https://medium.com/cracking-the-data-science-interview/the-5-components-towards-building-production-ready-machine-learning-system-a4d5237ec04e)
 1. [Deep Learning in Production (references about deploying deep learning-based models in production)](https://github.com/ahkarami/Deep-Learning-in-Production)
 1. [Machine Learning Experiment Tracking](https://towardsdatascience.com/machine-learning-experiment-tracking-93b796e501b0)
-1. [15 Best Tools for Tracking Machine Learning Experiments](https://medium.com/neptune-ai/15-best-tools-for-tracking-machine-learning-experiments-64c6eff16808)
 1. [The Team Data Science Process (TDSP)](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
 1. [MLOps Solutions (Azure based)](https://github.com/visenger/MLOps)
 1. [Monitoring ML pipelines](https://intothedepthsofdataengineering.wordpress.com/2020/02/13/monitoring-ml-pipelines/)
@@ -175,14 +174,19 @@
 1. [Designing an ML system (Stanford | CS 329 | Chip Huyen)](https://docs.google.com/presentation/d/13a5B2HeK9Id59zy3oNJDv5_ksDvzbGmNLx4zumkimZM/edit?usp=sharing)
 1. [How COVID-19 Has Infected AI Models (about the data drift or model drift concept)](https://www.dominodatalab.com/blog/how-covid-19-has-infected-ai-models/)
 1. [Microkernel Architecture for Machine Learning Library. An Example of Microkernel Architecture with Python Metaclass](https://towardsdatascience.com/microkernel-architecture-for-machine-learning-library-c04b797e0d5f)
+1. [Machine Learning in production: the Booking.com approach](https://booking.ai/https-booking-ai-machine-learning-production-3ee8fe943c70)
+1. [What I Learned From Attending TWIMLcon 2021 (by James Le)](https://jameskle.com/writes/twiml2021)
+1. [Gartner’s 3-Stage MLOps Framework](https://www.gartner.com/doc/reprints?id=1-250NWBUX&ct=210113&st=sg)
+1. [Designing ML Orchestration Systems for Startups. A case study in building a lightweight production-grade ML orchestration system](https://towardsdatascience.com/designing-ml-orchestration-systems-for-startups-202e527d7897)
+
 
 
 <a name="wfl-management"></a>
 # MLOps: Workflow Management
 
 1. [Open-source Workflow Management Tools: A Survey by Ploomber](https://ploomber.io/posts/survey/)
-
-
+1. [How to Compare ML Experiment Tracking Tools to Fit Your Data Science Workflow (by dagshub)](https://dagshub.com/blog/how-to-compare-ml-experiment-tracking-tools-to-fit-your-data-science-workflow/)
+1. [15 Best Tools for Tracking Machine Learning Experiments](https://medium.com/neptune-ai/15-best-tools-for-tracking-machine-learning-experiments-64c6eff16808)
 
 <a name="feature-stores"></a>
 # MLOps: Feature Stores
@@ -230,8 +234,10 @@
 1. [Data Catalog 3.0: Modern Metadata for the Modern Data Stack](https://towardsdatascience.com/data-catalog-3-0-modern-metadata-for-the-modern-data-stack-ec621f593dcf)
 1. [Metadata Management Systems](https://gradientflow.com/the-growing-importance-of-metadata-management-systems/)
 1. [Essential resources for data engineers (a curated recommended read and watch list for scalable data processing)](https://www.scling.com/reading-list/)
-
-
+1. [Comprehensive and Comprehensible Data Catalogs: The What, Who, Where, When, Why, and How of Metadata Management (Paper)](https://arxiv.org/pdf/2103.07532.pdf)
+1. [What I Learned From Attending DataOps Unleashed 2021 (byJames Le)](https://jameskle.com/writes/dataops-unleashed2021)
+1. [Uber's Journey Toward Better Data Culture From First Principles](https://ubr.to/3lo9GU8)
+1. [Cerberus - lightweight and extensible data validation library for Python](https://docs.python-cerberus.org/en/stable/)
 
 
 
@@ -253,6 +259,8 @@
 1. ML Model Rollout To Production. [Part 1](https://www.superwise.ai/resources/safely-rolling-out-ml-models-to-production) | [Part 2](https://www.superwise.ai/resources/part-ii-safely-rolling-out-models-to-production)
 1. [Deploying Python ML Models with Flask, Docker and Kubernetes](https://alexioannides.com/2019/01/10/deploying-python-ml-models-with-flask-docker-and-kubernetes/)
 1. [Deploying Python ML Models with Bodywork](https://alexioannides.com/2020/12/01/deploying-python-ml-models-with-bodywork/)
+1. [Framework for a successful Continuous Training Strategy. When should the model be retrained? What data should be used? What should be retrained? A data-driven approach](https://towardsdatascience.com/framework-for-a-successful-continuous-training-strategy-8c83d17bb9dc)
+
 
  
 <a name="testing-monintoring"></a> 
@@ -275,6 +283,9 @@
 1. [Introduction to Unit Testing for Machine Learning](https://themlrebellion.com/blog/Introduction-To-Unit-Testing-Machine-Learning/)
 1. [Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)
 1. Test-Driven Development in MLOps [Part 1](https://medium.com/mlops-community/test-driven-development-in-mlops-part-1-8894575f4dec)
+2. [Domain-Specific Machine Learning Monitoring](https://medium.com/mlops-community/domain-specific-machine-learning-monitoring-88bc0dd8a212)
+1. [Introducing ML Model Performance Management (Blog by fiddler)](https://blog.fiddler.ai/2021/03/introducing-ml-model-performance-management/)
+
 
 
 
@@ -322,6 +333,8 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Machine Learning Engineering: 10 Fundamentale Praktiken](https://www.youtube.com/watch?v=VYlXNWxqJ2A)
 1. [Architecture of machine learning systems (3-part series)](https://www.youtube.com/playlist?list=PLx8omXiw3n9y26FKZLV5ScyS52D_c29QN)
 1. [Machine Learning Design Patterns](https://youtu.be/udXjlvCFusc)
+1. [The laylist that covers techniques and approaches for model deployment on to production](https://youtube.com/playlist?list=PL3N9eeOlCrP5PlN1jwOB3jVZE6nYTVswk)
+
 
 
 <a name="existing-ml-systems"></a>
@@ -378,7 +391,6 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Dive into Snorkel: Weak-Superversion on German Texts. inovex Blog](https://www.inovex.de/blog/snorkel-weak-superversion-german-texts/)
 1. [Dive into Deep Learning. An interactive deep learning book with code, math, and discussions. Provides NumPy/MXNet, PyTorch, and TensorFlow implementations](http://d2l.ai/)
 1. [Data Science Collected Resources (GitHub repository)](https://github.com/tirthajyoti/Data-science-best-resources)
-1. [A resource list for causality in statistics, data science and physics](https://github.com/msuzen/looper/blob/master/looper.md)
 1. [Set of illustrated Machine Learning cheatsheets](https://stanford.edu/~shervine/teaching/cs-229/)
 1. ["Machine Learning Bookcamp" by Alexey Grigorev](https://www.manning.com/books/machine-learning-bookcamp)
 1. [130 Machine Learning Projects Solved and Explained](https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392)
@@ -388,7 +400,11 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [End-to-End Machine Learning Library](https://e2eml.school/blog.html)
 1. [Machine Learning Toolbox (by Amit Chaudhary)](https://amitness.com/toolbox/)
 1. [Causality for Machine Learning](https://ff13.fastforwardlabs.com/FF13-Causality_for_Machine_Learning-Cloudera_Fast_Forward.pdf)
+1. [Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
+1. [Causal Inference](https://mixtape.scunning.com/index.html)
+1. [A resource list for causality in statistics, data science and physics](https://github.com/msuzen/looper/blob/master/looper.md)
 1. [Learning from data. Caltech](http://work.caltech.edu/lectures.html)
+1. [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/#)
 
 
 
@@ -404,6 +420,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Clean Code concepts adapted for machine learning and data science.](https://github.com/davified/clean-code-ml)
 1. [School of SRE](https://linkedin.github.io/school-of-sre/)
 1. [10 Laws of Software Engineering That People Ignore](https://www.indiehackers.com/post/10-laws-of-software-engineering-that-people-ignore-e3439176dd)
+1. [The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](http://awesome-scalability.com/)
 
 
 <a name="product-management-for-mlai"></a>
@@ -468,6 +485,8 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [How to Set AI Goals](https://www.oreilly.com/radar/how-to-set-ai-goals/)
 1. [Expanding AI's Impact With Organizational Learning](https://sloanreview.mit.edu/projects/expanding-ais-impact-with-organizational-learning/)
 1. [Potemkin Data Science](https://mcorrell.medium.com/potemkin-data-science-fba2b5ba5cc6)
+1. [When Should You Not Invest in AI?](https://www.entrepreneur.com/article/359803)
+
 
 
 <a name="ml-governance"></a>

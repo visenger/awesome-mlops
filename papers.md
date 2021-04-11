@@ -10,6 +10,8 @@ This paper presents a feature-based survey of 17 tools with ML asset management 
 1. **[Challenges in deploying machine learning: a survey of case studies](https://arxiv.org/abs/2011.09926)**  <br> This survey reviews published reports of deploying machine learning solutions in a variety of use cases, industries and applications and extracts practical considerations corresponding to stages of the machine learning deployment workflow.
 1. [Fischer, Lukas, Lisa Ehrlinger, Verena Geist, Rudolf Ramler, Florian Sobiezky, Werner Zellinger, David Brunner, Mohit Kumar, and Bernhard Moser. "AI System Engineering—Key Challenges and Lessons Learned."](https://www.mdpi.com/2504-4990/3/1/4)
 1. [A Data Quality-Driven View of MLOps](https://arxiv.org/pdf/2102.07750.pdf)
+1. [Towards Accountability for Machine Learning Datasets: Practices from Software Engineering and Infrastructure](https://arxiv.org/pdf/2010.13561.pdf)
+1. [Production Machine Learning Pipelines: Empirical Analysis and Optimization Opportunities](https://arxiv.org/pdf/2103.16007.pdf)
 
 
 ## 2020
