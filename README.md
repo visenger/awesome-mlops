@@ -50,6 +50,7 @@
 <a name="mlops-books"></a>
 # MLOps Books
 
+1. [“Engineering MLOps” by Emmanuel Raj, 2021](https://www.packtpub.com/product/engineering-mlops/9781800562882)
 1. [“Machine Learning Engineering” by Andriy Burkov, 2020](http://www.mlebook.com/wiki/doku.php?id=start)
 1. ["ML Ops: Operationalizing Data Science" by David Sweenor, Steven Hillion, Dan Rope, Dev Kannabiran, Thomas Hill, Michael O'Connell](https://learning.oreilly.com/library/view/ml-ops-operationalizing/9781492074663/)
 1. ["Building Machine Learning Powered Applications" by Emmanuel Ameisen](https://learning.oreilly.com/library/view/building-machine-learning/9781492045106/)
@@ -310,6 +311,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 <a name="talks-about-mlops"></a>
 # Talks About MLOps
 
+1. ["MLOps: Automated Machine Learning" by Emmanuel Raj](https://www.youtube.com/watch?v=m32k9jcY4pY)
 1. [DeliveryConf 2020. "Continuous Delivery For Machine Learning: Patterns And Pains" by Emily Gorcenski](https://youtu.be/bFW5mZmj0nQ)
 1. [MLOps Conference: Talks from 2019](https://www.mlopsconf.com?wix-vod-comp-id=comp-k1ry4afh)
 1. [Kubecon 2019: Flyte: Cloud Native Machine Learning and Data Processing Platform](https://www.youtube.com/watch?v=KdUJGSP1h9U)
