@@ -12,7 +12,6 @@ This paper presents a feature-based survey of 17 tools with ML asset management 
 1. [A Data Quality-Driven View of MLOps](https://arxiv.org/pdf/2102.07750.pdf)
 1. [Towards Accountability for Machine Learning Datasets: Practices from Software Engineering and Infrastructure](https://arxiv.org/pdf/2010.13561.pdf)
 1. [Production Machine Learning Pipelines: Empirical Analysis and Optimization Opportunities](https://arxiv.org/pdf/2103.16007.pdf)
-1. TBD
 
 
 ## 2020
