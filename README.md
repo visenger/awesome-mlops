@@ -50,7 +50,6 @@
 <a name="mlops-books"></a>
 # MLOps Books
 
-1. [“Engineering MLOps” by Emmanuel Raj, 2021](https://www.packtpub.com/product/engineering-mlops/9781800562882)
 1. [“Machine Learning Engineering” by Andriy Burkov, 2020](http://www.mlebook.com/wiki/doku.php?id=start)
 1. ["ML Ops: Operationalizing Data Science" by David Sweenor, Steven Hillion, Dan Rope, Dev Kannabiran, Thomas Hill, Michael O'Connell](https://learning.oreilly.com/library/view/ml-ops-operationalizing/9781492074663/)
 1. ["Building Machine Learning Powered Applications" by Emmanuel Ameisen](https://learning.oreilly.com/library/view/building-machine-learning/9781492045106/)
@@ -69,7 +68,11 @@
 1. ["Machine Learning for Data Streams with Practical Examples in MOA", Bifet, Albert and Gavald\`a, Ricard and Holmes, Geoff and Pfahringer, Bernhard, MIT Press, 2018](https://moa.cms.waikato.ac.nz/book/)
 1. ["Machine Learning Product Manual" by Laszlo Sragner, Chris Kelly](https://machinelearningproductmanual.com/)
 1. ["Data Science Bootstrap Notes" by Eric J. Ma](https://ericmjl.github.io/data-science-bootstrap-notes/)
-1. ["Data Teams by Jesse Anderson, 2020"](https://www.datateams.io/)
+1. ["Data Teams" by Jesse Anderson, 2020](https://www.datateams.io/)
+1. ["Data Science on AWS" by Chris Fregly, Antje Barth, 2021](https://learning.oreilly.com/library/view/data-science-on/9781492079385/)
+1. [“Engineering MLOps” by Emmanuel Raj, 2021](https://www.packtpub.com/product/engineering-mlops/9781800562882)
+1. [Machine Learning Engineering in Action](https://www.manning.com/books/machine-learning-engineering-in-action)
+1. [Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
 
 
 
@@ -177,8 +180,12 @@
 1. [Microkernel Architecture for Machine Learning Library. An Example of Microkernel Architecture with Python Metaclass](https://towardsdatascience.com/microkernel-architecture-for-machine-learning-library-c04b797e0d5f)
 1. [Machine Learning in production: the Booking.com approach](https://booking.ai/https-booking-ai-machine-learning-production-3ee8fe943c70)
 1. [What I Learned From Attending TWIMLcon 2021 (by James Le)](https://jameskle.com/writes/twiml2021)
-1. [Gartner’s 3-Stage MLOps Framework](https://www.gartner.com/doc/reprints?id=1-250NWBUX&ct=210113&st=sg)
 1. [Designing ML Orchestration Systems for Startups. A case study in building a lightweight production-grade ML orchestration system](https://towardsdatascience.com/designing-ml-orchestration-systems-for-startups-202e527d7897)
+1. [Towards MLOps: Technical capabilities of a Machine Learning platform | Prosus AI Tech Blog](https://medium.com/prosus-ai-tech-blog/towards-mlops-technical-capabilities-of-a-machine-learning-platform-61f504e3e281)
+1. [Get started with MLOps A comprehensive MLOps tutorial with open source tools](https://towardsdatascience.com/get-started-with-mlops-fd7062cab018)
+1. [From DevOps to MLOPS: Integrate Machine Learning Models using Jenkins and Docker](https://towardsdatascience.com/from-devops-to-mlops-integrate-machine-learning-models-using-jenkins-and-docker-79034dbedf1)
+
+
 
 
 
@@ -261,6 +268,7 @@
 1. [Deploying Python ML Models with Flask, Docker and Kubernetes](https://alexioannides.com/2019/01/10/deploying-python-ml-models-with-flask-docker-and-kubernetes/)
 1. [Deploying Python ML Models with Bodywork](https://alexioannides.com/2020/12/01/deploying-python-ml-models-with-bodywork/)
 1. [Framework for a successful Continuous Training Strategy. When should the model be retrained? What data should be used? What should be retrained? A data-driven approach](https://towardsdatascience.com/framework-for-a-successful-continuous-training-strategy-8c83d17bb9dc)
+1. [Efficient Machine Learning Inference. The benefits of multi-model serving where latency matters](https://www.oreilly.com/content/efficient-machine-learning-inference/)
 
 
  
@@ -292,7 +300,7 @@
 
 
 <a name="mlops-infra"></a>
-# MLOps: Infrastructure
+# MLOps: Infrastructure & Tooling
 
 1. [MLOps Infrastructure Stack Canvas](https://miro.com/app/board/o9J_lfoc4Hg=/)
 1. [Rise of the Canonical Stack in Machine Learning. How a Dominant New Software Stack Will Unlock the Next Generation of Cutting Edge AI Apps](https://towardsdatascience.com/rise-of-the-canonical-stack-in-machine-learning-724e7d2faa75)
@@ -300,6 +308,8 @@
 1. [Linux Foundation AI Foundation](https://wiki.lfai.foundation/)
 1. ML Infrastructure Tools for Production | [Part 1 — Production ML — The Final Stage of the Model Workflow](https://towardsdatascience.com/ml-infrastructure-tools-for-production-1b1871eecafb) | [Part 2 — Model Deployment and Serving](https://towardsdatascience.com/ml-infrastructure-tools-for-production-part-2-model-deployment-and-serving-fcfc75c4a362)
 1. [The MLOps Stack Template (by valohai)](https://valohai.com/blog/the-mlops-stack/)
+1. [Navigating the MLOps tooling landscape](https://ljvmiranda921.github.io/notebook/2021/05/10/navigating-the-mlops-landscape/)
+1. [MLOps.toys curated list of MLOps projects (by aporia)](https://mlops.toys/)
 
 
 <a name="mlops-papers"></a>
@@ -356,6 +366,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Introducing WhyLabs, a Leap Forward in AI Reliability](https://medium.com/whylabs/introducing-whylabs-5a3b4f37b998)
 1. [Project: Ease.ml (ETH Zürich)](https://ds3lab.inf.ethz.ch/easeml.html)
 1. [Bodywork: model-training and deployment automation](https://bodywork.readthedocs.io/en/latest/)
+1. [Lessons on ML Platforms — from Netflix, DoorDash, Spotify, and more](https://towardsdatascience.com/lessons-on-ml-platforms-from-netflix-doordash-spotify-and-more-f455400115c7)
 
 
 <a name="machine-learning"></a>
@@ -501,6 +512,11 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 # MLOps: People & Processes
 
 1. [Scaling An ML Team (0–10 People)](https://medium.com/aquarium-learning/scaling-an-ml-team-0-10-people-ae024f3a89f3)
+1. [The Knowledge Repo project is focused on facilitating the sharing of knowledge between data scientists and other technical roles.](https://github.com/airbnb/knowledge-repo) 
+1. [Scaling Knowledge at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091)
+1. [Models for integrating data science teams within companies A comparative analysis](https://djpardis.medium.com/models-for-integrating-data-science-teams-within-organizations-7c5afa032ebd)
+1. [How to Write Better with The Why, What, How Framework. How to write design documents for data science/machine learning projects? (by Eugene Yan)](https://eugeneyan.com/writing/writing-docs-why-what-how/)
+
 
 
 <a name="newsletters"></a>
