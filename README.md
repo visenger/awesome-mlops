@@ -73,8 +73,7 @@
 1. [“Engineering MLOps” by Emmanuel Raj, 2021](https://www.packtpub.com/product/engineering-mlops/9781800562882)
 1. [Machine Learning Engineering in Action](https://www.manning.com/books/machine-learning-engineering-in-action)
 1. [Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
-
-
+1. ["Effective Data Science Infrastructure" by Ville Tuulos, 2021](https://www.manning.com/books/effective-data-science-infrastructure)
 
 <a name="mlops-articles"></a>
 # MLOps Articles
