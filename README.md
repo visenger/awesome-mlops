@@ -35,7 +35,8 @@
 1. [IBM ML Operationalization Starter Kit](https://github.com/ibm-cloud-architecture/refarch-ml-ops)
 1. [Productize ML. A self-study guide for Developers and Product Managers building Machine Learning products.](https://productizeml.gitbook.io/productize-ml/)
 1. [MLOps (Machine Learning Operations) Fundamentals on GCP](https://www.coursera.org/learn/mlops-fundamentals)
-2. [ML full Stack preparation](https://www.confetti.ai/)
+1. [ML full Stack preparation](https://www.confetti.ai/)
+1. [MLOps Guide: Theory and Implementation](https://mlops-guide.github.io/)
 
 <a name="mlops-communities"></a>
 # MLOps Communities
