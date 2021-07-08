@@ -309,7 +309,7 @@
 1. ML Infrastructure Tools for Production | [Part 1 — Production ML — The Final Stage of the Model Workflow](https://towardsdatascience.com/ml-infrastructure-tools-for-production-1b1871eecafb) | [Part 2 — Model Deployment and Serving](https://towardsdatascience.com/ml-infrastructure-tools-for-production-part-2-model-deployment-and-serving-fcfc75c4a362)
 1. [The MLOps Stack Template (by valohai)](https://valohai.com/blog/the-mlops-stack/)
 1. [Navigating the MLOps tooling landscape](https://ljvmiranda921.github.io/notebook/2021/05/10/navigating-the-mlops-landscape/)
-1. [MLOps.toys curated list of MLOps projects (by aporia)](https://mlops.toys/)
+1. [MLOps.toys curated list of MLOps projects (by Aporia)](https://mlops.toys/)
 
 
 <a name="mlops-papers"></a>
