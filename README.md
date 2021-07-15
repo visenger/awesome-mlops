@@ -46,6 +46,7 @@
 1. [RsqrdAI - Robust and Responsible AI](https://www.rsqrdai.org)
 1. [DataTalks.Club](https://datatalks.club/)
 1. [Synthetic Data Community](https://syntheticdata.community/)
+1. [MLOps World Community](www.mlopsworld.com)
 
 
 <a name="mlops-books"></a>
@@ -75,6 +76,7 @@
 1. [Machine Learning Engineering in Action](https://www.manning.com/books/machine-learning-engineering-in-action)
 1. [Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
 1. ["Effective Data Science Infrastructure" by Ville Tuulos, 2021](https://www.manning.com/books/effective-data-science-infrastructure)
+
 
 <a name="mlops-articles"></a>
 # MLOps Articles
@@ -184,8 +186,12 @@
 1. [Towards MLOps: Technical capabilities of a Machine Learning platform | Prosus AI Tech Blog](https://medium.com/prosus-ai-tech-blog/towards-mlops-technical-capabilities-of-a-machine-learning-platform-61f504e3e281)
 1. [Get started with MLOps A comprehensive MLOps tutorial with open source tools](https://towardsdatascience.com/get-started-with-mlops-fd7062cab018)
 1. [From DevOps to MLOPS: Integrate Machine Learning Models using Jenkins and Docker](https://towardsdatascience.com/from-devops-to-mlops-integrate-machine-learning-models-using-jenkins-and-docker-79034dbedf1)
-
-
+1. [Example code for a basic ML Platform based on Pulumi, FastAPI, DVC, MLFlow and more](https://github.com/aporia-ai/mlplatform-workshop)
+1. [Software Engineering for Machine Learning: Characterizing and Detecting Mismatch in Machine-Learning Systems](https://insights.sei.cmu.edu/blog/software-engineering-for-machine-learning-characterizing-and-detecting-mismatch-in-machine-learning-systems/)
+1. [TWIML Solutions Guide](https://twimlai.com/solutions/introducing-twiml-ml-ai-solutions-guide/)
+1. [How Well Do You Leverage Machine Learning at Scale? Six Questions to Ask](https://medium.com/cognizantai/how-well-do-you-leverage-machine-learning-at-scale-six-questions-to-ask-7e6acda15ea5)
+1. [Getting started with MLOps: Selecting the right capabilities for your use case](https://cloud.google.com/blog/products/ai-machine-learning/select-the-right-mlops-capabilities-for-your-ml-use-case)
+1. [The Latest Work from the SEI: Artificial Intelligence, DevSecOps, and Security Incident Response](https://insights.sei.cmu.edu/blog/the-latest-work-from-the-sei-artificial-intelligence-devsecops-and-security-incident-response/)
 
 
 
@@ -213,9 +219,7 @@
 1. [Feature Store as a Foundation for Machine Learning](https://towardsdatascience.com/feature-store-as-a-foundation-for-machine-learning-d010fc6eb2f3)
 1. [ML Feature Serving Infrastructure at Lyft](https://eng.lyft.com/ml-feature-serving-infrastructure-at-lyft-d30bf2d3c32a)
 1. [Feature Stores for Self-Service Machine Learning](https://www.ethanrosenthal.com/2021/02/03/feature-stores-self-service/)
-
-
-
+1. [The Architecture Used at LinkedIn to Improve Feature Management in Machine Learning Models.](https://jrodthoughts.medium.com/the-architecture-used-at-linkedin-to-improve-feature-management-in-machine-learning-models-c7bd6ae54db)
 
 <a name="dataops"></a>
 # MLOps: Data Engineering (DataOps)
@@ -246,6 +250,8 @@
 1. [What I Learned From Attending DataOps Unleashed 2021 (byJames Le)](https://jameskle.com/writes/dataops-unleashed2021)
 1. [Uber's Journey Toward Better Data Culture From First Principles](https://ubr.to/3lo9GU8)
 1. [Cerberus - lightweight and extensible data validation library for Python](https://docs.python-cerberus.org/en/stable/)
+1. [Design a data mesh architecture using AWS Lake Formation and AWS Glue. AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/design-a-data-mesh-architecture-using-aws-lake-formation-and-aws-glue/)
+
 
 
 
@@ -310,6 +316,8 @@
 1. [The MLOps Stack Template (by valohai)](https://valohai.com/blog/the-mlops-stack/)
 1. [Navigating the MLOps tooling landscape](https://ljvmiranda921.github.io/notebook/2021/05/10/navigating-the-mlops-landscape/)
 1. [MLOps.toys curated list of MLOps projects (by Aporia)](https://mlops.toys/)
+1. [Comparing Cloud MLOps platforms, From a former AWS SageMaker PM](https://towardsdatascience.com/comparing-cloud-mlops-platform-from-a-former-aws-sagemaker-pm-115ced28239b)
+
 
 
 <a name="mlops-papers"></a>
@@ -367,6 +375,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Project: Ease.ml (ETH Zürich)](https://ds3lab.inf.ethz.ch/easeml.html)
 1. [Bodywork: model-training and deployment automation](https://bodywork.readthedocs.io/en/latest/)
 1. [Lessons on ML Platforms — from Netflix, DoorDash, Spotify, and more](https://towardsdatascience.com/lessons-on-ml-platforms-from-netflix-doordash-spotify-and-more-f455400115c7)
+1. [Papers & tech blogs by companies sharing their work on data science & machine learning in production. By Eugen Yan](https://github.com/eugeneyan/applied-ml)
 
 
 <a name="machine-learning"></a>
@@ -382,7 +391,6 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Google Research: Looking Back at 2019, and Forward to 2020 and Beyond](https://ai.googleblog.com/2020/01/google-research-looking-back-at-2019.html)
 1. [O’Reilly: The road to Software 2.0](https://www.oreilly.com/radar/the-road-to-software-2-0/)
 1. [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning)
-1. [Curated papers, articles, and blogs on data science & machine learning in production.](https://github.com/eugeneyan/applied-ml)
 1. [Deep Learning for Anomaly Detection](https://ff12.fastforwardlabs.com/)
 1. [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/pdf/1811.03604.pdf)
 1. [Federated Learning. Building better products with on-device data and privacy on default](https://federated.withgoogle.com/)
@@ -418,6 +426,9 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [A resource list for causality in statistics, data science and physics](https://github.com/msuzen/looper/blob/master/looper.md)
 1. [Learning from data. Caltech](http://work.caltech.edu/lectures.html)
 1. [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/#)
+1. [Book: "Distributed Machine Learning Patterns". 2022. By Yuan Tang. Manning](https://www.manning.com/books/distributed-machine-learning-patterns)
+1. [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners)
+
 
 
 
@@ -434,6 +445,9 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [School of SRE](https://linkedin.github.io/school-of-sre/)
 1. [10 Laws of Software Engineering That People Ignore](https://www.indiehackers.com/post/10-laws-of-software-engineering-that-people-ignore-e3439176dd)
 1. [The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](http://awesome-scalability.com/)
+1. [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+1. [SHADES OF CONWAY'S LAW](https://thinkinglabs.io/articles/2021/05/07/shades-of-conways-law.html)
+
 
 
 <a name="product-management-for-mlai"></a>
@@ -516,6 +530,7 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 1. [Scaling Knowledge at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091)
 1. [Models for integrating data science teams within companies A comparative analysis](https://djpardis.medium.com/models-for-integrating-data-science-teams-within-organizations-7c5afa032ebd)
 1. [How to Write Better with The Why, What, How Framework. How to write design documents for data science/machine learning projects? (by Eugene Yan)](https://eugeneyan.com/writing/writing-docs-why-what-how/)
+1. [Building a data team at a mid-stage startup: a short story. By Erik Bernhardsson](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
 
 
 
