@@ -252,10 +252,7 @@
 1. [Uber's Journey Toward Better Data Culture From First Principles](https://ubr.to/3lo9GU8)
 1. [Cerberus - lightweight and extensible data validation library for Python](https://docs.python-cerberus.org/en/stable/)
 1. [Design a data mesh architecture using AWS Lake Formation and AWS Glue. AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/design-a-data-mesh-architecture-using-aws-lake-formation-and-aws-glue/)
-
-
-
-
+1. [Data Management Challenges in Production Machine Learning (slides)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46178.pdf)
 
 <a name="deployment"></a> 
 # MLOps: Model Deployment and Serving
@@ -532,6 +529,7 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 1. [Scaling Knowledge at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091)
 1. [Models for integrating data science teams within companies A comparative analysis](https://djpardis.medium.com/models-for-integrating-data-science-teams-within-organizations-7c5afa032ebd)
 1. [How to Write Better with The Why, What, How Framework. How to write design documents for data science/machine learning projects? (by Eugene Yan)](https://eugeneyan.com/writing/writing-docs-why-what-how/)
+1. [Technical Writing Courses](https://developers.google.com/tech-writing)
 1. [Building a data team at a mid-stage startup: a short story. By Erik Bernhardsson](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
 
 
