@@ -37,6 +37,7 @@
 1. [MLOps (Machine Learning Operations) Fundamentals on GCP](https://www.coursera.org/learn/mlops-fundamentals)
 1. [ML full Stack preparation](https://www.confetti.ai/)
 1. [MLOps Guide: Theory and Implementation](https://mlops-guide.github.io/)
+1. [Practitioners guide to MLOps: A framework for continuous delivery and automation of machine learning.](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf)
 
 <a name="mlops-communities"></a>
 # MLOps Communities
@@ -428,6 +429,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/#)
 1. [Book: "Distributed Machine Learning Patterns". 2022. By Yuan Tang. Manning](https://www.manning.com/books/distributed-machine-learning-patterns)
 1. [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners)
+1. [Making Friends with Machine Learning. By Cassie Kozyrkov]()
 
 
 
