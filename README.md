@@ -374,6 +374,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Bodywork: model-training and deployment automation](https://bodywork.readthedocs.io/en/latest/)
 1. [Lessons on ML Platforms — from Netflix, DoorDash, Spotify, and more](https://towardsdatascience.com/lessons-on-ml-platforms-from-netflix-doordash-spotify-and-more-f455400115c7)
 1. [Papers & tech blogs by companies sharing their work on data science & machine learning in production. By Eugen Yan](https://github.com/eugeneyan/applied-ml)
+1. [Pachyderm: The Data Foundation for Machine Learning](https://www.pachyderm.com/solutions/mlops/)
 
 
 <a name="machine-learning"></a>
