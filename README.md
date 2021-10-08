@@ -298,6 +298,7 @@
 1. Test-Driven Development in MLOps [Part 1](https://medium.com/mlops-community/test-driven-development-in-mlops-part-1-8894575f4dec)
 2. [Domain-Specific Machine Learning Monitoring](https://medium.com/mlops-community/domain-specific-machine-learning-monitoring-88bc0dd8a212)
 1. [Introducing ML Model Performance Management (Blog by fiddler)](https://blog.fiddler.ai/2021/03/introducing-ml-model-performance-management/)
+1. [Robust ML by Property Based Domain Coverage Testing (Blog by Efemarai)](https://towardsdatascience.com/why-dont-we-test-machine-learning-as-we-test-software-43f5720903d)
 
 
 
