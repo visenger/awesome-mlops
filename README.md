@@ -296,12 +296,15 @@
 1. [Introduction to Unit Testing for Machine Learning](https://themlrebellion.com/blog/Introduction-To-Unit-Testing-Machine-Learning/)
 1. [Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)
 1. Test-Driven Development in MLOps [Part 1](https://medium.com/mlops-community/test-driven-development-in-mlops-part-1-8894575f4dec)
-2. [Domain-Specific Machine Learning Monitoring](https://medium.com/mlops-community/domain-specific-machine-learning-monitoring-88bc0dd8a212)
+1. [Domain-Specific Machine Learning Monitoring](https://medium.com/mlops-community/domain-specific-machine-learning-monitoring-88bc0dd8a212)
 1. [Introducing ML Model Performance Management (Blog by fiddler)](https://blog.fiddler.ai/2021/03/introducing-ml-model-performance-management/)
+
+1. [What is ML Observability? (Arize AI)](https://arize.com/what-is-ml-observability/)
+1. [Beyond Monitoring: The Rise of Observability (Arize AI & Monte Carlo Data)](https://arize.com/beyond-monitoring-the-rise-of-observability/)
+1. [Model Failure Modes (Arize AI)](https://arize.com/ml-model-failure-modes/)
+1. [Quick Start to Data Quality Monitoring for ML (Arize AI)](https://arize.com/data-quality-monitoring/)
+1. [Playbook to Monitoring Model Performance in Production (Arize AI)](https://arize.com/monitor-your-model-in-production/)
 1. [Robust ML by Property Based Domain Coverage Testing (Blog by Efemarai)](https://towardsdatascience.com/why-dont-we-test-machine-learning-as-we-test-software-43f5720903d)
-
-
-
 
 
 <a name="mlops-infra"></a>
@@ -316,6 +319,7 @@
 1. [Navigating the MLOps tooling landscape](https://ljvmiranda921.github.io/notebook/2021/05/10/navigating-the-mlops-landscape/)
 1. [MLOps.toys curated list of MLOps projects (by Aporia)](https://mlops.toys/)
 1. [Comparing Cloud MLOps platforms, From a former AWS SageMaker PM](https://towardsdatascience.com/comparing-cloud-mlops-platform-from-a-former-aws-sagemaker-pm-115ced28239b)
+1. [Machine Learning Ecosystem 101 (whitepaper by Arize AI)](https://arize.com/wp-content/uploads/2021/04/Arize-AI-Ecosystem-White-Paper.pdf)
 
 
 
@@ -353,6 +357,8 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Architecture of machine learning systems (3-part series)](https://www.youtube.com/playlist?list=PLx8omXiw3n9y26FKZLV5ScyS52D_c29QN)
 1. [Machine Learning Design Patterns](https://youtu.be/udXjlvCFusc)
 1. [The laylist that covers techniques and approaches for model deployment on to production](https://youtube.com/playlist?list=PL3N9eeOlCrP5PlN1jwOB3jVZE6nYTVswk)
+1. [ML Observability: A Critical Piece in Ensuring Responsible AI (Arize AI at Re-Work)](https://www.youtube.com/watch?v=2FE1sg749V[o)
+1. [ML Engineering vs. Data Science (Arize AI Un/Summit)](https://www.youtube.com/watch?v=lP_4lT2k7Kg&t=2s)
 
 
 
