@@ -13,6 +13,8 @@ This paper presents a feature-based survey of 17 tools with ML asset management 
 1. [Towards Accountability for Machine Learning Datasets: Practices from Software Engineering and Infrastructure](https://arxiv.org/pdf/2010.13561.pdf)
 1. [Production Machine Learning Pipelines: Empirical Analysis and Optimization Opportunities](https://arxiv.org/pdf/2103.16007.pdf)
 1. [Muralidhar, Nikhil, et al. "Using AntiPatterns to avoid MLOps Mistakes." arXiv preprint arXiv:2107.00079 (2021).](https://arxiv.org/pdf/2107.00079)
+1. **[ModelCI-e: Enabling Continual Learning in Deep Learning Serving Systems](https://arxiv.org/abs/2106.03122)** <br>
+This paper implements a lightweight MLOps plugin, termed ModelCI-e (continuous integration and evolution). It embraces continual learning (CL) and ML deployment techniques, providing end-to-end supports for model updating and validation without serving engine customization.
 
 
 
