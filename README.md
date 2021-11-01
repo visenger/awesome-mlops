@@ -47,7 +47,7 @@
 1. [RsqrdAI - Robust and Responsible AI](https://www.rsqrdai.org)
 1. [DataTalks.Club](https://datatalks.club/)
 1. [Synthetic Data Community](https://syntheticdata.community/)
-1. [MLOps World Community](www.mlopsworld.com)
+1. [MLOps World Community](https://www.mlopsworld.com)
 
 
 <a name="mlops-books"></a>
