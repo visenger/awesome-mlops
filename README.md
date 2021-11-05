@@ -77,6 +77,8 @@
 1. [Machine Learning Engineering in Action](https://www.manning.com/books/machine-learning-engineering-in-action)
 1. [Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
 1. ["Effective Data Science Infrastructure" by Ville Tuulos, 2021](https://www.manning.com/books/effective-data-science-infrastructure)
+1. [AI and Machine Learning for On-Device Development, 2021, By Laurence Moroney. O'Reilly](https://learning.oreilly.com/library/view/ai-and-machine/9781098101732/)
+
 
 
 <a name="mlops-articles"></a>
@@ -193,6 +195,11 @@
 1. [How Well Do You Leverage Machine Learning at Scale? Six Questions to Ask](https://medium.com/cognizantai/how-well-do-you-leverage-machine-learning-at-scale-six-questions-to-ask-7e6acda15ea5)
 1. [Getting started with MLOps: Selecting the right capabilities for your use case](https://cloud.google.com/blog/products/ai-machine-learning/select-the-right-mlops-capabilities-for-your-ml-use-case)
 1. [The Latest Work from the SEI: Artificial Intelligence, DevSecOps, and Security Incident Response](https://insights.sei.cmu.edu/blog/the-latest-work-from-the-sei-artificial-intelligence-devsecops-and-security-incident-response/)
+1. [MLOps: The Ultimate Guide. A handbook on MLOps and how to think about it](https://towardsdatascience.com/mlops-the-ultimate-guide-9d902c752fd1)
+1. [Enterprise Readiness of Cloud MLOps](https://gigaom.com/report/enterprise-readiness-of-cloud-mlops/)
+1. [Should I Train a Model for Each Customer or Use One Model for All of My Customers?](https://towardsdatascience.com/should-i-train-a-model-for-each-customer-or-use-one-model-for-all-of-my-customers-f9e8734d991)
+1. [MLOps-Basics (GitHub repo)](https://github.com/graviraja/MLOps-Basics) by [raviraja](https://github.com/graviraja)
+
 
 
 
@@ -221,6 +228,7 @@
 1. [ML Feature Serving Infrastructure at Lyft](https://eng.lyft.com/ml-feature-serving-infrastructure-at-lyft-d30bf2d3c32a)
 1. [Feature Stores for Self-Service Machine Learning](https://www.ethanrosenthal.com/2021/02/03/feature-stores-self-service/)
 1. [The Architecture Used at LinkedIn to Improve Feature Management in Machine Learning Models.](https://jrodthoughts.medium.com/the-architecture-used-at-linkedin-to-improve-feature-management-in-machine-learning-models-c7bd6ae54db)
+1. [Is There a Feature Store Over the Rainbow? How to select the right feature store for your use case](https://towardsdatascience.com/is-there-a-feature-store-over-the-rainbow-291cab94e8a5)
 
 <a name="dataops"></a>
 # MLOps: Data Engineering (DataOps)
@@ -253,6 +261,12 @@
 1. [Cerberus - lightweight and extensible data validation library for Python](https://docs.python-cerberus.org/en/stable/)
 1. [Design a data mesh architecture using AWS Lake Formation and AWS Glue. AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/design-a-data-mesh-architecture-using-aws-lake-formation-and-aws-glue/)
 1. [Data Management Challenges in Production Machine Learning (slides)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46178.pdf)
+1. [The Missing Piece of Data Discovery and Observability Platforms: Open Standard for Metadata](https://towardsdatascience.com/the-missing-piece-of-data-discovery-and-observability-platforms-open-standard-for-metadata-37dac2d0503)
+1. [Automating Data Protection at Scale](https://medium.com/airbnb-engineering/automating-data-protection-at-scale-part-1-c74909328e08)
+1. [A curated list of awesome pipeline toolkits](https://github.com/pditommaso/awesome-pipeline)
+
+
+
 
 <a name="deployment"></a> 
 # MLOps: Model Deployment and Serving
@@ -298,13 +312,16 @@
 1. Test-Driven Development in MLOps [Part 1](https://medium.com/mlops-community/test-driven-development-in-mlops-part-1-8894575f4dec)
 1. [Domain-Specific Machine Learning Monitoring](https://medium.com/mlops-community/domain-specific-machine-learning-monitoring-88bc0dd8a212)
 1. [Introducing ML Model Performance Management (Blog by fiddler)](https://blog.fiddler.ai/2021/03/introducing-ml-model-performance-management/)
-
 1. [What is ML Observability? (Arize AI)](https://arize.com/what-is-ml-observability/)
 1. [Beyond Monitoring: The Rise of Observability (Arize AI & Monte Carlo Data)](https://arize.com/beyond-monitoring-the-rise-of-observability/)
 1. [Model Failure Modes (Arize AI)](https://arize.com/ml-model-failure-modes/)
 1. [Quick Start to Data Quality Monitoring for ML (Arize AI)](https://arize.com/data-quality-monitoring/)
 1. [Playbook to Monitoring Model Performance in Production (Arize AI)](https://arize.com/monitor-your-model-in-production/)
 1. [Robust ML by Property Based Domain Coverage Testing (Blog by Efemarai)](https://towardsdatascience.com/why-dont-we-test-machine-learning-as-we-test-software-43f5720903d)
+1. [Monitoring and explainability of models in production](https://arxiv.org/pdf/2007.06299.pdf)
+1. [Beyond Monitoring: The Rise of Observability](https://aparnadhinak.medium.com/beyond-monitoring-the-rise-of-observability-c53bdc1d2e0b)
+1. [ML Model Monitoring – 9 Tips From the Trenches. (by NU bank)](https://building.nubank.com.br/ml-model-monitoring-9-tips-from-the-trenches/)
+1. [Model health assurance at LinkedIn. By LinkedIn Engineering](https://engineering.linkedin.com/blog/2021/model-health-assurance-at-linkedin)
 
 
 <a name="mlops-infra"></a>
@@ -320,6 +337,10 @@
 1. [MLOps.toys curated list of MLOps projects (by Aporia)](https://mlops.toys/)
 1. [Comparing Cloud MLOps platforms, From a former AWS SageMaker PM](https://towardsdatascience.com/comparing-cloud-mlops-platform-from-a-former-aws-sagemaker-pm-115ced28239b)
 1. [Machine Learning Ecosystem 101 (whitepaper by Arize AI)](https://arize.com/wp-content/uploads/2021/04/Arize-AI-Ecosystem-White-Paper.pdf)
+1. [Selecting your optimal MLOps stack: advantages and challenges. By Intellerts](https://intellerts.com/selecting-your-optimal-mlops-stack-advantages-and-challenges/)
+1. [Infrastructure Design for Real-time Machine Learning Inference. The Databricks Blog](https://databricks.com/blog/2021/09/01/infrastructure-design-for-real-time-machine-learning-inference.html)
+1. [The 2021 State of AI Infrastructure Survey](https://pages.run.ai/hubfs/PDFs/2021-State-of-AI-Infrastructure-Survey.pdf)
+1. [AI infrastructure Maturity matrix](https://pages.run.ai/hubfs/PDFs/AI-Infrastructure-Maturity-Benchmarking-Model.pdf)
 
 
 
@@ -359,6 +380,8 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [The laylist that covers techniques and approaches for model deployment on to production](https://youtube.com/playlist?list=PL3N9eeOlCrP5PlN1jwOB3jVZE6nYTVswk)
 1. [ML Observability: A Critical Piece in Ensuring Responsible AI (Arize AI at Re-Work)](https://www.youtube.com/watch?v=2FE1sg749V[o)
 1. [ML Engineering vs. Data Science (Arize AI Un/Summit)](https://www.youtube.com/watch?v=lP_4lT2k7Kg&t=2s)
+1. [SRE for ML: The First 10 Years and the Next 10 ](https://www.usenix.org/conference/srecon21/presentation/underwood-sre-ml)
+2. [Demystifying Machine Learning in Production: Reasoning about a Large-Scale ML Platform](https://www.usenix.org/conference/srecon21/presentation/mcglohon)
 
 
 
@@ -381,6 +404,10 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Bodywork: model-training and deployment automation](https://bodywork.readthedocs.io/en/latest/)
 1. [Lessons on ML Platforms — from Netflix, DoorDash, Spotify, and more](https://towardsdatascience.com/lessons-on-ml-platforms-from-netflix-doordash-spotify-and-more-f455400115c7)
 1. [Papers & tech blogs by companies sharing their work on data science & machine learning in production. By Eugen Yan](https://github.com/eugeneyan/applied-ml)
+1. [How do different tech companies approach building internal ML platforms? (tweet)](https://twitter.com/EvidentlyAI/status/1420328878585913344)
+1. [Declarative Machine Learning Systems](https://dl.acm.org/doi/pdf/10.1145/3475965.3479315)
+1. [StreamING Machine Learning Models: How ING Adds Fraud Detection Models at Runtime with Apache Flink](https://www.ververica.com/blog/real-time-fraud-detection-ing-bank-apache-flink)
+
 
 
 <a name="machine-learning"></a>
@@ -471,6 +498,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Machine Learning and User Experience: A Few Resources](https://medium.com/ml-ux/machine-learning-and-user-experience-a-few-resources-e7872f1d34ee)
 1. [AI ideation canvas](https://idalab.de/wp-content/uploads/2021/02/idalab-AI-ideation-canvas-Feb21.pdf)
 1. [Ideation in AI](https://idalab.de/ideation-in-ai-five-ways-to-make-the-workshops-work/)
+1. [5 Steps for Building Machine Learning Models for Business. By shopify engineering](https://shopify.engineering/building-business-machine-learning-models)
 
 
 
@@ -519,6 +547,8 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Expanding AI's Impact With Organizational Learning](https://sloanreview.mit.edu/projects/expanding-ais-impact-with-organizational-learning/)
 1. [Potemkin Data Science](https://mcorrell.medium.com/potemkin-data-science-fba2b5ba5cc6)
 1. [When Should You Not Invest in AI?](https://www.entrepreneur.com/article/359803)
+1. [Why 90% of machine learning models never hit the market. Most companies lack leadership support, effective communication between teams, and accessible data](https://thenextweb.com/news/why-most-machine-learning-models-never-hit-market-syndication)
+
 
 
 
@@ -538,6 +568,7 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 1. [How to Write Better with The Why, What, How Framework. How to write design documents for data science/machine learning projects? (by Eugene Yan)](https://eugeneyan.com/writing/writing-docs-why-what-how/)
 1. [Technical Writing Courses](https://developers.google.com/tech-writing)
 1. [Building a data team at a mid-stage startup: a short story. By Erik Bernhardsson](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
+1. [The Cultural Benefits of Artificial Intelligence in the Enterprise. by Sam Ransbotham, François Candelon, David Kiron, Burt LaFountain, and Shervin Khodabandeh](https://web-assets.bcg.com/2a/d0/ebfb860a4e05aa9e4729b083da4b/the-cultural-benefits-of-artificial-intelligence-in-the-enterprise.pdf)
 
 
 

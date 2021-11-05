@@ -13,8 +13,10 @@ This paper presents a feature-based survey of 17 tools with ML asset management 
 1. [Towards Accountability for Machine Learning Datasets: Practices from Software Engineering and Infrastructure](https://arxiv.org/pdf/2010.13561.pdf)
 1. [Production Machine Learning Pipelines: Empirical Analysis and Optimization Opportunities](https://arxiv.org/pdf/2103.16007.pdf)
 1. [Muralidhar, Nikhil, et al. "Using AntiPatterns to avoid MLOps Mistakes." arXiv preprint arXiv:2107.00079 (2021).](https://arxiv.org/pdf/2107.00079)
-1. **[ModelCI-e: Enabling Continual Learning in Deep Learning Serving Systems](https://arxiv.org/abs/2106.03122)** <br>
+1. [ModelCI-e: Enabling Continual Learning in Deep Learning Serving Systems](https://arxiv.org/abs/2106.03122) <br>
 This paper implements a lightweight MLOps plugin, termed ModelCI-e (continuous integration and evolution). It embraces continual learning (CL) and ML deployment techniques, providing end-to-end supports for model updating and validation without serving engine customization.
+1. [Hopkins, Aspen, and Serena Booth. "Machine Learning Practices Outside Big Tech: How Resource Constraints Challenge Responsible Development." (2021).](http://www.slbooth.com/papers/AIES-2021_Hopkins_and_Booth.pdf)
+
 
 
 
@@ -47,6 +49,7 @@ and APIs are instrumented to capture changes to ML artifacts, that, along with f
 1. **[Towards distribution transparency for supervised ML with oblivious training functions](https://content.logicalclocks.com/hubfs/research/oblivious-training_mlsys20.pdf)** <br> This paper introduces the distribution oblivious training function as an abstraction for ML development in Python, whereby developers can reuse the same training function when running a notebook on a laptop or performing scale-out hyperparameter search and distributed training on clusters. 
 1. **[Towards ML engineering: a brief history of TensorFlow Extended (TFX)](https://arxiv.org/pdf/2010.02013.pdf)** <br> This paper gives a whirlwind tour of Sibyl and TensorFlow Extended (TFX), two successive end-to-end ML platforms at Alphabet. It also shares the lessons learned from over a decade of applied ML built on these platforms, and explains both their similarities and their differences.
 1. [Siebert, Julien, et al. "Towards guidelines for assessing qualities of machine learning systems." International Conference on the Quality of Information and Communications Technology. Springer, Cham, 2020.](https://arxiv.org/pdf/2008.11007)
+1. [Karlaš, Bojan, Matteo Interlandi, Cedric Renggli, Wentao Wu, Ce Zhang, Deepak Mukunthu Iyappan Babu, Jordan Edwards, Chris Lauren, Andy Xu, and Markus Weimer. "Building continuous integration services for machine learning." In Proceedings of the 26th ACM SIGKDD 2020.](https://www.researchgate.net/profile/Wentao-Wu-2/publication/343776671_Building_Continuous_Integration_Services_for_Machine_Learning/links/5fb6d4c8299bf104cf5cd3b1/Building-Continuous-Integration-Services-for-Machine-Learning.pdf)
 
 ## 2019
 
@@ -101,3 +104,4 @@ corresponding ML models, and points out future research directions.
 1. [Addressing the Memory Bottleneck in AI Model-Training](https://arxiv.org/pdf/2003.08732)
 1. [Reliance on Metrics is a Fundamental Challenge for AI](https://arxiv.org/pdf/2002.08512.pdf)
 1. [Teaching Software Engineering for AI-Enabled Systems](https://arxiv.org/pdf/2001.06691.pdf)
+
