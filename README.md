@@ -5,6 +5,9 @@
 *An awesome list of references for MLOps - Machine Learning Operations :point_right: [ml-ops.org](https://ml-ops.org/)*
 
 
+![Twitter Follow](https://img.shields.io/twitter/follow/visenger?style=social)
+
+
 # Table of Content
 | <!-- -->                         | <!-- -->                         |
 | -------------------------------- | -------------------------------- |
