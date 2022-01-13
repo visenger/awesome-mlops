@@ -322,6 +322,7 @@
 1. [Beyond Monitoring: The Rise of Observability](https://aparnadhinak.medium.com/beyond-monitoring-the-rise-of-observability-c53bdc1d2e0b)
 1. [ML Model Monitoring – 9 Tips From the Trenches. (by NU bank)](https://building.nubank.com.br/ml-model-monitoring-9-tips-from-the-trenches/)
 1. [Model health assurance at LinkedIn. By LinkedIn Engineering](https://engineering.linkedin.com/blog/2021/model-health-assurance-at-linkedin)
+1. [How to Trust Your Deep Learning Code](https://krokotsch.eu/cleancode/2020/08/11/Unit-Tests-for-Deep-Learning.html) ([Accompanying code](https://github.com/tilman151/unittest_dl))
 
 
 <a name="mlops-infra"></a>
