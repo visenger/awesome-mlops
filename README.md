@@ -345,6 +345,7 @@
 1. [Infrastructure Design for Real-time Machine Learning Inference. The Databricks Blog](https://databricks.com/blog/2021/09/01/infrastructure-design-for-real-time-machine-learning-inference.html)
 1. [The 2021 State of AI Infrastructure Survey](https://pages.run.ai/hubfs/PDFs/2021-State-of-AI-Infrastructure-Survey.pdf)
 1. [AI infrastructure Maturity matrix](https://pages.run.ai/hubfs/PDFs/AI-Infrastructure-Maturity-Benchmarking-Model.pdf)
+1. [A Curated Collection of the Best Open-source MLOps Tools. By Censius](https://censius.ai/mlops-tools)
 
 
 
