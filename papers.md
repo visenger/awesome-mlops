@@ -4,6 +4,8 @@ This section lists scientific and industrial papers about ML operalization since
 
 ## 2021
 
+1. **[A software engineering perspective on engineering machine learning systems: State of the art and challenges](https://www.sciencedirect.com/science/article/pii/S016412122100128X)** <br>
+A systematic analysis and summary of the current state of software engineering research for engineering ML systems.
 1. **[Asset management in machine learning: a survey](https://arxiv.org/abs/2102.06919)** <br> 
 This paper presents a feature-based survey of 17 tools with ML asset management support identified in a systematic search. It overviews these tools’ features for managing the different types of assets used for engineering ML-based systems and performing experiments.
 1. **[Ease.ML: a lifecycle management system for MLDev and MLOps](https://www.research-collection.ethz.ch/handle/20.500.11850/458916)**  <br>  This paper presents a system for managing and automating the entire lifecycle of machine learning application development. 
