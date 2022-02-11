@@ -106,6 +106,7 @@
 1. [Architecting a Machine Learning Pipeline How to build scalable Machine Learning systems](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
 1. [Why Machine Learning Models Degrade In Production](https://towardsdatascience.com/why-machine-learning-models-degrade-in-production-d0f2108e9214)
 1. [Concept Drift and Model Decay in Machine Learning](http://xplordat.com/2019/04/25/concept-drift-and-model-decay-in-machine-learning/?source=post_page---------------------------)
+1. [Machine Learning in Production: Why You Should Care About Data and Concept Drift](https://towardsdatascience.com/machine-learning-in-production-why-you-should-care-about-data-and-concept-drift-d96d0bc907fb)
 1. [Bringing ML to Production](https://www.slideshare.net/mikiobraun/bringing-ml-to-production-what-is-missing-amld-2020)
 1. [A Tour of End-to-End Machine Learning Platforms](https://databaseline.tech/a-tour-of-end-to-end-ml-platforms/)
 1. [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
