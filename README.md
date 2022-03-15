@@ -387,8 +387,11 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [ML Observability: A Critical Piece in Ensuring Responsible AI (Arize AI at Re-Work)](https://www.youtube.com/watch?v=2FE1sg749V[o)
 1. [ML Engineering vs. Data Science (Arize AI Un/Summit)](https://www.youtube.com/watch?v=lP_4lT2k7Kg&t=2s)
 1. [SRE for ML: The First 10 Years and the Next 10 ](https://www.usenix.org/conference/srecon21/presentation/underwood-sre-ml)
-2. [Demystifying Machine Learning in Production: Reasoning about a Large-Scale ML Platform](https://www.usenix.org/conference/srecon21/presentation/mcglohon)
-
+1. [Demystifying Machine Learning in Production: Reasoning about a Large-Scale ML Platform](https://www.usenix.org/conference/srecon21/presentation/mcglohon)
+1. [Apply Conf 2022](https://www.applyconf.com/apply-conf-may-2022/)
+1. [Databricks' Data + AI Summit 2022](https://databricks.com/dataaisummit/north-america-2022)
+1. [RE•WORK MLOps Summit 2022](https://www.re-work.co/events/mlops-summit-2022)
+1. [Annual MLOps World Conference](https://mlopsworld.com/)
 
 
 <a name="existing-ml-systems"></a>
