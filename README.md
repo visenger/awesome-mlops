@@ -81,6 +81,7 @@
 1. [Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
 1. ["Effective Data Science Infrastructure" by Ville Tuulos, 2021](https://www.manning.com/books/effective-data-science-infrastructure)
 1. [AI and Machine Learning for On-Device Development, 2021, By Laurence Moroney. O'Reilly](https://learning.oreilly.com/library/view/ai-and-machine/9781098101732/)
+1. [Reliable Machine Learning. 2022. By Cathy Chen, Niall Richard Murphy, Kranti Parisa, D. Sculley, Todd Underwood. O'Reilly](https://learning.oreilly.com/library/view/reliable-machine-learning/9781098106218/)
 
 
 
