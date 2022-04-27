@@ -214,6 +214,7 @@
 1. [Open-source Workflow Management Tools: A Survey by Ploomber](https://ploomber.io/posts/survey/)
 1. [How to Compare ML Experiment Tracking Tools to Fit Your Data Science Workflow (by dagshub)](https://dagshub.com/blog/how-to-compare-ml-experiment-tracking-tools-to-fit-your-data-science-workflow/)
 1. [15 Best Tools for Tracking Machine Learning Experiments](https://medium.com/neptune-ai/15-best-tools-for-tracking-machine-learning-experiments-64c6eff16808)
+1. [Terraform Provider Iterative (TPI) - Open-source CLI tool for full lifecycle management of computing resources](https://github.com/iterative/terraform-provider-iterative)
 
 <a name="feature-stores"></a>
 # MLOps: Feature Stores
