@@ -270,7 +270,7 @@
 1. [Automating Data Protection at Scale](https://medium.com/airbnb-engineering/automating-data-protection-at-scale-part-1-c74909328e08)
 1. [A curated list of awesome pipeline toolkits](https://github.com/pditommaso/awesome-pipeline)
 1. [Data Mesh Archtitecture](https://www.datamesh-architecture.com/)
-
+1. [Squirrel: A Python library for better loading, transforming and sharing of large-scale ML data sets](A library that enables ML teams to share, load, and transform data in a collaborative, flexible, and efficient way.)
 
 
 
