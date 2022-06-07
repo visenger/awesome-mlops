@@ -52,6 +52,11 @@
 1. [Synthetic Data Community](https://syntheticdata.community/)
 1. [MLOps World Community](https://www.mlopsworld.com)
 
+<a name="mlops-courses"></a>
+# MLOps Courses
+
+1. [MLOps Zoomcamp (free)](https://github.com/DataTalksClub/mlops-zoomcamp)
+
 
 <a name="mlops-books"></a>
 # MLOps Books
