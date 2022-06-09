@@ -496,6 +496,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](http://awesome-scalability.com/)
 1. [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 1. [SHADES OF CONWAY'S LAW](https://thinkinglabs.io/articles/2021/05/07/shades-of-conways-law.html)
+1. [Engineering Practices for Data Scientists](https://valohai.com/engineering-practices-ebook/)
 
 
 
