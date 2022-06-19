@@ -52,6 +52,11 @@
 1. [Synthetic Data Community](https://syntheticdata.community/)
 1. [MLOps World Community](https://www.mlopsworld.com)
 
+<a name="mlops-courses"></a>
+# MLOps Courses
+
+1. [MLOps Zoomcamp (free)](https://github.com/DataTalksClub/mlops-zoomcamp)
+
 
 <a name="mlops-books"></a>
 # MLOps Books
@@ -82,7 +87,7 @@
 1. ["Effective Data Science Infrastructure" by Ville Tuulos, 2021](https://www.manning.com/books/effective-data-science-infrastructure)
 1. [AI and Machine Learning for On-Device Development, 2021, By Laurence Moroney. O'Reilly](https://learning.oreilly.com/library/view/ai-and-machine/9781098101732/)
 1. [Designing Machine Learning Systems ,2022 by Chip Huyen , O'Reilly ](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
-
+1. [Reliable Machine Learning. 2022. By Cathy Chen, Niall Richard Murphy, Kranti Parisa, D. Sculley, Todd Underwood. O'Reilly](https://learning.oreilly.com/library/view/reliable-machine-learning/9781098106218/)
 
 
 <a name="mlops-articles"></a>
@@ -269,6 +274,7 @@
 1. [The Missing Piece of Data Discovery and Observability Platforms: Open Standard for Metadata](https://towardsdatascience.com/the-missing-piece-of-data-discovery-and-observability-platforms-open-standard-for-metadata-37dac2d0503)
 1. [Automating Data Protection at Scale](https://medium.com/airbnb-engineering/automating-data-protection-at-scale-part-1-c74909328e08)
 1. [A curated list of awesome pipeline toolkits](https://github.com/pditommaso/awesome-pipeline)
+1. [Data Mesh Archtitecture](https://www.datamesh-architecture.com/)
 
 
 
@@ -388,8 +394,11 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [ML Observability: A Critical Piece in Ensuring Responsible AI (Arize AI at Re-Work)](https://www.youtube.com/watch?v=2FE1sg749V[o)
 1. [ML Engineering vs. Data Science (Arize AI Un/Summit)](https://www.youtube.com/watch?v=lP_4lT2k7Kg&t=2s)
 1. [SRE for ML: The First 10 Years and the Next 10 ](https://www.usenix.org/conference/srecon21/presentation/underwood-sre-ml)
-2. [Demystifying Machine Learning in Production: Reasoning about a Large-Scale ML Platform](https://www.usenix.org/conference/srecon21/presentation/mcglohon)
-
+1. [Demystifying Machine Learning in Production: Reasoning about a Large-Scale ML Platform](https://www.usenix.org/conference/srecon21/presentation/mcglohon)
+1. [Apply Conf 2022](https://www.applyconf.com/apply-conf-may-2022/)
+1. [Databricks' Data + AI Summit 2022](https://databricks.com/dataaisummit/north-america-2022)
+1. [RE•WORK MLOps Summit 2022](https://www.re-work.co/events/mlops-summit-2022)
+1. [Annual MLOps World Conference](https://mlopsworld.com/)
 
 
 <a name="existing-ml-systems"></a>
@@ -487,6 +496,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](http://awesome-scalability.com/)
 1. [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 1. [SHADES OF CONWAY'S LAW](https://thinkinglabs.io/articles/2021/05/07/shades-of-conways-law.html)
+1. [Engineering Practices for Data Scientists](https://valohai.com/engineering-practices-ebook/)
 
 
 
@@ -608,5 +618,6 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 1. [Machine Learning Ops Roundup](https://mlopsroundup.substack.com/)
 1. [Data Science Programming Newsletter by Eric Ma](https://dspn.substack.com/)
 1. [Marginally Interesting by Mikio L. Braun](https://www.getrevue.co/profile/mikiobraun) 
+1. [Synced](https://syncedreview.com/)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/visenger?style=social)
