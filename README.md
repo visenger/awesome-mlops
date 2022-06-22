@@ -275,6 +275,7 @@
 1. [Automating Data Protection at Scale](https://medium.com/airbnb-engineering/automating-data-protection-at-scale-part-1-c74909328e08)
 1. [A curated list of awesome pipeline toolkits](https://github.com/pditommaso/awesome-pipeline)
 1. [Data Mesh Archtitecture](https://www.datamesh-architecture.com/)
+1. [LineaPy: An open source Python library that transforms messy Jupyter notebooks to production-ready pipelines with two lines of code](https://github.com/LineaLabs/lineapy)
 
 
 
