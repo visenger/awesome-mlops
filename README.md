@@ -94,7 +94,7 @@
 # MLOps Articles
 
 1. [Continuous Delivery for Machine Learning (by Thoughtworks)](https://martinfowler.com/articles/cd4ml.html)
-2. [What is MLOps by Derrick Mwiti?](https://towardsdatascience.com/what-is-mlops-996f3d30aacf)
+2. [What is MLOps? (by Derrick Mwiti)](https://towardsdatascience.com/what-is-mlops-996f3d30aacf)
 3. [What is MLOps? NVIDIA Blog](https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/)
 4. [MLSpec: A project to standardize the intercomponent schemas for a multi-stage ML Pipeline.](https://github.com/visenger/MLSpec)
 5. [The 2021 State of Enterprise Machine Learning](https://info.algorithmia.com/tt-state-of-ml-2021) | State of Enterprise ML 2020: [PDF](https://info.algorithmia.com/hubfs/2019/Whitepapers/The-State-of-Enterprise-ML-2020/Algorithmia_2020_State_of_Enterprise_ML.pdf) and [Interactive](https://algorithmia.com/state-of-ml)
