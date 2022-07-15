@@ -423,7 +423,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [How do different tech companies approach building internal ML platforms? (tweet)](https://twitter.com/EvidentlyAI/status/1420328878585913344)
 1. [Declarative Machine Learning Systems](https://dl.acm.org/doi/pdf/10.1145/3475965.3479315)
 1. [StreamING Machine Learning Models: How ING Adds Fraud Detection Models at Runtime with Apache Flink](https://www.ververica.com/blog/real-time-fraud-detection-ing-bank-apache-flink)
-
+1. [Colossal-AI: A Unified Deep Learning System for Big Model Era](https://github.com/hpcaitech/ColossalAI)
 
 
 <a name="machine-learning"></a>
