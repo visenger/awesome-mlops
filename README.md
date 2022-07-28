@@ -56,6 +56,7 @@
 # MLOps Courses
 
 1. [MLOps Zoomcamp (free)](https://github.com/DataTalksClub/mlops-zoomcamp)
+2. [Coursera's Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 
 
 <a name="mlops-books"></a>
