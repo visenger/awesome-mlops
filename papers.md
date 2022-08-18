@@ -4,6 +4,7 @@ This section lists scientific and industrial papers about ML operalization since
 
 ## 2022
 1. **[Tiny-MLOps: a framework for orchestrating ML applications at the far edge of IoT systems](https://ieeexplore.ieee.org/document/9787703)** <br>
+2. **[Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/pdf/2205.02302.pdf)** <br>
 
 ## 2021
 
