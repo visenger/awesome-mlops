@@ -381,6 +381,7 @@
 1. [The 2021 State of AI Infrastructure Survey](https://pages.run.ai/hubfs/PDFs/2021-State-of-AI-Infrastructure-Survey.pdf)
 1. [AI infrastructure Maturity matrix](https://pages.run.ai/hubfs/PDFs/AI-Infrastructure-Maturity-Benchmarking-Model.pdf)
 1. [A Curated Collection of the Best Open-source MLOps Tools. By Censius](https://censius.ai/mlops-tools)
+1. [Best MLOps Tools to Manage the ML Lifecycle](https://nimblebox.ai/blog/mlops-tools)
 </details>
 
 
