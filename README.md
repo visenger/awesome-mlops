@@ -661,6 +661,7 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 1. [Data Science Programming Newsletter by Eric Ma](https://dspn.substack.com/)
 1. [Marginally Interesting by Mikio L. Braun](https://www.getrevue.co/profile/mikiobraun) 
 1. [Synced](https://syncedreview.com/)
+1. [The Ground Truth: Newsletter for Computer Vision Practitioners](https://info.superb-ai.com/ground-truth-newsletter-subscribe)
 </details>
  
 ![Twitter Follow](https://img.shields.io/twitter/follow/visenger?style=social)
