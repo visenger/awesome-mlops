@@ -223,6 +223,7 @@
 1. [Enterprise Readiness of Cloud MLOps](https://gigaom.com/report/enterprise-readiness-of-cloud-mlops/)
 1. [Should I Train a Model for Each Customer or Use One Model for All of My Customers?](https://towardsdatascience.com/should-i-train-a-model-for-each-customer-or-use-one-model-for-all-of-my-customers-f9e8734d991)
 1. [MLOps-Basics (GitHub repo)](https://github.com/graviraja/MLOps-Basics) by [raviraja](https://github.com/graviraja)
+1. [Another tool won’t fix your MLOps problems](https://dshersh.medium.com/too-many-mlops-tools-c590430ba81b)
 </details>
 
 
