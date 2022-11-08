@@ -554,6 +554,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [AI ideation canvas](https://idalab.de/wp-content/uploads/2021/02/idalab-AI-ideation-canvas-Feb21.pdf)
 1. [Ideation in AI](https://idalab.de/ideation-in-ai-five-ways-to-make-the-workshops-work/)
 1. [5 Steps for Building Machine Learning Models for Business. By shopify engineering](https://shopify.engineering/building-business-machine-learning-models)
+1. [Metric Design for Data Scientists and Business Leaders](https://towardsdatascience.com/metric-design-for-data-scientists-and-business-leaders-b8adaf46c00)
 </details>
 
 
