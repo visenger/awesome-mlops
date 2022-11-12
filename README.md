@@ -360,6 +360,7 @@
 1. [ML Model Monitoring – 9 Tips From the Trenches. (by NU bank)](https://building.nubank.com.br/ml-model-monitoring-9-tips-from-the-trenches/)
 1. [Model health assurance at LinkedIn. By LinkedIn Engineering](https://engineering.linkedin.com/blog/2021/model-health-assurance-at-linkedin)
 1. [How to Trust Your Deep Learning Code](https://krokotsch.eu/cleancode/2020/08/11/Unit-Tests-for-Deep-Learning.html) ([Accompanying code](https://github.com/tilman151/unittest_dl))
+1. [Estimating Performance of Regression Models Without Ground-Truth](https://bit.ly/medium-estimating-performance-regression) (Using [NannyML](https://bit.ly/ml-ops-nannyml))
 </details>
 
 <a name="mlops-infra"></a>
