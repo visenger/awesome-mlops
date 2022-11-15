@@ -224,6 +224,9 @@
 1. [Should I Train a Model for Each Customer or Use One Model for All of My Customers?](https://towardsdatascience.com/should-i-train-a-model-for-each-customer-or-use-one-model-for-all-of-my-customers-f9e8734d991)
 1. [MLOps-Basics (GitHub repo)](https://github.com/graviraja/MLOps-Basics) by [raviraja](https://github.com/graviraja)
 1. [Another tool won’t fix your MLOps problems](https://dshersh.medium.com/too-many-mlops-tools-c590430ba81b)
+1. [Best MLOps Tools: What to Look for and How to Evaluate Them](https://nimblebox.ai/blog/mlops-tools)
+1. [MLOps vs. DevOps: A Detailed Comparison](https://nimblebox.ai/blog/mlops-vs-devops)
+1. [A Guide To Setting Up Your MLOps Team](https://nimblebox.ai/blog/mlops-team-structure)
 </details>
 
 
@@ -297,6 +300,7 @@
 1. [Automating Data Protection at Scale](https://medium.com/airbnb-engineering/automating-data-protection-at-scale-part-1-c74909328e08)
 1. [A curated list of awesome pipeline toolkits](https://github.com/pditommaso/awesome-pipeline)
 1. [Data Mesh Archtitecture](https://www.datamesh-architecture.com/)
+1. [The Essential Guide to Data Exploration in Machine Learning](https://nimblebox.ai/blog/data-exploration)
 </details>
 
 
@@ -361,6 +365,7 @@
 1. [Model health assurance at LinkedIn. By LinkedIn Engineering](https://engineering.linkedin.com/blog/2021/model-health-assurance-at-linkedin)
 1. [How to Trust Your Deep Learning Code](https://krokotsch.eu/cleancode/2020/08/11/Unit-Tests-for-Deep-Learning.html) ([Accompanying code](https://github.com/tilman151/unittest_dl))
 1. [Estimating Performance of Regression Models Without Ground-Truth](https://bit.ly/medium-estimating-performance-regression) (Using [NannyML](https://bit.ly/ml-ops-nannyml))
+1. [How Hyperparameter Tuning in Machine Learning Works](https://nimblebox.ai/blog/hyperparameter-tuning-machine-learning)
 </details>
 
 <a name="mlops-infra"></a>
@@ -512,6 +517,9 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Book: "Distributed Machine Learning Patterns". 2022. By Yuan Tang. Manning](https://www.manning.com/books/distributed-machine-learning-patterns)
 1. [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners)
 1. [Making Friends with Machine Learning. By Cassie Kozyrkov]()
+1. [Machine Learning Workflow - A Complete Guide](https://nimblebox.ai/blog/machine-learning-workflow)
+1. [Performance Metrics to Monitor in Machine Learning Projects](https://nimblebox.ai/blog/machine-learning-performance-metrics)
+ 
 </details>
 
 
