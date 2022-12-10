@@ -116,6 +116,7 @@
 1. [ML Pipeline Template](https://www.agilestacks.com/tutorials/ml-pipelines)
 1. [Data Science Project Structure](https://drivendata.github.io/cookiecutter-data-science/#directory-structure)
 1. [Reproducible ML](https://github.com/cmawer/reproducible-model)
+1. [MLops in simple terms](https://medium.com/@aitelkobyoussef/mlops-in-simple-terms-b5020cd36b1f)
 1. [ML project template facilitating both research and production phases.](https://github.com/visenger/ml-project-template)
 1. [Machine learning requires a fundamentally different deployment approach. As organizations embrace machine learning, the need for new deployment tools and strategies grows.](https://www.oreilly.com/radar/machine-learning-requires-a-fundamentally-different-deployment-approach/)
 1. [Introducting Flyte: A Cloud Native Machine Learning and Data Processing Platform](https://eng.lyft.com/introducing-flyte-cloud-native-machine-learning-and-data-processing-platform-fb2bb3046a59)
