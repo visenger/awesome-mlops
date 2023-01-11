@@ -3,8 +3,10 @@
 This section lists scientific and industrial papers about ML operalization since 2015.
 
 ## 2022
+
+1. **[Marius Schlegel, Kai-Uwe Sattler. "Management of Machine Learning Lifecycle Artifacts: A Survey", ACM SIGMOD Record Volume 51, Issue 4, 2022.](https://sigmodrecord.org/?smd_process_download=1&download_id=%2013285)**
 1. **[Tiny-MLOps: a framework for orchestrating ML applications at the far edge of IoT systems](https://ieeexplore.ieee.org/document/9787703)** <br>
-2. **[Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/pdf/2205.02302.pdf)** <br>
+1. **[Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/pdf/2205.02302.pdf)** <br>
 
 ## 2021
 
