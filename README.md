@@ -301,6 +301,7 @@
 1. [A curated list of awesome pipeline toolkits](https://github.com/pditommaso/awesome-pipeline)
 1. [Data Mesh Archtitecture](https://www.datamesh-architecture.com/)
 1. [The Essential Guide to Data Exploration in Machine Learning (by NimbleBox.ai)](https://nimblebox.ai/blog/data-exploration)
+1. [Data Models for Dataset Drift Controls in Machine Learning With Images](https://github.com/aiaudit-org/raw2logit): [Paper](https://arxiv.org/abs/2211.02578) | [Code](https://github.com/aiaudit-org/raw2logit)
 </details>
 
 
@@ -366,6 +367,7 @@
 1. [How to Trust Your Deep Learning Code](https://krokotsch.eu/cleancode/2020/08/11/Unit-Tests-for-Deep-Learning.html) ([Accompanying code](https://github.com/tilman151/unittest_dl))
 1. [Estimating Performance of Regression Models Without Ground-Truth](https://bit.ly/medium-estimating-performance-regression) (Using [NannyML](https://bit.ly/ml-ops-nannyml))
 1. [How Hyperparameter Tuning in Machine Learning Works (by NimbleBox.ai)](https://nimblebox.ai/blog/hyperparameter-tuning-machine-learning)
+1. [Data Models for Dataset Drift Controls in Machine Learning With Images](https://github.com/aiaudit-org/raw2logit): [Paper](https://arxiv.org/abs/2211.02578) | [Code](https://github.com/aiaudit-org/raw2logit)
 </details>
 
 <a name="mlops-infra"></a>
