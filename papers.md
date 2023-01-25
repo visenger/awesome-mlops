@@ -2,6 +2,9 @@
 
 This section lists scientific and industrial papers about ML operalization since 2015.
 
+## 2023
+1. **[Data Models for Dataset Drift Controls in Machine Learning With Images](https://github.com/aiaudit-org/raw2logit): [Paper](https://arxiv.org/abs/2211.02578) | [Code](https://github.com/aiaudit-org/raw2logit)**
+
 ## 2022
 1. **[Tiny-MLOps: a framework for orchestrating ML applications at the far edge of IoT systems](https://ieeexplore.ieee.org/document/9787703)** <br>
 2. **[Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/pdf/2205.02302.pdf)** <br>
