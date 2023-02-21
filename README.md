@@ -8,7 +8,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/visenger?style=social)
 
 
-# Table of Content
+# Table of Contents
 | <!-- -->                         | <!-- -->                         |
 | -------------------------------- | -------------------------------- |
 | [MLOps Core](#core-mlops) | [MLOps Communities](#mlops-communities) |
@@ -64,6 +64,7 @@
 
 1. [MLOps Zoomcamp (free)](https://github.com/DataTalksClub/mlops-zoomcamp)
 2. [Coursera's Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+3. [Udacity Machine Learning DevOps Engineer](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821)
 
 
 <a name="mlops-books"></a>
@@ -301,6 +302,7 @@
 1. [A curated list of awesome pipeline toolkits](https://github.com/pditommaso/awesome-pipeline)
 1. [Data Mesh Archtitecture](https://www.datamesh-architecture.com/)
 1. [The Essential Guide to Data Exploration in Machine Learning (by NimbleBox.ai)](https://nimblebox.ai/blog/data-exploration)
+1. [Finding millions of label errors with Cleanlab](https://datacentricai.org/blog/finding-millions-of-label-errors-with-cleanlab/)
 </details>
 
 
