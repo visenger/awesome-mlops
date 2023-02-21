@@ -2,6 +2,9 @@
 
 This section lists scientific and industrial papers about ML operalization since 2015.
 
+## 2023
+1. **[Data Models for Dataset Drift Controls in Machine Learning With Images](https://github.com/aiaudit-org/raw2logit): [Paper](https://arxiv.org/abs/2211.02578) | [Code](https://github.com/aiaudit-org/raw2logit)**
+
 ## 2022
 
 1. **[Marius Schlegel, Kai-Uwe Sattler. "Management of Machine Learning Lifecycle Artifacts: A Survey", ACM SIGMOD Record Volume 51, Issue 4, 2022.](https://sigmodrecord.org/?smd_process_download=1&download_id=%2013285)**
