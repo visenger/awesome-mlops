@@ -8,7 +8,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/visenger?style=social)
 
 
-# Table of Content
+# Table of Contents
 | <!-- -->                         | <!-- -->                         |
 | -------------------------------- | -------------------------------- |
 | [MLOps Core](#core-mlops) | [MLOps Communities](#mlops-communities) |
