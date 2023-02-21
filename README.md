@@ -64,6 +64,7 @@
 
 1. [MLOps Zoomcamp (free)](https://github.com/DataTalksClub/mlops-zoomcamp)
 2. [Coursera's Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+3. [Udacity Machine Learning DevOps Engineer](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821)
 
 
 <a name="mlops-books"></a>
