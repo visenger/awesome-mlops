@@ -3,7 +3,10 @@
 This section lists scientific and industrial papers about ML operalization since 2015.
 
 ## 2023
+
+1. **[Socio-Technical Anti-Patterns in Building ML-Enabled Software: Insights from Leaders on the Forefront](https://sws.informatik.uni-leipzig.de/wp-content/uploads/2023/01/socio-technical-anti-patterns-icse2023.pdf)** <br>
 1. **[Data Models for Dataset Drift Controls in Machine Learning With Images](https://github.com/aiaudit-org/raw2logit): [Paper](https://arxiv.org/abs/2211.02578) | [Code](https://github.com/aiaudit-org/raw2logit)**
+
 
 ## 2022
 
