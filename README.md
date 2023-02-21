@@ -4,6 +4,10 @@
 
 *An awesome list of references for MLOps - Machine Learning Operations :point_right: [ml-ops.org](https://ml-ops.org/)*
 
+![Women+ in Data and AI Summer Festival. 30th of June 2023. Berlin Radialsystem](WDAI-main.jpg)
+
+**Join us at the "Women+ in Data and AI Summer Festival". Featuring 100% female+ speakers. Everyone is welcome. June 30th at Berlin Radialsystem.  :point_right: [women-in-data-ai.tech](https://women-in-data-ai.tech)**
+
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/visenger?style=social)
 
