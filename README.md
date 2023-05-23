@@ -252,6 +252,7 @@
 1. [Feature Stores for Machine Learning Medium Blog](https://medium.com/data-for-ai)
 1. [MLOps with a Feature Store](https://www.logicalclocks.com/blog/mlops-with-a-feature-store)
 1. [Feature Stores for ML](http://featurestore.org/)
+1. [Featureform: Open-Source Feature Store and Orchestrator](https://github.com/featureform/featureform)
 1. [Hopsworks: Data-Intensive AI with a Feature Store](https://github.com/logicalclocks/hopsworks)
 1. [Feast: An open-source Feature Store for Machine Learning](https://github.com/feast-dev/feast)
 1. [What is a Feature Store?](https://www.tecton.ai/blog/what-is-a-feature-store/)
