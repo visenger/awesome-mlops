@@ -4,6 +4,7 @@ This section lists scientific and industrial papers about ML operalization since
 
 ## 2023
 
+1. **[Marius Schlegel, Kai-Uwe Sattler. "MLflow2PROV: Extracting Provenance from Machine Learning Experiments", 7th Workshop on Data Management for End-to-End Machine Learning (DEEM@SIGMOD '23), 2023.](https://dl.acm.org/doi/pdf/10.1145/3595360.3595859)** **([GitHub: MLflow2PROV](https://github.com/mariusschlegel/mlflow2prov))** <br>
 1. **[Socio-Technical Anti-Patterns in Building ML-Enabled Software: Insights from Leaders on the Forefront](https://sws.informatik.uni-leipzig.de/wp-content/uploads/2023/01/socio-technical-anti-patterns-icse2023.pdf)** <br>
 1. **[Data Models for Dataset Drift Controls in Machine Learning With Images](https://github.com/aiaudit-org/raw2logit): [Paper](https://arxiv.org/abs/2211.02578) | [Code](https://github.com/aiaudit-org/raw2logit)**
 
