@@ -329,9 +329,10 @@
 1. [Serverless ML: Deploying Lightweight Models at Scale](https://mark.douthwaite.io/serverless-machine-learning/)
 1. ML Model Rollout To Production. [Part 1](https://www.superwise.ai/resources-old/safely-rolling-out-ml-models-to-production) | [Part 2](https://www.superwise.ai/blog/part-ii-safely-rolling-out-models-to-production)
 1. [Deploying Python ML Models with Flask, Docker and Kubernetes](https://alexioannides.com/2019/01/10/deploying-python-ml-models-with-flask-docker-and-kubernetes/)
-1. [Deploying Python ML Models with Bodywork](https://alexioannides.com/2020/12/01/deploying-python-ml-models-with-bodywork/)
+1. [Deploying Python ML Models with Bodywork](https://alexioannides.com/2020/12/01/deploying-ml-models-with-bodywork/)
 1. [Framework for a successful Continuous Training Strategy. When should the model be retrained? What data should be used? What should be retrained? A data-driven approach](https://towardsdatascience.com/framework-for-a-successful-continuous-training-strategy-8c83d17bb9dc)
 1. [Efficient Machine Learning Inference. The benefits of multi-model serving where latency matters](https://www.oreilly.com/content/efficient-machine-learning-inference/)
+1. [Deploying Hugging Face ML Models in the Cloud with Infrastructure as Code](https://www.pulumi.com/blog/mlops-the-ai-challenge-is-cloud-not-code/)
 </details>
 
  
