@@ -378,7 +378,8 @@
 # MLOps: Infrastructure & Tooling
 <details>
 <summary>Click to expand!</summary>
- 
+
+1. [Organize Your Prompt Engineering With CometLLM](https://heartbeat.comet.ml/organize-your-prompt-engineering-with-cometllm-66e390ef6645)
 1. [MLOps Infrastructure Stack Canvas](https://miro.com/app/board/o9J_lfoc4Hg=/)
 1. [Rise of the Canonical Stack in Machine Learning. How a Dominant New Software Stack Will Unlock the Next Generation of Cutting Edge AI Apps](https://towardsdatascience.com/rise-of-the-canonical-stack-in-machine-learning-724e7d2faa75)
 1. [AI Infrastructure Alliance. Building the canonical stack for AI/ML](https://ai-infrastructure.org/)
