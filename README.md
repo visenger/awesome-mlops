@@ -47,6 +47,7 @@
 1. [ML full Stack preparation](https://www.confetti.ai/)
 1. [MLOps Guide: Theory and Implementation](https://mlops-guide.github.io/)
 1. [Practitioners guide to MLOps: A framework for continuous delivery and automation of machine learning.](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf)
+1. [MLOps maturity assessment](https://github.com/marvelousmlops/mlops_maturity_assessment)
 </details>
 
 
@@ -61,14 +62,16 @@
 1. [DataTalks.Club](https://datatalks.club/)
 1. [Synthetic Data Community](https://syntheticdata.community/)
 1. [MLOps World Community](https://www.mlopsworld.com)
+1. [Marvelous MLOps](https://www.linkedin.com/company/marvelous-mlops)
 </details>
 
 <a name="mlops-courses"></a>
 # MLOps Courses
 
 1. [MLOps Zoomcamp (free)](https://github.com/DataTalksClub/mlops-zoomcamp)
-2. [Coursera's Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
-3. [Udacity Machine Learning DevOps Engineer](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821)
+1. [Coursera's Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+1. [Udacity Machine Learning DevOps Engineer](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821)
+1. [Made with ML](https://madewithml.com/#course)
 
 
 <a name="mlops-books"></a>
@@ -396,6 +399,7 @@
 1. [AI infrastructure Maturity matrix](https://pages.run.ai/hubfs/PDFs/AI-Infrastructure-Maturity-Benchmarking-Model.pdf)
 1. [A Curated Collection of the Best Open-source MLOps Tools. By Censius](https://censius.ai/mlops-tools)
 1. [Best MLOps Tools to Manage the ML Lifecycle (by NimbleBox.ai)](https://nimblebox.ai/blog/mlops-tools)
+1. [The minimum set of must-haves for MLOps](https://marvelousmlops.substack.com/p/the-minimum-set-of-must-haves-for)
 </details>
 
 
@@ -682,6 +686,8 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 1. [Synced](https://syncedreview.com/)
 1. [The Ground Truth: Newsletter for Computer Vision Practitioners](https://info.superb-ai.com/ground-truth-newsletter-subscribe)
 1. [SwirlAI: Data Engineering, MLOps and overall Data focused Newsletter by Aurimas Griciūnas](https://swirlai.substack.com/)
+1. [Marvelous MLOps](https://marvelousmlops.substack.com)
+1. [Made with ML](https://madewithml.com/misc/newsletter/)
 </details>
  
 ![Twitter Follow](https://img.shields.io/twitter/follow/visenger?style=social)
