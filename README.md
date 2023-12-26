@@ -692,6 +692,7 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 1. [SwirlAI: Data Engineering, MLOps and overall Data focused Newsletter by Aurimas Griciūnas](https://swirlai.substack.com/)
 1. [Marvelous MLOps](https://marvelousmlops.substack.com)
 1. [Made with ML](https://madewithml.com/misc/newsletter/)
+1. [MLOps Insights Newsletter - 8 episodes covering topics like Model Feedback Vacuums, Deployment Reproducibility and Serverless in the context of MLOps](https://mlopsinsights.com/)
 </details>
  
 ![Twitter Follow](https://img.shields.io/twitter/follow/visenger?style=social)
