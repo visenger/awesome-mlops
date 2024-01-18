@@ -111,10 +111,8 @@
 1. [AI and Machine Learning for On-Device Development, 2021, By Laurence Moroney. O'Reilly](https://learning.oreilly.com/library/view/ai-and-machine/9781098101732/)
 1. [Designing Machine Learning Systems ,2022 by Chip Huyen , O'Reilly ](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 1. [Reliable Machine Learning. 2022. By Cathy Chen, Niall Richard Murphy, Kranti Parisa, D. Sculley, Todd Underwood. O'Reilly](https://learning.oreilly.com/library/view/reliable-machine-learning/9781098106218/)
-1. [MLOps Lifecycle Toolkit. 2023. By Dayne Sorvisto. Apress]
-(https://link.springer.com/book/10.1007/978-1-4842-9642-4)
-1. [Implementing MLOps in the Enterprise. 2023. By Yaron Haviv, Noah Gift. O'Reilly]
-(https://www.oreilly.com/library/view/implementing-mlops-in/9781098136574/)
+1. [MLOps Lifecycle Toolkit. 2023. By Dayne Sorvisto. Apress](https://link.springer.com/book/10.1007/978-1-4842-9642-4)
+1. [Implementing MLOps in the Enterprise. 2023. By Yaron Haviv, Noah Gift. O'Reilly](https://www.oreilly.com/library/view/implementing-mlops-in/9781098136574/)
 
 </details>
 
