@@ -318,6 +318,8 @@
 1. [Data Mesh Archtitecture](https://www.datamesh-architecture.com/)
 1. [The Essential Guide to Data Exploration in Machine Learning (by NimbleBox.ai)](https://nimblebox.ai/blog/data-exploration)
 1. [Finding millions of label errors with Cleanlab](https://datacentricai.org/blog/finding-millions-of-label-errors-with-cleanlab/)
+1. [DataKitchen Open Source Data Observability](https://docs.datakitchen.io/articles/?readerUiPreview=1#!open-source-data-observability/data-observability-overview) - End to end Data Journey Observability plus data profiling, anomaly detection, and auto created data quality validation tests.  With UI. Apache 2.0 license
+
 </details>
 
 
