@@ -243,6 +243,7 @@
 1. [Best MLOps Tools: What to Look for and How to Evaluate Them (by NimbleBox.ai)](https://nimblebox.ai/blog/mlops-tools)
 1. [MLOps vs. DevOps: A Detailed Comparison (by NimbleBox.ai)](https://nimblebox.ai/blog/mlops-vs-devops)
 1. [A Guide To Setting Up Your MLOps Team (by NimbleBox.ai)](https://nimblebox.ai/blog/mlops-team-structure)
+1. [MLOps Roadmap: A Complete MLOps Career Guide](https://www.scaler.com/blog/mlops-roadmap/)
 </details>
 
 
