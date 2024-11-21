@@ -6,9 +6,8 @@
 
 **Support my work [here](https://ko-fi.com/larysavisengeriyeva)**
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Dr. Larysa Visengeriyeva](https://www.linkedin.com/in/larysavisenger/)
+[Linkedin Dr. Larysa Visengeriyeva](https://www.linkedin.com/in/larysavisenger/)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/visenger?style=social)
 
 
 
