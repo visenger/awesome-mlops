@@ -4,7 +4,8 @@
 
 *An awesome list of references for MLOps - Machine Learning Operations :point_right: [ml-ops.org](https://ml-ops.org/)*
 
-**Support my work [here](https://ko-fi.com/larysavisengeriyeva)**
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B416E7UI)
+
 
 [Linkedin Dr. Larysa Visengeriyeva](https://www.linkedin.com/in/larysavisenger/)
 
@@ -694,4 +695,5 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 1. [MLOps Insights Newsletter - 8 episodes covering topics like Model Feedback Vacuums, Deployment Reproducibility and Serverless in the context of MLOps](https://mlopsinsights.com/)
 </details>
  
-![Twitter Follow](https://img.shields.io/twitter/follow/visenger?style=social)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B416E7UI)
+
