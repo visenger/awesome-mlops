@@ -73,6 +73,7 @@
 1. [Udacity Machine Learning DevOps Engineer](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821)
 1. [Made with ML](https://madewithml.com/#course)
 1. [Udacity LLMOps: Building Real-World Applications With Large Language Models](https://www.udacity.com/course/building-real-world-applications-with-large-language-models--cd13455)
+1. [DeepLearning.AI: Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/)
 
 
 <a name="mlops-books"></a>
