@@ -239,6 +239,7 @@
 1. [Best MLOps Tools: What to Look for and How to Evaluate Them (by NimbleBox.ai)](https://nimblebox.ai/blog/mlops-tools)
 1. [MLOps vs. DevOps: A Detailed Comparison (by NimbleBox.ai)](https://nimblebox.ai/blog/mlops-vs-devops)
 1. [A Guide To Setting Up Your MLOps Team (by NimbleBox.ai)](https://nimblebox.ai/blog/mlops-team-structure)
+1. [AI Observability: The Build vs. Buy Dilemma (Fiddler AI)](https://www.fiddler.ai/blog/ai-observability-the-build-vs-buy-dilemma)
 </details>
 
 
@@ -366,7 +367,7 @@
 1. [Production Machine Learning Monitoring: Outliers, Drift, Explainers & Statistical Performance](https://towardsdatascience.com/production-machine-learning-monitoring-outliers-drift-explainers-statistical-performance-d9b1d02ac158)
 1. Test-Driven Development in MLOps [Part 1](https://medium.com/mlops-community/test-driven-development-in-mlops-part-1-8894575f4dec)
 1. [Domain-Specific Machine Learning Monitoring](https://medium.com/mlops-community/domain-specific-machine-learning-monitoring-88bc0dd8a212)
-1. [Introducing ML Model Performance Management (Blog by fiddler)](https://blog.fiddler.ai/2021/03/introducing-ml-model-performance-management/)
+1. [Introducing ML Model Performance Management (Blog by Fiddler AI)](https://blog.fiddler.ai/2021/03/introducing-ml-model-performance-management/)
 1. [What is ML Observability? (Arize AI)](https://arize.com/what-is-ml-observability/)
 1. [Beyond Monitoring: The Rise of Observability (Arize AI & Monte Carlo Data)](https://arize.com/beyond-monitoring-the-rise-of-observability/)
 1. [Model Failure Modes (Arize AI)](https://arize.com/ml-model-failure-modes/)
@@ -380,6 +381,8 @@
 1. [How to Trust Your Deep Learning Code](https://krokotsch.eu/cleancode/2020/08/11/Unit-Tests-for-Deep-Learning.html) ([Accompanying code](https://github.com/tilman151/unittest_dl))
 1. [Estimating Performance of Regression Models Without Ground-Truth](https://bit.ly/medium-estimating-performance-regression) (Using [NannyML](https://bit.ly/ml-ops-nannyml))
 1. [How Hyperparameter Tuning in Machine Learning Works (by NimbleBox.ai)](https://nimblebox.ai/blog/hyperparameter-tuning-machine-learning)
+1. [Metrics vs. Inferences - which should you monitor? (Fiddler AI)](https://www.fiddler.ai/blog/should-enterprises-observe-metrics-or-inferences)
+1. [Drift in Machine Learning: How to Identify Issues Before You Have A Problem (Fiddler AI)](https://www.fiddler.ai/blog/drift-in-machine-learning-how-to-identify-issues-before-you-have-a-problem)
 </details>
 
 <a name="mlops-infra"></a>
@@ -404,6 +407,8 @@
 1. [A Curated Collection of the Best Open-source MLOps Tools. By Censius](https://censius.ai/mlops-tools)
 1. [Best MLOps Tools to Manage the ML Lifecycle (by NimbleBox.ai)](https://nimblebox.ai/blog/mlops-tools)
 1. [The minimum set of must-haves for MLOps](https://marvelousmlops.substack.com/p/the-minimum-set-of-must-haves-for)
+1. [Thinking Beyond OSS Tools for Model Monitoring (Fiddler AI)](https://www.fiddler.ai/blog/thinking-beyond-oss-tools-for-model-monitoring)
+1. [Evaluating the ROI of Explainability in AI (Fiddler AI)](https://www.fiddler.ai/blog/evaluating-the-roi-of-ai-explainability-tools)
 </details>
 
 
@@ -451,6 +456,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Databricks' Data + AI Summit 2022](https://databricks.com/dataaisummit/north-america-2022)
 1. [RE•WORK MLOps Summit 2022](https://www.re-work.co/events/mlops-summit-2022)
 1. [Annual MLOps World Conference](https://mlopsworld.com/)
+2. [AI Explained: Machine Learning For High Risk Applications (Fiddler AI)](https://www.youtube.com/watch?v=Qx1yV_xoNX8)
 </details>
 
 <a name="existing-ml-systems"></a>
@@ -534,7 +540,6 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Making Friends with Machine Learning. By Cassie Kozyrkov]()
 1. [Machine Learning Workflow - A Complete Guide (by NimbleBox.ai)](https://nimblebox.ai/blog/machine-learning-workflow)
 1. [Performance Metrics to Monitor in Machine Learning Projects (by NimbleBox.ai)](https://nimblebox.ai/blog/machine-learning-performance-metrics)
- 
 </details>
 
 
