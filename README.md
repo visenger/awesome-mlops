@@ -368,6 +368,7 @@
 1. [Domain-Specific Machine Learning Monitoring](https://medium.com/mlops-community/domain-specific-machine-learning-monitoring-88bc0dd8a212)
 1. [Introducing ML Model Performance Management (Blog by fiddler)](https://blog.fiddler.ai/2021/03/introducing-ml-model-performance-management/)
 1. [What is ML Observability? (Arize AI)](https://arize.com/what-is-ml-observability/)
+1. [From Zero to OTel: Architecting a Stateless Tracing SDK for GenAI (Maxim AI)](https://www.getmaxim.ai/blog/from-zero-to-otel-architecting-a-stateless-tracing-sdk-for-genai-part-1/)
 1. [Beyond Monitoring: The Rise of Observability (Arize AI & Monte Carlo Data)](https://arize.com/beyond-monitoring-the-rise-of-observability/)
 1. [Model Failure Modes (Arize AI)](https://arize.com/ml-model-failure-modes/)
 1. [Quick Start to Data Quality Monitoring for ML (Arize AI)](https://arize.com/data-quality-monitoring/)
