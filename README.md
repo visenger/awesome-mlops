@@ -48,6 +48,7 @@
 1. [MLOps Guide: Theory and Implementation](https://mlops-guide.github.io/)
 1. [Practitioners guide to MLOps: A framework for continuous delivery and automation of machine learning.](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf)
 1. [MLOps maturity assessment](https://github.com/marvelousmlops/mlops_maturity_assessment)
+1. [The Big Book of MLOps-databricks](https://blog.infocruncher.com/resources/ml-productionisation/The%20Big%20Book%20of%20MLOps%20(Databricks,%20v6,%202022).pdf)
 </details>
 
 
