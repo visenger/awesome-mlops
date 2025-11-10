@@ -110,6 +110,7 @@
 1. [Reliable Machine Learning. 2022. By Cathy Chen, Niall Richard Murphy, Kranti Parisa, D. Sculley, Todd Underwood. O'Reilly](https://learning.oreilly.com/library/view/reliable-machine-learning/9781098106218/)
 1. [MLOps Lifecycle Toolkit. 2023. By Dayne Sorvisto. Apress](https://link.springer.com/book/10.1007/978-1-4842-9642-4)
 1. [Implementing MLOps in the Enterprise. 2023. By Yaron Haviv, Noah Gift. O'Reilly](https://www.oreilly.com/library/view/implementing-mlops-in/9781098136574/)
+1. [AI Governance, 2025. By Yaron Haviv, By Engin Bozdag and Stefano Bennati. Manning](https://www.manning.com/books/ai-governance)
 
 </details>
 
