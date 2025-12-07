@@ -340,6 +340,7 @@
 1. [Framework for a successful Continuous Training Strategy. When should the model be retrained? What data should be used? What should be retrained? A data-driven approach](https://towardsdatascience.com/framework-for-a-successful-continuous-training-strategy-8c83d17bb9dc)
 1. [Efficient Machine Learning Inference. The benefits of multi-model serving where latency matters](https://www.oreilly.com/content/efficient-machine-learning-inference/)
 1. [Deploying Hugging Face ML Models in the Cloud with Infrastructure as Code](https://www.pulumi.com/blog/mlops-the-ai-challenge-is-cloud-not-code/)
+1. [GPU-based Horizontal Pod Autoscaling for Triton Inference Server](https://github.com/uzunenes/triton-server-hpa) - A guide for deploying NVIDIA Triton Inference Server on Kubernetes with HPA using GPU metrics (DCGM).
 </details>
 
  
