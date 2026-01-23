@@ -395,6 +395,7 @@
 1. [The MLOps Stack Template (by valohai)](https://valohai.com/blog/the-mlops-stack/)
 1. [Navigating the MLOps tooling landscape](https://ljvmiranda921.github.io/notebook/2021/05/10/navigating-the-mlops-landscape/)
 1. [MLOps.toys curated list of MLOps projects (by Aporia)](https://mlops.toys/)
+1. [Cordum](https://github.com/cordum-io/cordum) - Governance-first control plane for AI agents and external workers (policy-before-dispatch, approval gates, audit trails).
 1. [Comparing Cloud MLOps platforms, From a former AWS SageMaker PM](https://towardsdatascience.com/comparing-cloud-mlops-platform-from-a-former-aws-sagemaker-pm-115ced28239b)
 1. [Machine Learning Ecosystem 101 (whitepaper by Arize AI)](https://arize.com/wp-content/uploads/2021/04/Arize-AI-Ecosystem-White-Paper.pdf)
 1. [Selecting your optimal MLOps stack: advantages and challenges. By Intellerts](https://intellerts.com/selecting-your-optimal-mlops-stack-advantages-and-challenges/)
