@@ -396,6 +396,7 @@
 1. [Navigating the MLOps tooling landscape](https://ljvmiranda921.github.io/notebook/2021/05/10/navigating-the-mlops-landscape/)
 1. [MLOps.toys curated list of MLOps projects (by Aporia)](https://mlops.toys/)
 1. [Comparing Cloud MLOps platforms, From a former AWS SageMaker PM](https://towardsdatascience.com/comparing-cloud-mlops-platform-from-a-former-aws-sagemaker-pm-115ced28239b)
+1. [GPU Per Hour](https://gpuperhour.com) - Real-time GPU cloud price comparison across 30+ providers
 1. [Machine Learning Ecosystem 101 (whitepaper by Arize AI)](https://arize.com/wp-content/uploads/2021/04/Arize-AI-Ecosystem-White-Paper.pdf)
 1. [Selecting your optimal MLOps stack: advantages and challenges. By Intellerts](https://intellerts.com/selecting-your-optimal-mlops-stack-advantages-and-challenges/)
 1. [Infrastructure Design for Real-time Machine Learning Inference. The Databricks Blog](https://databricks.com/blog/2021/09/01/infrastructure-design-for-real-time-machine-learning-inference.html)
