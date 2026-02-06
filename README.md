@@ -347,7 +347,8 @@
 # MLOps: Testing, Monitoring and Maintenance
 <details>
 <summary>Click to expand!</summary>
- 
+
+1. [agentrial: the pytest for AI agents](https://github.com/alepot55/agentrial)
 1. [Building dashboards for operational visibility (AWS)](https://aws.amazon.com/builders-library/building-dashboards-for-operational-visibility/)
 1. [Monitoring Machine Learning Models in Production](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
 1. [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
