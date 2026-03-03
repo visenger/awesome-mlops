@@ -404,6 +404,7 @@
 1. [A Curated Collection of the Best Open-source MLOps Tools. By Censius](https://censius.ai/mlops-tools)
 1. [Best MLOps Tools to Manage the ML Lifecycle (by NimbleBox.ai)](https://nimblebox.ai/blog/mlops-tools)
 1. [The minimum set of must-haves for MLOps](https://marvelousmlops.substack.com/p/the-minimum-set-of-must-haves-for)
+1. [Deploybase - Track real-time GPU and LLM pricing across all cloud and inference providers](https://deploybase.ai/)
 </details>
 
 
