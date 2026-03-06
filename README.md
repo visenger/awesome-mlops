@@ -380,7 +380,7 @@
 1. [How to Trust Your Deep Learning Code](https://krokotsch.eu/cleancode/2020/08/11/Unit-Tests-for-Deep-Learning.html) ([Accompanying code](https://github.com/tilman151/unittest_dl))
 1. [Estimating Performance of Regression Models Without Ground-Truth](https://bit.ly/medium-estimating-performance-regression) (Using [NannyML](https://bit.ly/ml-ops-nannyml))
 1. [How Hyperparameter Tuning in Machine Learning Works (by NimbleBox.ai)](https://nimblebox.ai/blog/hyperparameter-tuning-machine-learning)
-1. [Agent-SRE: AI-Native Site Reliability Engineering Framework](https://github.com/imran-siddique/agent-sre) - SLI/SLO tracking, chaos testing, canary deployments, and automated incident response specifically designed for monitoring and maintaining AI agent systems in production.
+1. [Agent-SRE: AI-Native Site Reliability Engineering Framework](https://github.com/microsoft/agent-governance-toolkit) - SLI/SLO tracking, chaos testing, canary deployments, and automated incident response specifically designed for monitoring and maintaining AI agent systems in production.
 </details>
 
 <a name="mlops-infra"></a>
@@ -640,7 +640,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 
 This topic is extracted into our new [Awesome ML Model Governace repository](https://github.com/visenger/Awesome-ML-Model-Governance)
 
-See also: [Agent-Hypervisor](https://github.com/imran-siddique/agent-hypervisor) - Runtime supervisor for multi-agent AI systems with execution rings, joint liability (Shapley-value fault attribution), and saga orchestration for governing autonomous agent behavior in production.
+See also: [Agent-Hypervisor](https://github.com/microsoft/agent-governance-toolkit) - Runtime supervisor for multi-agent AI systems with execution rings, joint liability (Shapley-value fault attribution), and saga orchestration for governing autonomous agent behavior in production.
 
 
 <a name="teams"></a>
