@@ -380,6 +380,7 @@
 1. [How to Trust Your Deep Learning Code](https://krokotsch.eu/cleancode/2020/08/11/Unit-Tests-for-Deep-Learning.html) ([Accompanying code](https://github.com/tilman151/unittest_dl))
 1. [Estimating Performance of Regression Models Without Ground-Truth](https://bit.ly/medium-estimating-performance-regression) (Using [NannyML](https://bit.ly/ml-ops-nannyml))
 1. [How Hyperparameter Tuning in Machine Learning Works (by NimbleBox.ai)](https://nimblebox.ai/blog/hyperparameter-tuning-machine-learning)
+1. [shekel: Runtime budget guardrails for AI agents](https://github.com/arieradle/shekel) - Prevents runaway LLM spend caused by retries, tool loops, and long-running agents. Supports OpenAI, Anthropic, Gemini, LangChain, LangGraph, CrewAI, AutoGen, and more.
 </details>
 
 <a name="mlops-infra"></a>
