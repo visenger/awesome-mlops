@@ -27,6 +27,7 @@
 | [MLOps: People & Processes](#teams)|[Newsletters About MLOps, Machine Learning, Data Science and Co.](#newsletters)| 
 
 
+- [AI Weekly](https://aiweekly.co) - Curated AI intelligence briefing from industry leaders covering models, funding, policy, and applications. 3x/week since 2017, 40K+ subscribers.
 <a name="core-mlops"></a>
 # MLOps Core
 <details>
