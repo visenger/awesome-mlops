@@ -19,6 +19,8 @@
 | [MLOps Books](#mlops-books) | [MLOps Articles](#mlops-articles) |
 | [MLOps Workflow Management](#wfl-management)| [MLOps: Feature Stores](#feature-stores) | 
 |[MLOps: Data Engineering (DataOps)](#dataops) | [MLOps: Model Deployment and Serving](#deployment) |
+
+- [TabGAN](https://github.com/Diyago/Tabular-data-generation) - Synthetic tabular data generation using GANs, Diffusion Models, and LLMs with built-in privacy metrics and quality reports.
 | [MLOps: Testing, Monitoring and Maintenance](#testing-monintoring)| [MLOps: Infrastructure](#mlops-infra)| 
 |[MLOps Papers](#mlops-papers) | [Talks About MLOps](#talks-about-mlops) | 
 | [Existing ML Systems](#existing-ml-systems) | [Machine Learning](#machine-learning)|
