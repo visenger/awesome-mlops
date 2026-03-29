@@ -653,6 +653,7 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 1. [Technical Writing Courses](https://developers.google.com/tech-writing)
 1. [Building a data team at a mid-stage startup: a short story. By Erik Bernhardsson](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
 1. [The Cultural Benefits of Artificial Intelligence in the Enterprise. by Sam Ransbotham, François Candelon, David Kiron, Burt LaFountain, and Shervin Khodabandeh](https://web-assets.bcg.com/2a/d0/ebfb860a4e05aa9e4729b083da4b/the-cultural-benefits-of-artificial-intelligence-in-the-enterprise.pdf)
+1. -[GapSight](https://github.com/mmilovanovic87/gapsight)** - Open-source EU AI Act compliance for ML teams. Maps evaluation metrics to regulatory gaps (EU AI Act, NIST AI RMF, ISO 42001). GitHub Action generates compliance artifacts in CI/CD pipelines. Free, MIT license.
 </details>
 
 
