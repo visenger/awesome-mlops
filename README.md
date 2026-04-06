@@ -12,6 +12,7 @@
 
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49-agent AI orchestration system for Claude Code with task registry, quality gates, and automated agent delegation. Production MLOps patterns for multi-agent systems.
 # Table of Contents
 | <!-- -->                         | <!-- -->                         |
 | -------------------------------- | -------------------------------- |
