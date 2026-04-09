@@ -12,6 +12,7 @@
 
 
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=visenger_awesome-mlops) - Follow developers on GitHub and get a feed of what they star and build.
 # Table of Contents
 | <!-- -->                         | <!-- -->                         |
 | -------------------------------- | -------------------------------- |
