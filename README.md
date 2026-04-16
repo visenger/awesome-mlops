@@ -345,6 +345,9 @@
  
 <a name="testing-monintoring"></a> 
 # MLOps: Testing, Monitoring and Maintenance
+- [FutureAGI traceAI](https://github.com/future-agi/traceAI)
+- [FutureAGI futureagi-sdk](https://github.com/future-agi/futureagi-sdk)
+
 <details>
 <summary>Click to expand!</summary>
  
@@ -696,4 +699,3 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 </details>
  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B416E7UI)
-
