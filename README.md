@@ -120,6 +120,8 @@
 <summary>Click to expand!</summary>
  
 1. [Continuous Delivery for Machine Learning (by Thoughtworks)](https://martinfowler.com/articles/cd4ml.html)
+1. [The 4 Mistakes That Kill 80% of Enterprise AI Projects](https://hemangjoshi37a.github.io/hjLabs-AI-Engineering-Notes/01-four-mistakes-that-kill-enterprise-ai-projects/) - Audit framework for stalled LLM/GenAI projects. Covers eval harnesses with Ragas, observability, strict output schemas, and human-in-the-loop escalation.
+1. [Deploying Autonomous AI Agents in Production: A 2-Week Playbook](https://hemangjoshi37a.github.io/hjLabs-AI-Engineering-Notes/02-deploying-autonomous-ai-agents-in-production-2-week-playbook/) - Day-by-day deployment guide. JSON Schema strict mode, Qdrant binary quantization, Cohere Rerank, tiered fallbacks, SLOs.
 1. [What is MLOps? NVIDIA Blog](https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/)
 1. [MLSpec: A project to standardize the intercomponent schemas for a multi-stage ML Pipeline.](https://github.com/visenger/MLSpec)
 1. [The 2021 State of Enterprise Machine Learning](https://info.algorithmia.com/tt-state-of-ml-2021) | State of Enterprise ML 2020: [PDF](https://info.algorithmia.com/hubfs/2019/Whitepapers/The-State-of-Enterprise-ML-2020/Algorithmia_2020_State_of_Enterprise_ML.pdf) and [Interactive](https://algorithmia.com/state-of-ml)
