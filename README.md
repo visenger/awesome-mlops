@@ -404,6 +404,7 @@
 1. [A Curated Collection of the Best Open-source MLOps Tools. By Censius](https://censius.ai/mlops-tools)
 1. [Best MLOps Tools to Manage the ML Lifecycle (by NimbleBox.ai)](https://nimblebox.ai/blog/mlops-tools)
 1. [The minimum set of must-haves for MLOps](https://marvelousmlops.substack.com/p/the-minimum-set-of-must-haves-for)
+1. [KubeStellar Console: AI-powered multi-cluster Kubernetes dashboard](https://console.kubestellar.io) - Open source observability platform with GPU monitoring, benchmark streaming, LLM ops dashboards, and 20+ CNCF integrations. CNCF Sandbox project (Apache 2.0).
 </details>
 
 
