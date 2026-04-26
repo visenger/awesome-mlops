@@ -2,6 +2,10 @@
 
 This section lists scientific and industrial papers about ML operalization since 2015.
 
+## 2026
+
+1. **[Neeraj Kumar Singh. "GenOps: A Governance-First Architecture for Embedding Generative AI into CI/CD Pipelines", Journal of Information Systems Engineering and Management, 2026.](https://doi.org/10.52783/jisem.v11i1s.14322)** **([GitHub: genops-framework](https://github.com/neerazz/genops-framework))** <br>
+
 ## 2023
 
 1. **[Marius Schlegel, Kai-Uwe Sattler. "MLflow2PROV: Extracting Provenance from Machine Learning Experiments", 7th Workshop on Data Management for End-to-End Machine Learning (DEEM@SIGMOD '23), 2023.](https://dl.acm.org/doi/pdf/10.1145/3595360.3595859)** **([GitHub: MLflow2PROV](https://github.com/mariusschlegel/mlflow2prov))** <br>
