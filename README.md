@@ -404,6 +404,7 @@
 1. [A Curated Collection of the Best Open-source MLOps Tools. By Censius](https://censius.ai/mlops-tools)
 1. [Best MLOps Tools to Manage the ML Lifecycle (by NimbleBox.ai)](https://nimblebox.ai/blog/mlops-tools)
 1. [The minimum set of must-haves for MLOps](https://marvelousmlops.substack.com/p/the-minimum-set-of-must-haves-for)
+1. [Dakera](https://github.com/dakera-ai/dakera-mcp) - Self-hosted MCP-native agent memory server. HNSW vector search, RocksDB persistence, decay-weighted recall, and cross-agent knowledge sharing. Production-ready with Python, JavaScript, Rust, and Go SDKs.
 </details>
 
 
