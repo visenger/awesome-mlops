@@ -697,3 +697,5 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B416E7UI)
 
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time monitoring dashboard for OpenClaw AI agents. Track token usage, session status, and message trends.
