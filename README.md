@@ -380,6 +380,7 @@
 1. [How to Trust Your Deep Learning Code](https://krokotsch.eu/cleancode/2020/08/11/Unit-Tests-for-Deep-Learning.html) ([Accompanying code](https://github.com/tilman151/unittest_dl))
 1. [Estimating Performance of Regression Models Without Ground-Truth](https://bit.ly/medium-estimating-performance-regression) (Using [NannyML](https://bit.ly/ml-ops-nannyml))
 1. [How Hyperparameter Tuning in Machine Learning Works (by NimbleBox.ai)](https://nimblebox.ai/blog/hyperparameter-tuning-machine-learning)
+1. [APort Agent Guardrails](https://github.com/aporthq/aport-agent-guardrails) - Open-source pre-action authorization guardrails for AI agent tool calls and workflows.
 </details>
 
 <a name="mlops-infra"></a>
@@ -696,4 +697,3 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 </details>
  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B416E7UI)
-
