@@ -324,6 +324,7 @@
 <summary>Click to expand!</summary>
  
 1. [AI Infrastructure for Everyone: DeterminedAI](https://determined.ai/)
+1. [Inference Labs Quickstart: vendor-neutral LLM routing in production](https://inference-labs.com/quickstart.html)
 1. [Deploying R Models with MLflow and Docker](https://mdneuzerling.com/post/deploying-r-models-with-mlflow-and-docker/)
 1. [What Does it Mean to Deploy a Machine Learning Model?](https://mlinproduction.com/what-does-it-mean-to-deploy-a-machine-learning-model-deployment-series-01/)
 1. [Software Interfaces for Machine Learning Deployment](https://mlinproduction.com/software-interfaces-for-machine-learning-deployment-deployment-series-02/)
