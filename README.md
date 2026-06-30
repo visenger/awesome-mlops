@@ -14,7 +14,10 @@
 
 # Table of Contents
 | <!-- -->                         | <!-- -->                         |
-| -------------------------------- | -------------------------------- |
+| ---
+
+- [SuperCompress](https://github.com/arjunkshah/supercompress) - Open-source learned prompt compression for LLMs. Cuts ~65% of tokens before inference using a ~5K parameter CPU policy with 100% oracle recall. Check the live demo at https://supercompress.dev. pip install supercompress.
+----------------------------- | -------------------------------- |
 | [MLOps Core](#core-mlops) | [MLOps Communities](#mlops-communities) |
 | [MLOps Books](#mlops-books) | [MLOps Articles](#mlops-articles) |
 | [MLOps Workflow Management](#wfl-management)| [MLOps: Feature Stores](#feature-stores) | 
