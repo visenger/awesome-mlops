@@ -697,3 +697,5 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B416E7UI)
 
+## Tools & Platforms
+- [BDE Score™](https://github.com/hbhqq9/bde-score) - Open-source multi-factor stock analysis with EU AI Act Art.50 compliance labels. Covers US/HK/A-share markets with dynamic shields.io badges.
