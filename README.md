@@ -1,4 +1,4 @@
-# Awesome MLOps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges) 
+# Awesome MLOps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
 
 ![MLOps. You Desing It. Your Train It. You Run It.](awesome-mlops-intro.png)
 
@@ -17,21 +17,21 @@
 | -------------------------------- | -------------------------------- |
 | [MLOps Core](#core-mlops) | [MLOps Communities](#mlops-communities) |
 | [MLOps Books](#mlops-books) | [MLOps Articles](#mlops-articles) |
-| [MLOps Workflow Management](#wfl-management)| [MLOps: Feature Stores](#feature-stores) | 
+| [MLOps Workflow Management](#wfl-management)| [MLOps: Feature Stores](#feature-stores) |
 |[MLOps: Data Engineering (DataOps)](#dataops) | [MLOps: Model Deployment and Serving](#deployment) |
-| [MLOps: Testing, Monitoring and Maintenance](#testing-monintoring)| [MLOps: Infrastructure](#mlops-infra)| 
-|[MLOps Papers](#mlops-papers) | [Talks About MLOps](#talks-about-mlops) | 
+| [MLOps: Testing, Monitoring and Maintenance](#testing-monintoring)| [MLOps: Infrastructure](#mlops-infra)|
+|[MLOps Papers](#mlops-papers) | [Talks About MLOps](#talks-about-mlops) |
 | [Existing ML Systems](#existing-ml-systems) | [Machine Learning](#machine-learning)|
-| [Software Engineering](#software-engineering) | [Product Management for ML/AI](#product-management-for-mlai) | 
-| [The Economics of ML/AI](#the-economics-of-mlai) | [Model Governance, Ethics, Responsible AI](#ml-governance) | 
-| [MLOps: People & Processes](#teams)|[Newsletters About MLOps, Machine Learning, Data Science and Co.](#newsletters)| 
+| [Software Engineering](#software-engineering) | [Product Management for ML/AI](#product-management-for-mlai) |
+| [The Economics of ML/AI](#the-economics-of-mlai) | [Model Governance, Ethics, Responsible AI](#ml-governance) |
+| [MLOps: People & Processes](#teams)|[Newsletters About MLOps, Machine Learning, Data Science and Co.](#newsletters)|
 
 
 <a name="core-mlops"></a>
 # MLOps Core
 <details>
 <summary>Click to expand!</summary>
- 
+
 1. [Machine Learning Operations: You Design It, You Train It, You Run It!](https://ml-ops.org/)
 1. [MLOps SIG Specification](https://github.com/tdcox/mlops-roadmap/blob/master/MLOpsRoadmap2020.md)
 1. [ML in Production](http://mlinproduction.com/)
@@ -80,11 +80,11 @@
 
 <details>
 <summary>Click to expand!</summary>
- 
+
 1. [“Machine Learning Engineering” by Andriy Burkov, 2020](http://www.mlebook.com/wiki/doku.php?id=start)
 1. ["ML Ops: Operationalizing Data Science" by David Sweenor, Steven Hillion, Dan Rope, Dev Kannabiran, Thomas Hill, Michael O'Connell](https://learning.oreilly.com/library/view/ml-ops-operationalizing/9781492074663/)
 1. ["Building Machine Learning Powered Applications" by Emmanuel Ameisen](https://learning.oreilly.com/library/view/building-machine-learning/9781492045106/)
-1. ["Building Machine Learning Pipelines" by Hannes Hapke, Catherine Nelson, 2020, O’Reilly](https://learning.oreilly.com/library/view/building-machine-learning/9781492053187/) 
+1. ["Building Machine Learning Pipelines" by Hannes Hapke, Catherine Nelson, 2020, O’Reilly](https://learning.oreilly.com/library/view/building-machine-learning/9781492053187/)
 1. ["Managing Data Science" by Kirill Dubovikov](https://www.packtpub.com/eu/data/managing-data-science)
 1. ["Accelerated DevOps with AI, ML & RPA: Non-Programmer's Guide to AIOPS & MLOPS" by Stephen Fleming](https://www.amazon.com/Accelerated-DevOps-AI-RPA-Non-Programmers-ebook/dp/B07ZMJCJRS)
 1. ["Evaluating Machine Learning Models" by Alice Zheng](https://learning.oreilly.com/library/view/evaluating-machine-learning/9781492048756/)
@@ -118,7 +118,7 @@
 
 <details>
 <summary>Click to expand!</summary>
- 
+
 1. [Continuous Delivery for Machine Learning (by Thoughtworks)](https://martinfowler.com/articles/cd4ml.html)
 1. [What is MLOps? NVIDIA Blog](https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/)
 1. [MLSpec: A project to standardize the intercomponent schemas for a multi-stage ML Pipeline.](https://github.com/visenger/MLSpec)
@@ -145,7 +145,7 @@
 1. [AI meets operations](https://www.oreilly.com/radar/ai-meets-operations/)
 1. [What would machine learning look like if you mixed in DevOps? Wonder no more, we lift the lid on MLOps](https://www.theregister.co.uk/2020/03/07/devops_machine_learning_mlops/)
 1. [Forbes: The Emergence Of ML Ops](https://www.forbes.com/sites/cognitiveworld/2020/03/08/the-emergence-of-ml-ops/#72f04ed04698)
-1. [Cognilytica Report "ML Model Management and Operations 2020 (MLOps)"](https://www.cognilytica.com/2020/03/03/ml-model-management-and-operations-2020-mlops/) 
+1. [Cognilytica Report "ML Model Management and Operations 2020 (MLOps)"](https://www.cognilytica.com/2020/03/03/ml-model-management-and-operations-2020-mlops/)
 1. [Introducing Cloud AI Platform Pipelines](https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-ai-platform-pipelines)
 1. [A Guide to Production Level Deep Learning ](https://github.com/alirezadir/Production-Level-Deep-Learning/blob/master/README.md)
 1. [The 5 Components Towards Building Production-Ready Machine Learning Systems](https://medium.com/cracking-the-data-science-interview/the-5-components-towards-building-production-ready-machine-learning-system-a4d5237ec04e)
@@ -211,9 +211,9 @@
 1. [Data Science Engineering at Shopify](https://shopify.engineering/topics/data-science-engineering)
 1. [Building state-of-the-art machine learning technology with efficient execution for the crypto economy](https://blog.coinbase.com/building-state-of-the-art-machine-learning-technology-with-efficient-execution-for-the-crypto-ad10896a48a)
 1. [Completing the Machine Learning Loop](https://jimmymwhitaker.medium.com/completing-the-machine-learning-loop-e03c784eaab4)
-1. [Deploying Machine Learning Models: A Checklist](https://twolodzko.github.io/ml-checklist) 
+1. [Deploying Machine Learning Models: A Checklist](https://twolodzko.github.io/ml-checklist)
 1. [Global MLOps and ML tools landscape (by MLReef)](https://about.mlreef.com/blog/global-mlops-and-ml-tools-landscape)
-1. [Why all Data Science teams need to get serious about MLOps](https://towardsdatascience.com/why-data-science-teams-needs-to-get-serious-about-mlops-56c98e255e20)  
+1. [Why all Data Science teams need to get serious about MLOps](https://towardsdatascience.com/why-data-science-teams-needs-to-get-serious-about-mlops-56c98e255e20)
 1. [MLOps Values (by Bart Grasza)](https://gist.github.com/bartgras/4ab9c716167b5d9aee6a222f7301ac60)
 1. [Machine Learning Systems Design (by Chip Huyen)](https://huyenchip.com/machine-learning-systems-design/toc.html)
 1. [Designing an ML system (Stanford | CS 329 | Chip Huyen)](https://docs.google.com/presentation/d/13a5B2HeK9Id59zy3oNJDv5_ksDvzbGmNLx4zumkimZM/edit?usp=sharing)
@@ -255,7 +255,7 @@
 
 <details>
 <summary>Click to expand!</summary>
- 
+
 1. [Feature Stores for Machine Learning Medium Blog](https://medium.com/data-for-ai)
 1. [MLOps with a Feature Store](https://www.logicalclocks.com/blog/mlops-with-a-feature-store)
 1. [Feature Stores for ML](http://featurestore.org/)
@@ -273,15 +273,15 @@
 1. [The Architecture Used at LinkedIn to Improve Feature Management in Machine Learning Models.](https://jrodthoughts.medium.com/the-architecture-used-at-linkedin-to-improve-feature-management-in-machine-learning-models-c7bd6ae54db)
 1. [Is There a Feature Store Over the Rainbow? How to select the right feature store for your use case](https://towardsdatascience.com/is-there-a-feature-store-over-the-rainbow-291cab94e8a5)
 </details>
- 
+
 <a name="dataops"></a>
 # MLOps: Data Engineering (DataOps)
 
 <details>
 <summary>Click to expand!</summary>
- 
+
 1. [The state of data quality in 2020 – O’Reilly](https://www.oreilly.com/radar/the-state-of-data-quality-in-2020/)
-1. [Why We Need DevOps for ML Data](https://tecton.ai/blog/devops-ml-data/) 
+1. [Why We Need DevOps for ML Data](https://tecton.ai/blog/devops-ml-data/)
 1. [Data Preparation for Machine Learning (7-Day Mini-Course)](https://machinelearningmastery.com/data-preparation-for-machine-learning-7-day-mini-course/)
 1. [Best practices in data cleaning: A Complete Guide to Everything You Need to Do Before and After Collecting Your Data.](https://www.researchgate.net/publication/266714997_Best_practices_in_data_cleaning_A_Complete_Guide_to_Everything_You_Need_to_Do_Before_and_After_Collecting_Your_Data)
 1. [17 Strategies for Dealing with Data, Big Data, and Even Bigger Data](https://towardsdatascience.com/17-strategies-for-dealing-with-data-big-data-and-even-bigger-data-283426c7d260)
@@ -318,11 +318,11 @@
 
 
 
-<a name="deployment"></a> 
+<a name="deployment"></a>
 # MLOps: Model Deployment and Serving
 <details>
 <summary>Click to expand!</summary>
- 
+
 1. [AI Infrastructure for Everyone: DeterminedAI](https://determined.ai/)
 1. [Deploying R Models with MLflow and Docker](https://mdneuzerling.com/post/deploying-r-models-with-mlflow-and-docker/)
 1. [What Does it Mean to Deploy a Machine Learning Model?](https://mlinproduction.com/what-does-it-mean-to-deploy-a-machine-learning-model-deployment-series-01/)
@@ -342,12 +342,12 @@
 1. [Deploying Hugging Face ML Models in the Cloud with Infrastructure as Code](https://www.pulumi.com/blog/mlops-the-ai-challenge-is-cloud-not-code/)
 </details>
 
- 
-<a name="testing-monintoring"></a> 
+
+<a name="testing-monintoring"></a>
 # MLOps: Testing, Monitoring and Maintenance
 <details>
 <summary>Click to expand!</summary>
- 
+
 1. [Building dashboards for operational visibility (AWS)](https://aws.amazon.com/builders-library/building-dashboards-for-operational-visibility/)
 1. [Monitoring Machine Learning Models in Production](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
 1. [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
@@ -386,7 +386,7 @@
 # MLOps: Infrastructure & Tooling
 <details>
 <summary>Click to expand!</summary>
- 
+
 1. [MLOps Infrastructure Stack Canvas](https://miro.com/app/board/o9J_lfoc4Hg=/)
 1. [Rise of the Canonical Stack in Machine Learning. How a Dominant New Software Stack Will Unlock the Next Generation of Cutting Edge AI Apps](https://towardsdatascience.com/rise-of-the-canonical-stack-in-machine-learning-724e7d2faa75)
 1. [AI Infrastructure Alliance. Building the canonical stack for AI/ML](https://ai-infrastructure.org/)
@@ -417,7 +417,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 # Talks About MLOps
 <details>
 <summary>Click to expand!</summary>
- 
+
 1. ["MLOps: Automated Machine Learning" by Emmanuel Raj](https://www.youtube.com/watch?v=m32k9jcY4pY)
 1. [DeliveryConf 2020. "Continuous Delivery For Machine Learning: Patterns And Pains" by Emily Gorcenski](https://youtu.be/bFW5mZmj0nQ)
 1. [MLOps Conference: Talks from 2019](https://www.mlopsconf.com?wix-vod-comp-id=comp-k1ry4afh)
@@ -457,7 +457,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 # Existing ML Systems
 <details>
 <summary>Click to expand!</summary>
- 
+
 1. [Introducing FBLearner Flow: Facebook’s AI backbone](https://engineering.fb.com/ml-applications/introducing-fblearner-flow-facebook-s-ai-backbone/)
 1. [TFX: A TensorFlow-Based Production-Scale Machine Learning Platform](https://dl.acm.org/doi/pdf/10.1145/3097983.3098021?download=true)
 1. [Accelerate your ML and Data workflows to production: Flyte](https://flyte.org/)
@@ -480,10 +480,10 @@ A list of scientific and industrial papers and resources about Machine Learning 
 </details>
 
 <a name="machine-learning"></a>
-# Machine Learning 
+# Machine Learning
 <details>
 <summary>Click to expand!</summary>
- 
+
 1. Book, Aurélien Géron,"Hands-On Machine Learning with Scikit-Learn and TensorFlow"
 1. [Foundations of Machine Learning](https://bloomberg.github.io/foml/)
 1. [Best Resources to Learn Machine Learning](http://www.trainindatablog.com/best-resources-to-learn-machine-learning/)
@@ -497,7 +497,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Deep Learning for Anomaly Detection](https://ff12.fastforwardlabs.com/)
 1. [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/pdf/1811.03604.pdf)
 1. [Federated Learning. Building better products with on-device data and privacy on default](https://federated.withgoogle.com/)
-1. [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) 
+1. [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
 1. [Yang, Q., Liu, Y., Cheng, Y., Kang, Y., Chen, T. and Yu, H., 2019. Federated learning. Synthesis Lectures on Artificial Intelligence and Machine Learning, 13(3). Chapters 1 and 2.](https://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781681736983_sample.pdf)
 1. [Federated Learning by FastForward](https://federated.fastforwardlabs.com/)
 1. [THE FEDERATED & DISTRIBUTED MACHINE LEARNING CONFERENCE](https://www.federatedlearningconference.com/)
@@ -534,7 +534,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 1. [Making Friends with Machine Learning. By Cassie Kozyrkov]()
 1. [Machine Learning Workflow - A Complete Guide (by NimbleBox.ai)](https://nimblebox.ai/blog/machine-learning-workflow)
 1. [Performance Metrics to Monitor in Machine Learning Projects (by NimbleBox.ai)](https://nimblebox.ai/blog/machine-learning-performance-metrics)
- 
+
 </details>
 
 
@@ -545,7 +545,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 # Software Engineering
 <details>
 <summary>Click to expand!</summary>
- 
+
 1. [The Twelve Factors](https://12factor.net/)
 1. [Book "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations", 2018 by Nicole Forsgren et.al](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 1. [Book "The DevOps Handbook" by Gene Kim, et al. 2016](https://itrevolution.com/book/the-devops-handbook/)
@@ -564,13 +564,13 @@ A list of scientific and industrial papers and resources about Machine Learning 
 # Product Management for ML/AI
 <details>
 <summary>Click to expand!</summary>
- 
+
 1. [What you need to know about product management for AI. A product manager for AI does everything a traditional PM does, and much more.](https://www.oreilly.com/radar/what-you-need-to-know-about-product-management-for-ai/)
 1. [Bringing an AI Product to Market. Previous articles have gone through the basics of AI product management. Here we get to the meat: how do you bring a product to market?](https://www.oreilly.com/radar/bringing-an-ai-product-to-market/)
 1. [The People + AI Guidebook](https://pair.withgoogle.com/guidebook/)
 1. [User Needs + Defining Success](https://pair.withgoogle.com/chapter/user-needs/)
 1. [Building machine learning products: a problem well-defined is a problem half-solved.](https://www.jeremyjordan.me/ml-requirements/)
-1. [Talk: Designing Great ML Experiences (Apple)](https://developer.apple.com/videos/play/wwdc2019/803/) 
+1. [Talk: Designing Great ML Experiences (Apple)](https://developer.apple.com/videos/play/wwdc2019/803/)
 1. [Machine Learning for Product Managers](http://nlathia.github.io/2017/03/Machine-Learning-for-Product-Managers.html)
 1. [Understanding the Data Landscape and Strategic Play Through Wardley Mapping](https://ergestx.com/data-landscape-wardley-mapping/)
 1. [Techniques for prototyping machine learning systems across products and features](https://design.google/library/simulating-intelligence/)
@@ -586,7 +586,7 @@ A list of scientific and industrial papers and resources about Machine Learning 
 # The Economics of ML/AI
 <details>
 <summary>Click to expand!</summary>
- 
+
 1. [Book: "Prediction Machines: The Simple Economics of Artificial Intelligence"](https://www.predictionmachines.ai/)
 1. [Book: "The AI Organization" by David Carmona](https://learning.oreilly.com/library/view/the-ai-organization/9781492057369/)
 1. [Book: "Succeeding with AI". 2020. By Veljko Krunic. Manning Publications](https://learning.oreilly.com/library/view/succeeding-with-ai/9781617296932/)
@@ -644,9 +644,9 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 # MLOps: People & Processes
 <details>
 <summary>Click to expand!</summary>
- 
+
 1. [Scaling An ML Team (0–10 People)](https://medium.com/aquarium-learning/scaling-an-ml-team-0-10-people-ae024f3a89f3)
-1. [The Knowledge Repo project is focused on facilitating the sharing of knowledge between data scientists and other technical roles.](https://github.com/airbnb/knowledge-repo) 
+1. [The Knowledge Repo project is focused on facilitating the sharing of knowledge between data scientists and other technical roles.](https://github.com/airbnb/knowledge-repo)
 1. [Scaling Knowledge at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091)
 1. [Models for integrating data science teams within companies A comparative analysis](https://djpardis.medium.com/models-for-integrating-data-science-teams-within-organizations-7c5afa032ebd)
 1. [How to Write Better with The Why, What, How Framework. How to write design documents for data science/machine learning projects? (by Eugene Yan)](https://eugeneyan.com/writing/writing-docs-why-what-how/)
@@ -660,7 +660,7 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 # Newsletters About MLOps, Machine Learning, Data Science and Co.
 <details>
 <summary>Click to expand!</summary>
- 
+
 1. [ML in Production newsletter](https://mlinproduction.com/machine-learning-newsletter/)
 1. [MLOps.community](https://mlops.community/)
 1. [Andriy Burkov newsletter](https://www.linkedin.com/pulse/artificial-intelligence-33-andriy-burkov/)
@@ -686,7 +686,7 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 1. [DataTalks.Club Community: Slack, Newsletter, Podcast, Weeekly Events](https://datatalks.club/)
 1. [Machine Learning Ops Roundup](https://mlopsroundup.substack.com/)
 1. [Data Science Programming Newsletter by Eric Ma](https://dspn.substack.com/)
-1. [Marginally Interesting by Mikio L. Braun](https://www.getrevue.co/profile/mikiobraun) 
+1. [Marginally Interesting by Mikio L. Braun](https://www.getrevue.co/profile/mikiobraun)
 1. [Synced](https://syncedreview.com/)
 1. [The Ground Truth: Newsletter for Computer Vision Practitioners](https://info.superb-ai.com/ground-truth-newsletter-subscribe)
 1. [SwirlAI: Data Engineering, MLOps and overall Data focused Newsletter by Aurimas Griciūnas](https://swirlai.substack.com/)
@@ -694,6 +694,6 @@ This topic is extracted into our new [Awesome ML Model Governace repository](htt
 1. [Made with ML](https://madewithml.com/misc/newsletter/)
 1. [MLOps Insights Newsletter - 8 episodes covering topics like Model Feedback Vacuums, Deployment Reproducibility and Serverless in the context of MLOps](https://mlopsinsights.com/)
 </details>
- 
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B416E7UI)
 
