@@ -382,7 +382,11 @@
 1. [How Hyperparameter Tuning in Machine Learning Works (by NimbleBox.ai)](https://nimblebox.ai/blog/hyperparameter-tuning-machine-learning)
 </details>
 
+1. [findcheck](https://github.com/patchwright/finding-declaration) — JSON Schema + validator for experiment FINDINGS (hypothesis verdicts: CONFIRMED/PARTIAL/REFUTED/INCONCLUSIVE/UNDECIDABLE); the verdict layer MLflow/W&B don't cover. `pip install findcheck`.
+
 <a name="mlops-infra"></a>
+
+
 # MLOps: Infrastructure & Tooling
 <details>
 <summary>Click to expand!</summary>
