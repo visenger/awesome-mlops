@@ -236,6 +236,7 @@
 1. [Should I Train a Model for Each Customer or Use One Model for All of My Customers?](https://towardsdatascience.com/should-i-train-a-model-for-each-customer-or-use-one-model-for-all-of-my-customers-f9e8734d991)
 1. [MLOps-Basics (GitHub repo)](https://github.com/graviraja/MLOps-Basics) by [raviraja](https://github.com/graviraja)
 1. [Another tool won’t fix your MLOps problems](https://dshersh.medium.com/too-many-mlops-tools-c590430ba81b)
+1. [We Tested Headroom on a Real Agentic Workflow: 85.9k Tokens Saved (by Kelriva AI)](https://kelriva.ai/insights/headroom-llm-token-compression-test)
 1. [Best MLOps Tools: What to Look for and How to Evaluate Them (by NimbleBox.ai)](https://nimblebox.ai/blog/mlops-tools)
 1. [MLOps vs. DevOps: A Detailed Comparison (by NimbleBox.ai)](https://nimblebox.ai/blog/mlops-vs-devops)
 1. [A Guide To Setting Up Your MLOps Team (by NimbleBox.ai)](https://nimblebox.ai/blog/mlops-team-structure)
