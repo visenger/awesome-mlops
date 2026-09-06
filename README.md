@@ -63,6 +63,7 @@
 1. [Synthetic Data Community](https://syntheticdata.community/)
 1. [MLOps World Community](https://www.mlopsworld.com)
 1. [Marvelous MLOps](https://www.linkedin.com/company/marvelous-mlops)
+1. [Informatiqs](https://www.linkedin.com/company/informatiqs1)
 </details>
 
 <a name="mlops-courses"></a>
