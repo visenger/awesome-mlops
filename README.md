@@ -73,6 +73,7 @@
 1. [Udacity Machine Learning DevOps Engineer](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821)
 1. [Made with ML](https://madewithml.com/#course)
 1. [Udacity LLMOps: Building Real-World Applications With Large Language Models](https://www.udacity.com/course/building-real-world-applications-with-large-language-models--cd13455)
+1. [Wyrcan Engineering Roadmap: 12-Stage Practitioner Curriculum (free)](https://github.com/Wyrcan-io/roadmap)
 
 
 <a name="mlops-books"></a>
