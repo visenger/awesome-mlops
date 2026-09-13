@@ -395,6 +395,7 @@
 1. [The MLOps Stack Template (by valohai)](https://valohai.com/blog/the-mlops-stack/)
 1. [Navigating the MLOps tooling landscape](https://ljvmiranda921.github.io/notebook/2021/05/10/navigating-the-mlops-landscape/)
 1. [MLOps.toys curated list of MLOps projects (by Aporia)](https://mlops.toys/)
+1. [FACF](https://github.com/Cloud-Computing-Oy/facf) - open protocol and reference broker for federating idle GPU capacity across independently operated compute nodes into a policy-controlled inference network
 1. [Comparing Cloud MLOps platforms, From a former AWS SageMaker PM](https://towardsdatascience.com/comparing-cloud-mlops-platform-from-a-former-aws-sagemaker-pm-115ced28239b)
 1. [Machine Learning Ecosystem 101 (whitepaper by Arize AI)](https://arize.com/wp-content/uploads/2021/04/Arize-AI-Ecosystem-White-Paper.pdf)
 1. [Selecting your optimal MLOps stack: advantages and challenges. By Intellerts](https://intellerts.com/selecting-your-optimal-mlops-stack-advantages-and-challenges/)
