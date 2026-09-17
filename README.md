@@ -272,6 +272,7 @@
 1. [Feature Stores for Self-Service Machine Learning](https://www.ethanrosenthal.com/2021/02/03/feature-stores-self-service/)
 1. [The Architecture Used at LinkedIn to Improve Feature Management in Machine Learning Models.](https://jrodthoughts.medium.com/the-architecture-used-at-linkedin-to-improve-feature-management-in-machine-learning-models-c7bd6ae54db)
 1. [Is There a Feature Store Over the Rainbow? How to select the right feature store for your use case](https://towardsdatascience.com/is-there-a-feature-store-over-the-rainbow-291cab94e8a5)
+1. [Pixeltable: Declarative Multimodal AI Data Engine & Feature Store](https://github.com/pixeltable/pixeltable)
 </details>
  
 <a name="dataops"></a>
