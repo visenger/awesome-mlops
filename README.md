@@ -380,6 +380,7 @@
 1. [How to Trust Your Deep Learning Code](https://krokotsch.eu/cleancode/2020/08/11/Unit-Tests-for-Deep-Learning.html) ([Accompanying code](https://github.com/tilman151/unittest_dl))
 1. [Estimating Performance of Regression Models Without Ground-Truth](https://bit.ly/medium-estimating-performance-regression) (Using [NannyML](https://bit.ly/ml-ops-nannyml))
 1. [How Hyperparameter Tuning in Machine Learning Works (by NimbleBox.ai)](https://nimblebox.ai/blog/hyperparameter-tuning-machine-learning)
+1. [EcoTrace](https://github.com/Zwony/ecotrace) - High-precision, process-scoped energy and CO2 emissions measurement for ML training and Python workloads. Reads from hardware counters (Intel RAPL, NVML, Apple Silicon). Native LangChain and HuggingFace Trainer callbacks, 100% offline.
 </details>
 
 <a name="mlops-infra"></a>
