@@ -380,6 +380,7 @@
 1. [How to Trust Your Deep Learning Code](https://krokotsch.eu/cleancode/2020/08/11/Unit-Tests-for-Deep-Learning.html) ([Accompanying code](https://github.com/tilman151/unittest_dl))
 1. [Estimating Performance of Regression Models Without Ground-Truth](https://bit.ly/medium-estimating-performance-regression) (Using [NannyML](https://bit.ly/ml-ops-nannyml))
 1. [How Hyperparameter Tuning in Machine Learning Works (by NimbleBox.ai)](https://nimblebox.ai/blog/hyperparameter-tuning-machine-learning)
+1. [EvalCheck](https://github.com/Junghwan0516/evalcheck) — Local CLI and browser auditor for scoped notebook evaluation-risk patterns and train/test text overlap, with source-line/row evidence and HTML, JSON and code SARIF exports. MIT; early-stage. [Interactive demo](https://junghwan0516.github.io/evalcheck/).
 </details>
 
 <a name="mlops-infra"></a>
